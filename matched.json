@@ -1,0 +1,1451 @@
+[
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147440011&ref_=nav_em__sft_women_0_2_12_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147441011&ref_=nav_em__sft_men_0_2_12_4",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=9479199011&ref_=nav_em__sft_luggage_0_2_12_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=9538491011&ref_=nav_em__sft_sales_0_2_12_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=21213464011&ref_=nav_em__ammerch_fash_0_2_12_15",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em__afs_aaf_0_2_13_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16310231&ref_=nav_em__afs_bev_0_2_13_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16318751&ref_=nav_em__afs_bb_0_2_13_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=371460011&ref_=nav_em__afs_dce_0_2_13_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=6459122011&ref_=nav_em__afs_ff_0_2_13_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=371469011&ref_=nav_em__afs_ms_0_2_13_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=18773724011&ref_=nav_em__afs_pm_0_2_13_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16322721&ref_=nav_em__afs_sf_0_2_13_10",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=15342811&ref_=nav_em__afs_hc_0_2_13_13",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/l/?bbn=10329849011&node=13904808011&ref_=nav_em__afs_fd_0_2_13_15",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_navm_whole_foods_storefront_0_2_14_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=465600&ref_=nav_em__tb_t3_0_2_15_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2625373011&ref_=nav_em__mov_0_2_16_2",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5174&ref_=nav_em__cd_vinyl_0_2_16_5",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_16_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=468642&ref_=nav_em__cvg_0_2_16_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172282&ref_=nav_em__elec_mw_hub_0_2_17_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1266092011&ref_=nav_em__tv_0_2_17_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=667846011&ref_=nav_em__hat_0_2_17_10",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=468642&ref_=nav_em__mw_cvg_0_2_17_12",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172456&ref_=nav_em__compaccess_0_2_18_4",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172504&ref_=nav_em__networking_0_2_18_5",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1292110011&ref_=nav_em__storage_0_2_18_6",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=193870011&ref_=nav_em__components_0_2_18_7",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172635&ref_=nav_em__printers_0_2_18_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1064954&ref_=nav_em__op_0_2_18_10",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1055398&ref_=nav_em_home_amazonhome_0_2_20_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3610841&ref_=nav_em_home_storageandorg_0_2_20_13",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2617941011&ref_=nav_em__sch_0_2_20_17",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=328182011&ref_=nav_em__hi_0_2_20_22",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3754161&ref_=nav_em__kbf_0_2_20_24",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6563140011&ref_=nav_em__homaut_0_2_20_27",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975312011&ref_=nav_em__sd_dg_0_2_21_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975241011&ref_=nav_em__sd_ct_0_2_21_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16310101&ref_=nav_em__gro_0_2_22_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em_fresh_0_2_22_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_wholefoods_0_2_22_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_22_6",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760911&ref_=nav_em__bty_0_2_23_2",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=14717647011&ref_=nav_em__pro_skin_0_2_23_4",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760901&ref_=nav_em__health_household_baby_0_2_23_7",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3764441&ref_=nav_em__vds_0_2_23_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_23_10",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760901&ref_=nav_em__H_HH_T2_0_2_23_14",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15342811&ref_=nav_em__HH_T2_0_2_23_16",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760941&ref_=nav_em__HC_T2_0_2_23_17",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6973663011&ref_=nav_em__SN_T2_0_2_23_18",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10787321&ref_=nav_em__BC_T2_0_2_23_19",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3775161&ref_=nav_em__MSE_T2_0_2_23_20",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10079996011&ref_=nav_em__HW_T2_0_2_23_21",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=165793011&ref_=nav_em__tg_0_2_24_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=165796011&ref_=nav_em__ba_0_2_24_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=166764011&ref_=nav_em__baby_diapers_0_2_24_4",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=471306&ref_=nav_em__cvg_0_2_24_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3375251&ref_=nav_em__sa_sp_allsport_0_2_26_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=706814011&ref_=nav_em__sa_sp_outrec_0_2_26_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3412851&ref_=nav_em__sa_sp_hunt_0_2_26_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3408951&ref_=nav_em__sa_sp_fish_0_2_26_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3403201&ref_=nav_em__sa_sp_ride_0_2_26_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3407731&ref_=nav_em__sa_sp_exfit_0_2_26_7",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10971181011&ref_=nav_em__sa_sp_team_0_2_26_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3410851&ref_=nav_em__sa_sp_golf_0_2_26_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=706808011&ref_=nav_em__sa_sp_gamerm_0_2_26_10",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10805321&ref_=nav_em__sa_sp_deals_0_2_26_13",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15684181&ref_=nav_em__apa_0_2_27_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15706941&ref_=nav_em__ate_0_2_27_3",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=346333011&ref_=nav_em__matv_0_2_27_6",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2258019011&ref_=nav_em__ate_0_2_27_7",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16310091&ref_=nav_em__biss_0_2_28_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8297370011&ref_=nav_em__bissmd_0_2_28_3",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6054382011&ref_=nav_em__bisschef_0_2_28_4",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']",
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=13882974011&ref_=nav_em__bissedu_0_2_28_5",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=21543524011&ref_=nav_em__bissmro_0_2_28_6",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7141123011&ref_=nav_em__sft_0_2_12_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147440011&ref_=nav_em__sft_women_0_2_12_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147441011&ref_=nav_em__sft_men_0_2_12_4",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=9479199011&ref_=nav_em__sft_luggage_0_2_12_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=9538491011&ref_=nav_em__sft_sales_0_2_12_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=21213464011&ref_=nav_em__ammerch_fash_0_2_12_15",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em__afs_aaf_0_2_13_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16310231&ref_=nav_em__afs_bev_0_2_13_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16318751&ref_=nav_em__afs_bb_0_2_13_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=371460011&ref_=nav_em__afs_dce_0_2_13_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=6459122011&ref_=nav_em__afs_ff_0_2_13_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=371469011&ref_=nav_em__afs_ms_0_2_13_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=18773724011&ref_=nav_em__afs_pm_0_2_13_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16322721&ref_=nav_em__afs_sf_0_2_13_10",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=15342811&ref_=nav_em__afs_hc_0_2_13_13",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/l/?bbn=10329849011&node=13904808011&ref_=nav_em__afs_fd_0_2_13_15",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_navm_whole_foods_storefront_0_2_14_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=465600&ref_=nav_em__tb_t3_0_2_15_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2625373011&ref_=nav_em__mov_0_2_16_2",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5174&ref_=nav_em__cd_vinyl_0_2_16_5",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_16_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=468642&ref_=nav_em__cvg_0_2_16_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172282&ref_=nav_em__elec_mw_hub_0_2_17_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1266092011&ref_=nav_em__tv_0_2_17_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=667846011&ref_=nav_em__hat_0_2_17_10",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=468642&ref_=nav_em__mw_cvg_0_2_17_12",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172456&ref_=nav_em__compaccess_0_2_18_4",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172504&ref_=nav_em__networking_0_2_18_5",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1292110011&ref_=nav_em__storage_0_2_18_6",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=193870011&ref_=nav_em__components_0_2_18_7",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172635&ref_=nav_em__printers_0_2_18_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1064954&ref_=nav_em__op_0_2_18_10",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1055398&ref_=nav_em_home_amazonhome_0_2_20_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3610841&ref_=nav_em_home_storageandorg_0_2_20_13",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2617941011&ref_=nav_em__sch_0_2_20_17",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=328182011&ref_=nav_em__hi_0_2_20_22",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3754161&ref_=nav_em__kbf_0_2_20_24",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975312011&ref_=nav_em__sd_dg_0_2_21_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975241011&ref_=nav_em__sd_ct_0_2_21_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16310101&ref_=nav_em__gro_0_2_22_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em_fresh_0_2_22_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_wholefoods_0_2_22_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_22_6",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760911&ref_=nav_em__bty_0_2_23_2",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=14717647011&ref_=nav_em__pro_skin_0_2_23_4",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760901&ref_=nav_em__health_household_baby_0_2_23_7",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3764441&ref_=nav_em__vds_0_2_23_8",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_23_10",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760901&ref_=nav_em__H_HH_T2_0_2_23_14",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15342811&ref_=nav_em__HH_T2_0_2_23_16",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3760941&ref_=nav_em__HC_T2_0_2_23_17",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6973663011&ref_=nav_em__SN_T2_0_2_23_18",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10787321&ref_=nav_em__BC_T2_0_2_23_19",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3775161&ref_=nav_em__MSE_T2_0_2_23_20",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10079996011&ref_=nav_em__HW_T2_0_2_23_21",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=165793011&ref_=nav_em__tg_0_2_24_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=165796011&ref_=nav_em__ba_0_2_24_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=166764011&ref_=nav_em__baby_diapers_0_2_24_4",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=471306&ref_=nav_em__cvg_0_2_24_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3375251&ref_=nav_em__sa_sp_allsport_0_2_26_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=706814011&ref_=nav_em__sa_sp_outrec_0_2_26_3",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3412851&ref_=nav_em__sa_sp_hunt_0_2_26_4",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3408951&ref_=nav_em__sa_sp_fish_0_2_26_5",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3403201&ref_=nav_em__sa_sp_ride_0_2_26_6",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3407731&ref_=nav_em__sa_sp_exfit_0_2_26_7",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10971181011&ref_=nav_em__sa_sp_team_0_2_26_8",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3410851&ref_=nav_em__sa_sp_golf_0_2_26_9",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=706808011&ref_=nav_em__sa_sp_gamerm_0_2_26_10",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=10805321&ref_=nav_em__sa_sp_deals_0_2_26_13",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15684181&ref_=nav_em__apa_0_2_27_2",
+        "matched_selectors": [
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15706941&ref_=nav_em__ate_0_2_27_3",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=346333011&ref_=nav_em__matv_0_2_27_6",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2258019011&ref_=nav_em__ate_0_2_27_7",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16310091&ref_=nav_em__biss_0_2_28_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage'] img[alt*='Shop by Category']",
+            "[class*='sl-sobe-carousel-sub-card-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8297370011&ref_=nav_em__bissmd_0_2_28_3",
+        "matched_selectors": [
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6054382011&ref_=nav_em__bisschef_0_2_28_4",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']",
+            "[class*='octopus-pc-category-card-v2-category-link']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=13882974011&ref_=nav_em__bissedu_0_2_28_5",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=21543524011&ref_=nav_em__bissmro_0_2_28_6",
+        "matched_selectors": [
+            "[class*='bxcGridOverlayLink']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147442011&ref_=nav_em__sft_girls_0_2_12_5",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147443011&ref_=nav_em__sft_boys_0_2_12_6",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147444011&ref_=nav_em__sft_baby_0_2_12_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/thedrop?ref_=nav_em_0_2_12_10",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16334314011&ref_=nav_em__OurBrands_0_2_12_13",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16318981&ref_=nav_em__afs_fr_0_2_13_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16319281&ref_=nav_em__afs_vg_0_2_13_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=283155&ref_=nav_em__bo_t3_0_2_15_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/hz/audible/mlp?ref_=nav_em_aud_mem_t3_0_2_15_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/Audible-Books-and-Originals/b/?node=18145289011&ref_=nav_em_0_2_15_7",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=668781011&ref_=nav_em__student_t3_0_2_15_17",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2901953011&ref_=nav_em__blu_0_2_16_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=163856011&ref_=nav_em__dmusic_0_2_16_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=11091801&ref_=nav_em__mi_0_2_16_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8588809011&ref_=nav_em__pcgaming41516_0_2_16_10",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=979455011&ref_=nav_em__gdown_0_2_16_11",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=5088769011&ref_=nav_em__entcol_0_2_16_12",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172574&ref_=nav_em_Office Electronics_0_2_17_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=502394&ref_=nav_em__p_0_2_17_8",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=9013937011&ref_=nav_em_wear_tech_0_2_17_9",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=11091801&ref_=nav_em__mi_ce_0_2_17_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=229534&ref_=nav_em__mw_sw_0_2_17_13",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__basedevices_0_2_18_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1292115011&ref_=nav_em__monitors_0_2_18_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=229534&ref_=nav_em__sw_0_2_18_9",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=14544458011&ref_=nav_em_home_shopbyroom_0_2_20_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/registries?ref_=nav_em_ham_home_registry_giftlist_0_2_20_5",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1063278&ref_=nav_em_home_homedecor_0_2_20_6",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1063306&ref_=nav_em__furn_0_2_20_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=284507&ref_=nav_em__ki_0_2_20_8",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=1057792&ref_=nav_em__bb_0_2_20_9",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2972638011&ref_=nav_em__lp_0_2_20_10",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3732961&ref_=nav_em_home_mattresses_0_2_20_11",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=495224&ref_=nav_em_home_lighting_0_2_20_12",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2619525011&ref_=nav_em__ha_0_2_20_14",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=4991425011&ref_=nav_em__collectibles_fine_art_0_2_20_16",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=901590&ref_=nav_em__ep_0_2_20_18",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=228013&ref_=nav_em__hi2_0_2_20_21",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=495224&ref_=nav_em__llf_0_2_20_23",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=289814&ref_=nav_em__cookware_0_2_20_25",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975359011&ref_=nav_em__sd_df_0_2_21_4",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975265011&ref_=nav_em__sd_ctfd_0_2_21_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975446011&ref_=nav_em__sd_fish_0_2_21_7",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975520011&ref_=nav_em__sd_sa_0_2_21_8",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2975221011&ref_=nav_em__sd_bird_0_2_21_9",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=19097785011&ref_=nav_em_omps_gno_dt_0_2_22_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7175545011&ref_=nav_em__luxury_bty_0_2_23_3",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=14760453011&ref_=nav_em__salon_spa_0_2_23_5",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=6682399011&ref_=nav_em__men_grooming_0_2_23_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8514636011&ref_=nav_em__elements_0_2_23_12",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/registries?ref_=nav_em_ham_toys_baby_registry_giftlist_0_2_24_5",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/cr/forteens?ref_=nav_em_TDEP_0_2_24_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8514636011&ref_=nav_em__elements_baby_0_2_24_8",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147442011&ref_=nav_em__toys_girls_0_2_24_10",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147443011&ref_=nav_em__toys_boys_0_2_24_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147444011&ref_=nav_em__toys_baby_0_2_24_12",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/teenshop?ref_=nav_em_TDEP_0_2_24_13",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=120955898011&ref_=nav_em__HM_Home_0_2_25_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=3250697011&ref_=nav_em__sa_sp_sptcllct_0_2_26_12",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=15706571&ref_=nav_em__wt_0_2_27_5",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/your-garage/?ref_=nav_em_au_pf_as_GNO_0_2_27_8",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147442011&ref_=nav_em__sft_girls_0_2_12_5",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147443011&ref_=nav_em__sft_boys_0_2_12_6",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=7147444011&ref_=nav_em__sft_baby_0_2_12_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/thedrop?ref_=nav_em_0_2_12_10",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=16334314011&ref_=nav_em__OurBrands_0_2_12_13",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16318981&ref_=nav_em__afs_fr_0_2_13_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/b?bbn=10329849011&node=16319281&ref_=nav_em__afs_vg_0_2_13_11",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=283155&ref_=nav_em__bo_t3_0_2_15_2",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/hz/audible/mlp?ref_=nav_em_aud_mem_t3_0_2_15_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/Audible-Books-and-Originals/b/?node=18145289011&ref_=nav_em_0_2_15_7",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=163856011&ref_=nav_em__dmusic_0_2_16_6",
+        "matched_selectors": [
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=11091801&ref_=nav_em__mi_0_2_16_7",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a",
+            "[class*='nav-fullWidthSubnavFlyout nav-flyout']"
+        ]
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=8588809011&ref_=nav_em__pcgaming41516_0_2_16_10",
+        "matched_selectors": [
+            "[class*='bxcGridImage']>a"
+        ]
+    }
+]

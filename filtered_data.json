@@ -1,0 +1,2062 @@
+[
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Amazon Fashion",
+        "href": "/gp/browse.html?node=7141123011&ref_=nav_em__sft_0_2_12_2"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Women",
+        "href": "/gp/browse.html?node=7147440011&ref_=nav_em__sft_women_0_2_12_3"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Men",
+        "href": "/gp/browse.html?node=7147441011&ref_=nav_em__sft_men_0_2_12_4"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Girls",
+        "href": "/gp/browse.html?node=7147442011&ref_=nav_em__sft_girls_0_2_12_5"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Boys",
+        "href": "/gp/browse.html?node=7147443011&ref_=nav_em__sft_boys_0_2_12_6"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=7147444011&ref_=nav_em__sft_baby_0_2_12_7"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Luggage",
+        "href": "/gp/browse.html?node=9479199011&ref_=nav_em__sft_luggage_0_2_12_8"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Luxury Stores",
+        "href": "/luxurystores?ref_=nav_em_luxury_sbd_hamb_0_2_12_9"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "The Drop",
+        "href": "https://www.amazon.com/thedrop?ref_=nav_em_0_2_12_10"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Sales &amp; Deals",
+        "href": "/gp/browse.html?node=9538491011&ref_=nav_em__sft_sales_0_2_12_11"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Our Brands",
+        "href": "/gp/browse.html?node=16334314011&ref_=nav_em__OurBrands_0_2_12_13"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "The Shop by Shopbop",
+        "href": "/stores/page/135F2992-CF34-468F-B67F-101F73A197E3?ref_=nav_em__shopbop_0_2_12_14"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Artist Merch Shop",
+        "href": "/gp/browse.html?node=21213464011&ref_=nav_em__ammerch_fash_0_2_12_15"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "All Amazon Fresh",
+        "href": "/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em__afs_aaf_0_2_13_2"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Beverages",
+        "href": "/b?bbn=10329849011&node=16310231&ref_=nav_em__afs_bev_0_2_13_3"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Breads &amp; Bakery",
+        "href": "/b?bbn=10329849011&node=16318751&ref_=nav_em__afs_bb_0_2_13_4"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Dairy, Cheese &amp; Eggs",
+        "href": "/b?bbn=10329849011&node=371460011&ref_=nav_em__afs_dce_0_2_13_5"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Frozen Foods",
+        "href": "/b?bbn=10329849011&node=6459122011&ref_=nav_em__afs_ff_0_2_13_6"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Fruits",
+        "href": "/b?bbn=10329849011&node=16318981&ref_=nav_em__afs_fr_0_2_13_7"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Meat &amp; Seafood",
+        "href": "/b?bbn=10329849011&node=371469011&ref_=nav_em__afs_ms_0_2_13_8"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Prepared Meals",
+        "href": "/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=18773724011&ref_=nav_em__afs_pm_0_2_13_9"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Snack Foods",
+        "href": "/b?bbn=10329849011&node=16322721&ref_=nav_em__afs_sf_0_2_13_10"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Vegetables",
+        "href": "/b?bbn=10329849011&node=16319281&ref_=nav_em__afs_vg_0_2_13_11"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Household, Health &amp; Beauty",
+        "href": "/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=3760901&ref_=nav_em__afs_hpc_0_2_13_12"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Household &amp; Cleaning",
+        "href": "/b?bbn=10329849011&node=15342811&ref_=nav_em__afs_hc_0_2_13_13"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Past Purchases",
+        "href": "/afx/lists/pastpurchases?ref_=nav_em__afs_pp_0_2_13_14"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Fresh Savings",
+        "href": "/l/?bbn=10329849011&node=13904808011&ref_=nav_em__afs_fd_0_2_13_15"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Grocery Lists",
+        "href": "/alexaquantum/sp/alexaShoppingList?ref_=nav_em__afs_gl_0_2_13_16"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Local Market",
+        "href": "/b?bbn=10329849011&node=14762495011&ref_=nav_em__afs_nhs_0_2_13_17"
+    },
+    {
+        "parent_category": "Whole Foods Market",
+        "sub_category_name": "Explore Whole Foods Market",
+        "href": "/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_navm_whole_foods_storefront_0_2_14_2"
+    },
+    {
+        "parent_category": "Whole Foods Market",
+        "sub_category_name": "Whole Foods Market Catering",
+        "href": "/alm/storefront?almBrandId=aNHVc2Akvg&ref_=nav_em_navm_wfmct_storefront_0_2_14_4"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Books",
+        "href": "/gp/browse.html?node=283155&ref_=nav_em__bo_t3_0_2_15_2"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Children's Books",
+        "href": "/gp/browse.html?node=4&ref_=nav_em__cbo_t3_0_2_15_3"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Textbooks",
+        "href": "/gp/browse.html?node=465600&ref_=nav_em__tb_t3_0_2_15_4"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Audible Membership",
+        "href": "/hz/audible/mlp?ref_=nav_em_aud_mem_t3_0_2_15_6"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Audible Books &amp; Originals",
+        "href": "/Audible-Books-and-Originals/b/?node=18145289011&ref_=nav_em_0_2_15_7"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Books",
+        "href": "/gp/browse.html?node=1286228011&ref_=nav_em__k_kbo_t3_0_2_15_9"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Unlimited",
+        "href": "/gp/kindle/ku/sign-up/ui/rw/about?ref_=nav_em__ods_books_con_ku_t3_0_2_15_10"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Prime Reading",
+        "href": "/kindle-dbs/fd/prime-pr?ref_=nav_em__ods_eink_con_pr_t3_0_2_15_11"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Vella",
+        "href": "/kindle-vella?ref_=nav_em__vla_dt_gw_hm_db_0_2_15_12"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Amazon Book Clubs",
+        "href": "/amazonbookclubs?ref_=nav_em_abc_hmenu_0_2_15_14"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Comics &amp; Graphic Novels\n",
+        "href": "/gp/browse.html?node=156104011&ref_=nav_em__comicsgraphic_0_2_15_15"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Magazines",
+        "href": "/gp/browse.html?node=599858&ref_=nav_em__magazines_t3_0_2_15_16"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Prime Student",
+        "href": "/gp/browse.html?node=668781011&ref_=nav_em__student_t3_0_2_15_17"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Whispersync for Voice",
+        "href": "/gp/browse.html?node=5744819011&ref_=nav_em_aud_wfv_t3_0_2_15_18"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "AbeBooks.com",
+        "href": "/gp/browse.html?node=2056775011&ref_=nav_em__abebooks_t3_0_2_15_19"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Movies &amp; TV",
+        "href": "/gp/browse.html?node=2625373011&ref_=nav_em__mov_0_2_16_2"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Blu-ray",
+        "href": "/gp/browse.html?node=2901953011&ref_=nav_em__blu_0_2_16_3"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Prime Video - Included with Prime",
+        "href": "/gp/browse.html?node=2858778011&ref_=nav_em__atv_0_2_16_4"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "CDs &amp; Vinyl",
+        "href": "/gp/browse.html?node=5174&ref_=nav_em__cd_vinyl_0_2_16_5"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Digital Music",
+        "href": "/gp/browse.html?node=163856011&ref_=nav_em__dmusic_0_2_16_6"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Musical Instruments",
+        "href": "/gp/browse.html?node=11091801&ref_=nav_em__mi_0_2_16_7"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Headphones",
+        "href": "/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_16_8"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Video Games",
+        "href": "/gp/browse.html?node=468642&ref_=nav_em__cvg_0_2_16_9"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "PC Gaming",
+        "href": "/gp/browse.html?node=8588809011&ref_=nav_em__pcgaming41516_0_2_16_10"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Digital Games",
+        "href": "/gp/browse.html?node=979455011&ref_=nav_em__gdown_0_2_16_11"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Entertainment Collectibles",
+        "href": "/gp/browse.html?node=5088769011&ref_=nav_em__entcol_0_2_16_12"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Trade In Video Games",
+        "href": "/gp/browse.html?node=2242532011&ref_=nav_em__trade_in_mmg_0_2_16_13"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Electronics Showcase",
+        "href": "/gp/browse.html?node=172282&ref_=nav_em__elec_mw_hub_0_2_17_2"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Cell Phones &amp; Accessories",
+        "href": "/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Computers",
+        "href": "/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "TV &amp; Video",
+        "href": "/gp/browse.html?node=1266092011&ref_=nav_em__tv_0_2_17_5"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Headphones",
+        "href": "/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Office Electronics",
+        "href": "/gp/browse.html?node=172574&ref_=nav_em_Office Electronics_0_2_17_7"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Camera, Photo &amp; Video",
+        "href": "/gp/browse.html?node=502394&ref_=nav_em__p_0_2_17_8"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Wearable Technology",
+        "href": "/gp/browse.html?node=9013937011&ref_=nav_em_wear_tech_0_2_17_9"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Home Audio &amp; Theater",
+        "href": "/gp/browse.html?node=667846011&ref_=nav_em__hat_0_2_17_10"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Musical Instruments",
+        "href": "/gp/browse.html?node=11091801&ref_=nav_em__mi_ce_0_2_17_11"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Video Games",
+        "href": "/gp/browse.html?node=468642&ref_=nav_em__mw_cvg_0_2_17_12"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Software",
+        "href": "/gp/browse.html?node=229534&ref_=nav_em__mw_sw_0_2_17_13"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Amazon Renewed",
+        "href": "/gp/browse.html?node=17881058011&ref_=nav_em_nav_cerenewed_0_2_17_14"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Computers, Tablets, &amp; PC Products",
+        "href": "/gp/browse.html?node=541966&ref_=nav_em__basedevices_0_2_18_2"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Monitors",
+        "href": "/gp/browse.html?node=1292115011&ref_=nav_em__monitors_0_2_18_3"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Accessories",
+        "href": "/gp/browse.html?node=172456&ref_=nav_em__compaccess_0_2_18_4"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": " Networking ",
+        "href": "/gp/browse.html?node=172504&ref_=nav_em__networking_0_2_18_5"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Drives &amp; Storage",
+        "href": "/gp/browse.html?node=1292110011&ref_=nav_em__storage_0_2_18_6"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Computer Parts &amp; Components",
+        "href": "/gp/browse.html?node=193870011&ref_=nav_em__components_0_2_18_7"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Printers &amp; Ink",
+        "href": "/gp/browse.html?node=172635&ref_=nav_em__printers_0_2_18_8"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Software",
+        "href": "/gp/browse.html?node=229534&ref_=nav_em__sw_0_2_18_9"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Office &amp; School Supplies",
+        "href": "/gp/browse.html?node=1064954&ref_=nav_em__op_0_2_18_10"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Trade In Your Electronics",
+        "href": "/gp/browse.html?node=2226766011&ref_=nav_em__trade_in_elec_0_2_18_11"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Amazon Smart Home",
+        "href": "/gp/browse.html?node=6563140011&ref_=nav_em_amazon_smart_home_0_2_19_2"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Works with Alexa Devices",
+        "href": "/gp/browse.html?node=73846268011&ref_=nav_em__ods_ha_vicc_ee_0_2_19_3"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Smart Home Lighting",
+        "href": "/gp/browse.html?node=21217035011&ref_=nav_em_sh_lighting_0_2_19_4"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Smart Locks and Entry",
+        "href": "/gp/browse.html?node=21216824011&ref_=nav_em_sh_locks-entry_0_2_19_5"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Security Cameras and Systems",
+        "href": "/gp/browse.html?node=21217033011&ref_=nav_em_sh_security-cameras-systems_0_2_19_6"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Plugs and Outlets",
+        "href": "/gp/browse.html?node=21217037011&ref_=nav_em_sh_plugs-outlets_0_2_19_7"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "New Smart Devices",
+        "href": "/gp/browse.html?node=19185106011&ref_=nav_em_sh_new-devices_0_2_19_8"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Heating and Cooling",
+        "href": "/gp/browse.html?node=21217041011&ref_=nav_em_sh_heating-cooling_0_2_19_9"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Detectors and Sensors",
+        "href": "/gp/browse.html?node=21217048011&ref_=nav_em_sh_detectors-sensors_0_2_19_10"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Home Entertainment",
+        "href": "/gp/browse.html?node=21216826011&ref_=nav_em_sh_home-entertainment_0_2_19_11"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Pet",
+        "href": "/gp/browse.html?node=21221447011&ref_=nav_em_sh_pet_0_2_19_12"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Voice Assistants and Hubs",
+        "href": "/gp/browse.html?node=21216812011&ref_=nav_em_sh_voice-assistants-hubs_0_2_19_13"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Kitchen",
+        "href": "/gp/browse.html?node=21217039011&ref_=nav_em_sh_kitchen_0_2_19_14"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Vacuums and Mops",
+        "href": "/gp/browse.html?node=21217038011&ref_=nav_em_sh_vacuums-mops_0_2_19_15"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Lawn and Garden",
+        "href": "/gp/browse.html?node=21217056011&ref_=nav_em_sh_lawn-garden_0_2_19_16"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "WIFI and Networking",
+        "href": "/gp/browse.html?node=21217028011&ref_=nav_em_sh_wifi-networking_0_2_19_17"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Other Solutions",
+        "href": "/gp/browse.html?node=21217060011&ref_=nav_em_sh_other_0_2_19_18"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Home",
+        "href": "/gp/browse.html?node=1055398&ref_=nav_em_home_amazonhome_0_2_20_2"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Shop by Room",
+        "href": "/gp/browse.html?node=14544458011&ref_=nav_em_home_shopbyroom_0_2_20_3"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Discover",
+        "href": "/discover?ref_=nav_em_home_sbl_0_2_20_4"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Registry &amp; Gift List",
+        "href": "/registries?ref_=nav_em_ham_home_registry_giftlist_0_2_20_5"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Home Décor",
+        "href": "/gp/browse.html?node=1063278&ref_=nav_em_home_homedecor_0_2_20_6"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Furniture",
+        "href": "/gp/browse.html?node=1063306&ref_=nav_em__furn_0_2_20_7"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Kitchen &amp; Dining",
+        "href": "/gp/browse.html?node=284507&ref_=nav_em__ki_0_2_20_8"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Bed &amp; Bath",
+        "href": "/gp/browse.html?node=1057792&ref_=nav_em__bb_0_2_20_9"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Garden &amp; Outdoor",
+        "href": "/gp/browse.html?node=2972638011&ref_=nav_em__lp_0_2_20_10"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Mattresses",
+        "href": "/gp/browse.html?node=3732961&ref_=nav_em_home_mattresses_0_2_20_11"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Lighting ",
+        "href": "/gp/browse.html?node=495224&ref_=nav_em_home_lighting_0_2_20_12"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Storage &amp; Organization",
+        "href": "/gp/browse.html?node=3610841&ref_=nav_em_home_storageandorg_0_2_20_13"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Appliances",
+        "href": "/gp/browse.html?node=2619525011&ref_=nav_em__ha_0_2_20_14"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Fine Art",
+        "href": "/gp/browse.html?node=6685269011&ref_=nav_em__fine_art_0_2_20_15"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Collectibles &amp; Fine Art",
+        "href": "/gp/browse.html?node=4991425011&ref_=nav_em__collectibles_fine_art_0_2_20_16"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Arts, Crafts &amp; Sewing",
+        "href": "/gp/browse.html?node=2617941011&ref_=nav_em__sch_0_2_20_17"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Event &amp; Party Supplies",
+        "href": "/gp/browse.html?node=901590&ref_=nav_em__ep_0_2_20_18"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Explore Paint Finder",
+        "href": "/paintfinder?ref_=nav_em_hm_menu_pf_0_2_20_20"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Home Improvement",
+        "href": "/gp/browse.html?node=228013&ref_=nav_em__hi2_0_2_20_21"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Power &amp; Hand Tools",
+        "href": "/gp/browse.html?node=328182011&ref_=nav_em__hi_0_2_20_22"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Lamps &amp; Light Fixtures",
+        "href": "/gp/browse.html?node=495224&ref_=nav_em__llf_0_2_20_23"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Kitchen &amp; Bath Fixtures",
+        "href": "/gp/browse.html?node=3754161&ref_=nav_em__kbf_0_2_20_24"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Cookware",
+        "href": "/gp/browse.html?node=289814&ref_=nav_em__cookware_0_2_20_25"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Hardware",
+        "href": "/gp/browse.html?node=511228&ref_=nav_em__hdw_0_2_20_26"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Smart Home",
+        "href": "/gp/browse.html?node=6563140011&ref_=nav_em__homaut_0_2_20_27"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Basics",
+        "href": "/stores/AmazonBasics/page/947C6949-CF8E-4BD3-914A-B411DD3E4433?channel=hamburg&ref_=nav_em_home_amazonbasics_0_2_20_29"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Pinzon",
+        "href": "/stores/node/20605033011?channel=hamburg&ref_=nav_em_0_2_20_30"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Rivet",
+        "href": "/stores/node/7633572011?channel=hamburg&ref_=nav_em_0_2_20_31"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Stone &amp; Beam",
+        "href": "/stores/node/17384727011?channel=hamburg&ref_=nav_em_0_2_20_32"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Launchpad",
+        "href": "/gp/browse.html?node=12034488011&ref_=nav_em_home_launchpad_0_2_20_33"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Pet Profiles",
+        "href": "/yourpets?ref_=nav_em__directory_pet_profiles_0_2_21_2"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Dog Supplies",
+        "href": "/gp/browse.html?node=2975312011&ref_=nav_em__sd_dg_0_2_21_3"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Dog Food",
+        "href": "/gp/browse.html?node=2975359011&ref_=nav_em__sd_df_0_2_21_4"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Cat Supplies",
+        "href": "/gp/browse.html?node=2975241011&ref_=nav_em__sd_ct_0_2_21_5"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Cat Food",
+        "href": "/gp/browse.html?node=2975265011&ref_=nav_em__sd_ctfd_0_2_21_6"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Fish &amp; Aquatic Pets",
+        "href": "/gp/browse.html?node=2975446011&ref_=nav_em__sd_fish_0_2_21_7"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Small Animals",
+        "href": "/gp/browse.html?node=2975520011&ref_=nav_em__sd_sa_0_2_21_8"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Birds",
+        "href": "/gp/browse.html?node=2975221011&ref_=nav_em__sd_bird_0_2_21_9"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Grocery &amp; Gourmet Food",
+        "href": "/gp/browse.html?node=16310101&ref_=nav_em__gro_0_2_22_2"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Amazon Fresh",
+        "href": "/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em_fresh_0_2_22_3"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Whole Foods Market",
+        "href": "/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_wholefoods_0_2_22_4"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Whole Foods Market Catering",
+        "href": "/alm/storefront?almBrandId=aNHVc2Akvg&ref_=nav_em_groc_wfmct_0_2_22_5"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Subscribe &amp; Save",
+        "href": "/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_22_6"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Pay with SNAP EBT",
+        "href": "/gp/browse.html?node=19097785011&ref_=nav_em_omps_gno_dt_0_2_22_7"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "All Beauty",
+        "href": "/gp/browse.html?node=3760911&ref_=nav_em__bty_0_2_23_2"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Premium Beauty",
+        "href": "/gp/browse.html?node=7175545011&ref_=nav_em__luxury_bty_0_2_23_3"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Professional Skin Care",
+        "href": "/gp/browse.html?node=14717647011&ref_=nav_em__pro_skin_0_2_23_4"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Salon &amp; Spa",
+        "href": "/gp/browse.html?node=14760453011&ref_=nav_em__salon_spa_0_2_23_5"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Men’s Grooming",
+        "href": "/gp/browse.html?node=6682399011&ref_=nav_em__men_grooming_0_2_23_6"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health, Household &amp; Baby Care",
+        "href": "/gp/browse.html?node=3760901&ref_=nav_em__health_household_baby_0_2_23_7"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Vitamins &amp; Dietary Supplements",
+        "href": "/gp/browse.html?node=3764441&ref_=nav_em__vds_0_2_23_8"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Subscribe &amp; Save",
+        "href": "/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_23_10"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Coupons",
+        "href": "/gp/browse.html?node=2231352011&ref_=nav_em__coupons_0_2_23_11"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Amazon Elements",
+        "href": "/gp/browse.html?node=8514636011&ref_=nav_em__elements_0_2_23_12"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "All Household, Health &amp; Baby Care",
+        "href": "/gp/browse.html?node=3760901&ref_=nav_em__H_HH_T2_0_2_23_14"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Household Supplies",
+        "href": "/gp/browse.html?node=15342811&ref_=nav_em__HH_T2_0_2_23_16"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health Care",
+        "href": "/gp/browse.html?node=3760941&ref_=nav_em__HC_T2_0_2_23_17"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Sports Nutrition",
+        "href": "/gp/browse.html?node=6973663011&ref_=nav_em__SN_T2_0_2_23_18"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Baby &amp; Child Care",
+        "href": "/gp/browse.html?node=10787321&ref_=nav_em__BC_T2_0_2_23_19"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Medical Supplies &amp; Equipment",
+        "href": "/gp/browse.html?node=3775161&ref_=nav_em__MSE_T2_0_2_23_20"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health &amp; Wellness",
+        "href": "/gp/browse.html?node=10079996011&ref_=nav_em__HW_T2_0_2_23_21"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Toys &amp; Games",
+        "href": "/gp/browse.html?node=165793011&ref_=nav_em__tg_0_2_24_2"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=165796011&ref_=nav_em__ba_0_2_24_3"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Diapering",
+        "href": "/gp/browse.html?node=166764011&ref_=nav_em__baby_diapers_0_2_24_4"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Registry &amp; Gift List",
+        "href": "/registries?ref_=nav_em_ham_toys_baby_registry_giftlist_0_2_24_5"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Video Games for Kids",
+        "href": "/gp/browse.html?node=471306&ref_=nav_em__cvg_0_2_24_6"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Amazon Teen",
+        "href": "/cr/forteens?ref_=nav_em_TDEP_0_2_24_7"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Amazon Elements",
+        "href": "/gp/browse.html?node=8514636011&ref_=nav_em__elements_baby_0_2_24_8"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Girls",
+        "href": "/gp/browse.html?node=7147442011&ref_=nav_em__toys_girls_0_2_24_10"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Boys",
+        "href": "/gp/browse.html?node=7147443011&ref_=nav_em__toys_boys_0_2_24_11"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Baby",
+        "href": "/gp/browse.html?node=7147444011&ref_=nav_em__toys_baby_0_2_24_12"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Teens",
+        "href": "/teenshop?ref_=nav_em_TDEP_0_2_24_13"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "All Handmade",
+        "href": "/gp/browse.html?node=120955898011&ref_=nav_em__HM_Home_0_2_25_2"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Jewelry",
+        "href": "/gp/browse.html?node=121179460011&ref_=nav_em__HM_Jewelry_0_2_25_3"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Clothing &amp; Shoes",
+        "href": "/gp/browse.html?node=121190502011&ref_=nav_em__HM_clothingShoes_0_2_25_4"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Beauty &amp; Grooming",
+        "href": "/gp/browse.html?node=121190632011&ref_=nav_em__HM_beauty_0_2_25_5"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": " Stationery &amp; Party Supplies",
+        "href": "/gp/browse.html?node=121190727011&ref_=nav_em__HM_stationery_0_2_25_6"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Toys &amp; Games",
+        "href": "/gp/browse.html?node=121190630011&ref_=nav_em__HM_toys_0_2_25_7"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Pet Supplies",
+        "href": "/gp/browse.html?node=121190752011&ref_=nav_em__HM_petsupplies_0_2_25_8"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Home Décor",
+        "href": "/gp/browse.html?node=121190508011&ref_=nav_em__HM_homedecor_0_2_25_9"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Kitchen &amp; Dining ",
+        "href": "/gp/browse.html?node=121190509011&ref_=nav_em__HM_kitchen_0_2_25_10"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=121190737011&ref_=nav_em__HM_baby_0_2_25_11"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Sell on Amazon Handmade",
+        "href": "https://services.amazon.com/handmade/handmade.html?ld=AZUSHND_HM_amz_directory&ref_=nav_em_0_2_25_12"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "All Sports &amp; Outdoors",
+        "href": "/gp/browse.html?node=3375251&ref_=nav_em__sa_sp_allsport_0_2_26_2"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Outdoor Recreation",
+        "href": "/gp/browse.html?node=706814011&ref_=nav_em__sa_sp_outrec_0_2_26_3"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Hunting",
+        "href": "/gp/browse.html?node=3412851&ref_=nav_em__sa_sp_hunt_0_2_26_4"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Fishing &amp; Boating",
+        "href": "/gp/browse.html?node=3408951&ref_=nav_em__sa_sp_fish_0_2_26_5"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Cycling",
+        "href": "/gp/browse.html?node=3403201&ref_=nav_em__sa_sp_ride_0_2_26_6"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Exercise &amp; Fitness",
+        "href": "/gp/browse.html?node=3407731&ref_=nav_em__sa_sp_exfit_0_2_26_7"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sports",
+        "href": "/gp/browse.html?node=10971181011&ref_=nav_em__sa_sp_team_0_2_26_8"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Golf",
+        "href": "/gp/browse.html?node=3410851&ref_=nav_em__sa_sp_golf_0_2_26_9"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Game Room &amp; Outdoor Games",
+        "href": "/gp/browse.html?node=706808011&ref_=nav_em__sa_sp_gamerm_0_2_26_10"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Fan Shop",
+        "href": "/fanshop?ref_=nav_em__sa_sp_slls_hb_so_d_0_2_26_11"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sports Collectibles",
+        "href": "/gp/browse.html?node=3250697011&ref_=nav_em__sa_sp_sptcllct_0_2_26_12"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sales &amp; Deals",
+        "href": "/gp/browse.html?node=10805321&ref_=nav_em__sa_sp_deals_0_2_26_13"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Automotive Parts &amp; Accessories",
+        "href": "/gp/browse.html?node=15684181&ref_=nav_em__apa_0_2_27_2"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Automotive Tools &amp; Equipment",
+        "href": "/gp/browse.html?node=15706941&ref_=nav_em__ate_0_2_27_3"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Car/Vehicle Electronics &amp; GPS",
+        "href": "/gp/browse.html?node=3248684011&ref_=nav_em__ceg_0_2_27_4"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Tires &amp; Wheels",
+        "href": "/gp/browse.html?node=15706571&ref_=nav_em__wt_0_2_27_5"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Motorcycle &amp; Powersports",
+        "href": "/gp/browse.html?node=346333011&ref_=nav_em__matv_0_2_27_6"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "RV Parts &amp; Accessories",
+        "href": "/gp/browse.html?node=2258019011&ref_=nav_em__ate_0_2_27_7"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Your Garage",
+        "href": "/gp/your-garage/?ref_=nav_em_au_pf_as_GNO_0_2_27_8"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Amazon Autos",
+        "href": "/gp/browse.html?node=10677469011&ref_=nav_em_0_2_27_9"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Shop all Industrial &amp; Scientific",
+        "href": "/gp/browse.html?node=16310091&ref_=nav_em__biss_0_2_28_2"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Doctors and Medical Staff",
+        "href": "/gp/browse.html?node=8297370011&ref_=nav_em__bissmd_0_2_28_3"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Restaurant Owners and Chefs",
+        "href": "/gp/browse.html?node=6054382011&ref_=nav_em__bisschef_0_2_28_4"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Teachers and Educators",
+        "href": "/gp/browse.html?node=13882974011&ref_=nav_em__bissedu_0_2_28_5"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "MRO Professionals",
+        "href": "/gp/browse.html?node=21543524011&ref_=nav_em__bissmro_0_2_28_6"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Amazon Fashion",
+        "href": "/gp/browse.html?node=7141123011&ref_=nav_em__sft_0_2_12_2"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Women",
+        "href": "/gp/browse.html?node=7147440011&ref_=nav_em__sft_women_0_2_12_3"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Men",
+        "href": "/gp/browse.html?node=7147441011&ref_=nav_em__sft_men_0_2_12_4"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Girls",
+        "href": "/gp/browse.html?node=7147442011&ref_=nav_em__sft_girls_0_2_12_5"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Boys",
+        "href": "/gp/browse.html?node=7147443011&ref_=nav_em__sft_boys_0_2_12_6"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=7147444011&ref_=nav_em__sft_baby_0_2_12_7"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Luggage",
+        "href": "/gp/browse.html?node=9479199011&ref_=nav_em__sft_luggage_0_2_12_8"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Luxury Stores",
+        "href": "/luxurystores?ref_=nav_em_luxury_sbd_hamb_0_2_12_9"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "The Drop",
+        "href": "https://www.amazon.com/thedrop?ref_=nav_em_0_2_12_10"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Sales &amp; Deals",
+        "href": "/gp/browse.html?node=9538491011&ref_=nav_em__sft_sales_0_2_12_11"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Our Brands",
+        "href": "/gp/browse.html?node=16334314011&ref_=nav_em__OurBrands_0_2_12_13"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "The Shop by Shopbop",
+        "href": "/stores/page/135F2992-CF34-468F-B67F-101F73A197E3?ref_=nav_em__shopbop_0_2_12_14"
+    },
+    {
+        "parent_category": "Clothing, Shoes, Jewelry & Watches",
+        "sub_category_name": "Artist Merch Shop",
+        "href": "/gp/browse.html?node=21213464011&ref_=nav_em__ammerch_fash_0_2_12_15"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "All Amazon Fresh",
+        "href": "/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em__afs_aaf_0_2_13_2"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Beverages",
+        "href": "/b?bbn=10329849011&node=16310231&ref_=nav_em__afs_bev_0_2_13_3"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Breads &amp; Bakery",
+        "href": "/b?bbn=10329849011&node=16318751&ref_=nav_em__afs_bb_0_2_13_4"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Dairy, Cheese &amp; Eggs",
+        "href": "/b?bbn=10329849011&node=371460011&ref_=nav_em__afs_dce_0_2_13_5"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Frozen Foods",
+        "href": "/b?bbn=10329849011&node=6459122011&ref_=nav_em__afs_ff_0_2_13_6"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Fruits",
+        "href": "/b?bbn=10329849011&node=16318981&ref_=nav_em__afs_fr_0_2_13_7"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Meat &amp; Seafood",
+        "href": "/b?bbn=10329849011&node=371469011&ref_=nav_em__afs_ms_0_2_13_8"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Prepared Meals",
+        "href": "/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=18773724011&ref_=nav_em__afs_pm_0_2_13_9"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Snack Foods",
+        "href": "/b?bbn=10329849011&node=16322721&ref_=nav_em__afs_sf_0_2_13_10"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Vegetables",
+        "href": "/b?bbn=10329849011&node=16319281&ref_=nav_em__afs_vg_0_2_13_11"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Household, Health &amp; Beauty",
+        "href": "/alm/category?almBrandId=QW1hem9uIEZyZXNo&node=3760901&ref_=nav_em__afs_hpc_0_2_13_12"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Household &amp; Cleaning",
+        "href": "/b?bbn=10329849011&node=15342811&ref_=nav_em__afs_hc_0_2_13_13"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Past Purchases",
+        "href": "/afx/lists/pastpurchases?ref_=nav_em__afs_pp_0_2_13_14"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Fresh Savings",
+        "href": "/l/?bbn=10329849011&node=13904808011&ref_=nav_em__afs_fd_0_2_13_15"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Grocery Lists",
+        "href": "/alexaquantum/sp/alexaShoppingList?ref_=nav_em__afs_gl_0_2_13_16"
+    },
+    {
+        "parent_category": "Amazon Fresh",
+        "sub_category_name": "Local Market",
+        "href": "/b?bbn=10329849011&node=14762495011&ref_=nav_em__afs_nhs_0_2_13_17"
+    },
+    {
+        "parent_category": "Whole Foods Market",
+        "sub_category_name": "Explore Whole Foods Market",
+        "href": "/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_navm_whole_foods_storefront_0_2_14_2"
+    },
+    {
+        "parent_category": "Whole Foods Market",
+        "sub_category_name": "Whole Foods Market Catering",
+        "href": "/alm/storefront?almBrandId=aNHVc2Akvg&ref_=nav_em_navm_wfmct_storefront_0_2_14_4"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Books",
+        "href": "/gp/browse.html?node=283155&ref_=nav_em__bo_t3_0_2_15_2"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Children's Books",
+        "href": "/gp/browse.html?node=4&ref_=nav_em__cbo_t3_0_2_15_3"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Textbooks",
+        "href": "/gp/browse.html?node=465600&ref_=nav_em__tb_t3_0_2_15_4"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Audible Membership",
+        "href": "/hz/audible/mlp?ref_=nav_em_aud_mem_t3_0_2_15_6"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Audible Books &amp; Originals",
+        "href": "/Audible-Books-and-Originals/b/?node=18145289011&ref_=nav_em_0_2_15_7"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Books",
+        "href": "/gp/browse.html?node=1286228011&ref_=nav_em__k_kbo_t3_0_2_15_9"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Unlimited",
+        "href": "/gp/kindle/ku/sign-up/ui/rw/about?ref_=nav_em__ods_books_con_ku_t3_0_2_15_10"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Prime Reading",
+        "href": "/kindle-dbs/fd/prime-pr?ref_=nav_em__ods_eink_con_pr_t3_0_2_15_11"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Kindle Vella",
+        "href": "/kindle-vella?ref_=nav_em__vla_dt_gw_hm_db_0_2_15_12"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Amazon Book Clubs",
+        "href": "/amazonbookclubs?ref_=nav_em_abc_hmenu_0_2_15_14"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Comics &amp; Graphic Novels\n",
+        "href": "/gp/browse.html?node=156104011&ref_=nav_em__comicsgraphic_0_2_15_15"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Magazines",
+        "href": "/gp/browse.html?node=599858&ref_=nav_em__magazines_t3_0_2_15_16"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Prime Student",
+        "href": "/gp/browse.html?node=668781011&ref_=nav_em__student_t3_0_2_15_17"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "Whispersync for Voice",
+        "href": "/gp/browse.html?node=5744819011&ref_=nav_em_aud_wfv_t3_0_2_15_18"
+    },
+    {
+        "parent_category": "Books",
+        "sub_category_name": "AbeBooks.com",
+        "href": "/gp/browse.html?node=2056775011&ref_=nav_em__abebooks_t3_0_2_15_19"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Movies &amp; TV",
+        "href": "/gp/browse.html?node=2625373011&ref_=nav_em__mov_0_2_16_2"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Blu-ray",
+        "href": "/gp/browse.html?node=2901953011&ref_=nav_em__blu_0_2_16_3"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Prime Video - Included with Prime",
+        "href": "/gp/browse.html?node=2858778011&ref_=nav_em__atv_0_2_16_4"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "CDs &amp; Vinyl",
+        "href": "/gp/browse.html?node=5174&ref_=nav_em__cd_vinyl_0_2_16_5"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Digital Music",
+        "href": "/gp/browse.html?node=163856011&ref_=nav_em__dmusic_0_2_16_6"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Musical Instruments",
+        "href": "/gp/browse.html?node=11091801&ref_=nav_em__mi_0_2_16_7"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Headphones",
+        "href": "/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_16_8"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Video Games",
+        "href": "/gp/browse.html?node=468642&ref_=nav_em__cvg_0_2_16_9"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "PC Gaming",
+        "href": "/gp/browse.html?node=8588809011&ref_=nav_em__pcgaming41516_0_2_16_10"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Digital Games",
+        "href": "/gp/browse.html?node=979455011&ref_=nav_em__gdown_0_2_16_11"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Entertainment Collectibles",
+        "href": "/gp/browse.html?node=5088769011&ref_=nav_em__entcol_0_2_16_12"
+    },
+    {
+        "parent_category": "Movies, Music & Games",
+        "sub_category_name": "Trade In Video Games",
+        "href": "/gp/browse.html?node=2242532011&ref_=nav_em__trade_in_mmg_0_2_16_13"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Electronics Showcase",
+        "href": "/gp/browse.html?node=172282&ref_=nav_em__elec_mw_hub_0_2_17_2"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Cell Phones &amp; Accessories",
+        "href": "/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Computers",
+        "href": "/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "TV &amp; Video",
+        "href": "/gp/browse.html?node=1266092011&ref_=nav_em__tv_0_2_17_5"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Headphones",
+        "href": "/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Office Electronics",
+        "href": "/gp/browse.html?node=172574&ref_=nav_em_Office Electronics_0_2_17_7"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Camera, Photo &amp; Video",
+        "href": "/gp/browse.html?node=502394&ref_=nav_em__p_0_2_17_8"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Wearable Technology",
+        "href": "/gp/browse.html?node=9013937011&ref_=nav_em_wear_tech_0_2_17_9"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Home Audio &amp; Theater",
+        "href": "/gp/browse.html?node=667846011&ref_=nav_em__hat_0_2_17_10"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Musical Instruments",
+        "href": "/gp/browse.html?node=11091801&ref_=nav_em__mi_ce_0_2_17_11"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Video Games",
+        "href": "/gp/browse.html?node=468642&ref_=nav_em__mw_cvg_0_2_17_12"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Software",
+        "href": "/gp/browse.html?node=229534&ref_=nav_em__mw_sw_0_2_17_13"
+    },
+    {
+        "parent_category": "Electronics",
+        "sub_category_name": "Amazon Renewed",
+        "href": "/gp/browse.html?node=17881058011&ref_=nav_em_nav_cerenewed_0_2_17_14"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Computers, Tablets, &amp; PC Products",
+        "href": "/gp/browse.html?node=541966&ref_=nav_em__basedevices_0_2_18_2"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Monitors",
+        "href": "/gp/browse.html?node=1292115011&ref_=nav_em__monitors_0_2_18_3"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Accessories",
+        "href": "/gp/browse.html?node=172456&ref_=nav_em__compaccess_0_2_18_4"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": " Networking ",
+        "href": "/gp/browse.html?node=172504&ref_=nav_em__networking_0_2_18_5"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Drives &amp; Storage",
+        "href": "/gp/browse.html?node=1292110011&ref_=nav_em__storage_0_2_18_6"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Computer Parts &amp; Components",
+        "href": "/gp/browse.html?node=193870011&ref_=nav_em__components_0_2_18_7"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Printers &amp; Ink",
+        "href": "/gp/browse.html?node=172635&ref_=nav_em__printers_0_2_18_8"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Software",
+        "href": "/gp/browse.html?node=229534&ref_=nav_em__sw_0_2_18_9"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Office &amp; School Supplies",
+        "href": "/gp/browse.html?node=1064954&ref_=nav_em__op_0_2_18_10"
+    },
+    {
+        "parent_category": "Computers",
+        "sub_category_name": "Trade In Your Electronics",
+        "href": "/gp/browse.html?node=2226766011&ref_=nav_em__trade_in_elec_0_2_18_11"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Amazon Smart Home",
+        "href": "/gp/browse.html?node=6563140011&ref_=nav_em_amazon_smart_home_0_2_19_2"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Works with Alexa Devices",
+        "href": "/gp/browse.html?node=73846268011&ref_=nav_em__ods_ha_vicc_ee_0_2_19_3"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Smart Home Lighting",
+        "href": "/gp/browse.html?node=21217035011&ref_=nav_em_sh_lighting_0_2_19_4"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Smart Locks and Entry",
+        "href": "/gp/browse.html?node=21216824011&ref_=nav_em_sh_locks-entry_0_2_19_5"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Security Cameras and Systems",
+        "href": "/gp/browse.html?node=21217033011&ref_=nav_em_sh_security-cameras-systems_0_2_19_6"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Plugs and Outlets",
+        "href": "/gp/browse.html?node=21217037011&ref_=nav_em_sh_plugs-outlets_0_2_19_7"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "New Smart Devices",
+        "href": "/gp/browse.html?node=19185106011&ref_=nav_em_sh_new-devices_0_2_19_8"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Heating and Cooling",
+        "href": "/gp/browse.html?node=21217041011&ref_=nav_em_sh_heating-cooling_0_2_19_9"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Detectors and Sensors",
+        "href": "/gp/browse.html?node=21217048011&ref_=nav_em_sh_detectors-sensors_0_2_19_10"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Home Entertainment",
+        "href": "/gp/browse.html?node=21216826011&ref_=nav_em_sh_home-entertainment_0_2_19_11"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Pet",
+        "href": "/gp/browse.html?node=21221447011&ref_=nav_em_sh_pet_0_2_19_12"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Voice Assistants and Hubs",
+        "href": "/gp/browse.html?node=21216812011&ref_=nav_em_sh_voice-assistants-hubs_0_2_19_13"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Kitchen",
+        "href": "/gp/browse.html?node=21217039011&ref_=nav_em_sh_kitchen_0_2_19_14"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Vacuums and Mops",
+        "href": "/gp/browse.html?node=21217038011&ref_=nav_em_sh_vacuums-mops_0_2_19_15"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Lawn and Garden",
+        "href": "/gp/browse.html?node=21217056011&ref_=nav_em_sh_lawn-garden_0_2_19_16"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "WIFI and Networking",
+        "href": "/gp/browse.html?node=21217028011&ref_=nav_em_sh_wifi-networking_0_2_19_17"
+    },
+    {
+        "parent_category": "Smart Home",
+        "sub_category_name": "Other Solutions",
+        "href": "/gp/browse.html?node=21217060011&ref_=nav_em_sh_other_0_2_19_18"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Home",
+        "href": "/gp/browse.html?node=1055398&ref_=nav_em_home_amazonhome_0_2_20_2"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Shop by Room",
+        "href": "/gp/browse.html?node=14544458011&ref_=nav_em_home_shopbyroom_0_2_20_3"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Discover",
+        "href": "/discover?ref_=nav_em_home_sbl_0_2_20_4"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Registry &amp; Gift List",
+        "href": "/registries?ref_=nav_em_ham_home_registry_giftlist_0_2_20_5"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Home Décor",
+        "href": "/gp/browse.html?node=1063278&ref_=nav_em_home_homedecor_0_2_20_6"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Furniture",
+        "href": "/gp/browse.html?node=1063306&ref_=nav_em__furn_0_2_20_7"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Kitchen &amp; Dining",
+        "href": "/gp/browse.html?node=284507&ref_=nav_em__ki_0_2_20_8"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Bed &amp; Bath",
+        "href": "/gp/browse.html?node=1057792&ref_=nav_em__bb_0_2_20_9"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Garden &amp; Outdoor",
+        "href": "/gp/browse.html?node=2972638011&ref_=nav_em__lp_0_2_20_10"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Mattresses",
+        "href": "/gp/browse.html?node=3732961&ref_=nav_em_home_mattresses_0_2_20_11"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Lighting ",
+        "href": "/gp/browse.html?node=495224&ref_=nav_em_home_lighting_0_2_20_12"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Storage &amp; Organization",
+        "href": "/gp/browse.html?node=3610841&ref_=nav_em_home_storageandorg_0_2_20_13"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Appliances",
+        "href": "/gp/browse.html?node=2619525011&ref_=nav_em__ha_0_2_20_14"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Fine Art",
+        "href": "/gp/browse.html?node=6685269011&ref_=nav_em__fine_art_0_2_20_15"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Collectibles &amp; Fine Art",
+        "href": "/gp/browse.html?node=4991425011&ref_=nav_em__collectibles_fine_art_0_2_20_16"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Arts, Crafts &amp; Sewing",
+        "href": "/gp/browse.html?node=2617941011&ref_=nav_em__sch_0_2_20_17"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Event &amp; Party Supplies",
+        "href": "/gp/browse.html?node=901590&ref_=nav_em__ep_0_2_20_18"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Explore Paint Finder",
+        "href": "/paintfinder?ref_=nav_em_hm_menu_pf_0_2_20_20"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Home Improvement",
+        "href": "/gp/browse.html?node=228013&ref_=nav_em__hi2_0_2_20_21"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Power &amp; Hand Tools",
+        "href": "/gp/browse.html?node=328182011&ref_=nav_em__hi_0_2_20_22"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Lamps &amp; Light Fixtures",
+        "href": "/gp/browse.html?node=495224&ref_=nav_em__llf_0_2_20_23"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Kitchen &amp; Bath Fixtures",
+        "href": "/gp/browse.html?node=3754161&ref_=nav_em__kbf_0_2_20_24"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Cookware",
+        "href": "/gp/browse.html?node=289814&ref_=nav_em__cookware_0_2_20_25"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Hardware",
+        "href": "/gp/browse.html?node=511228&ref_=nav_em__hdw_0_2_20_26"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Smart Home",
+        "href": "/gp/browse.html?node=6563140011&ref_=nav_em__homaut_0_2_20_27"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Basics",
+        "href": "/stores/AmazonBasics/page/947C6949-CF8E-4BD3-914A-B411DD3E4433?channel=hamburg&ref_=nav_em_home_amazonbasics_0_2_20_29"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Pinzon",
+        "href": "/stores/node/20605033011?channel=hamburg&ref_=nav_em_0_2_20_30"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Rivet",
+        "href": "/stores/node/7633572011?channel=hamburg&ref_=nav_em_0_2_20_31"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Stone &amp; Beam",
+        "href": "/stores/node/17384727011?channel=hamburg&ref_=nav_em_0_2_20_32"
+    },
+    {
+        "parent_category": "Home, Garden & Tools",
+        "sub_category_name": "Amazon Launchpad",
+        "href": "/gp/browse.html?node=12034488011&ref_=nav_em_home_launchpad_0_2_20_33"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Pet Profiles",
+        "href": "/yourpets?ref_=nav_em__directory_pet_profiles_0_2_21_2"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Dog Supplies",
+        "href": "/gp/browse.html?node=2975312011&ref_=nav_em__sd_dg_0_2_21_3"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Dog Food",
+        "href": "/gp/browse.html?node=2975359011&ref_=nav_em__sd_df_0_2_21_4"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Cat Supplies",
+        "href": "/gp/browse.html?node=2975241011&ref_=nav_em__sd_ct_0_2_21_5"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Cat Food",
+        "href": "/gp/browse.html?node=2975265011&ref_=nav_em__sd_ctfd_0_2_21_6"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Fish &amp; Aquatic Pets",
+        "href": "/gp/browse.html?node=2975446011&ref_=nav_em__sd_fish_0_2_21_7"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Small Animals",
+        "href": "/gp/browse.html?node=2975520011&ref_=nav_em__sd_sa_0_2_21_8"
+    },
+    {
+        "parent_category": "Pet Supplies",
+        "sub_category_name": "Birds",
+        "href": "/gp/browse.html?node=2975221011&ref_=nav_em__sd_bird_0_2_21_9"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Grocery &amp; Gourmet Food",
+        "href": "/gp/browse.html?node=16310101&ref_=nav_em__gro_0_2_22_2"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Amazon Fresh",
+        "href": "/alm/storefront?almBrandId=QW1hem9uIEZyZXNo&ref_=nav_em_fresh_0_2_22_3"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Whole Foods Market",
+        "href": "/alm/storefront?almBrandId=VUZHIFdob2xlIEZvb2Rz&ref_=nav_em_wholefoods_0_2_22_4"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Whole Foods Market Catering",
+        "href": "/alm/storefront?almBrandId=aNHVc2Akvg&ref_=nav_em_groc_wfmct_0_2_22_5"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Subscribe &amp; Save",
+        "href": "/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_22_6"
+    },
+    {
+        "parent_category": "Food & Grocery",
+        "sub_category_name": "Pay with SNAP EBT",
+        "href": "/gp/browse.html?node=19097785011&ref_=nav_em_omps_gno_dt_0_2_22_7"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "All Beauty",
+        "href": "/gp/browse.html?node=3760911&ref_=nav_em__bty_0_2_23_2"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Premium Beauty",
+        "href": "/gp/browse.html?node=7175545011&ref_=nav_em__luxury_bty_0_2_23_3"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Professional Skin Care",
+        "href": "/gp/browse.html?node=14717647011&ref_=nav_em__pro_skin_0_2_23_4"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Salon &amp; Spa",
+        "href": "/gp/browse.html?node=14760453011&ref_=nav_em__salon_spa_0_2_23_5"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Men’s Grooming",
+        "href": "/gp/browse.html?node=6682399011&ref_=nav_em__men_grooming_0_2_23_6"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health, Household &amp; Baby Care",
+        "href": "/gp/browse.html?node=3760901&ref_=nav_em__health_household_baby_0_2_23_7"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Vitamins &amp; Dietary Supplements",
+        "href": "/gp/browse.html?node=3764441&ref_=nav_em__vds_0_2_23_8"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Subscribe &amp; Save",
+        "href": "/gp/browse.html?node=5856181011&ref_=nav_em__subscribe_save_0_2_23_10"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Coupons",
+        "href": "/gp/browse.html?node=2231352011&ref_=nav_em__coupons_0_2_23_11"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Amazon Elements",
+        "href": "/gp/browse.html?node=8514636011&ref_=nav_em__elements_0_2_23_12"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "All Household, Health &amp; Baby Care",
+        "href": "/gp/browse.html?node=3760901&ref_=nav_em__H_HH_T2_0_2_23_14"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Household Supplies",
+        "href": "/gp/browse.html?node=15342811&ref_=nav_em__HH_T2_0_2_23_16"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health Care",
+        "href": "/gp/browse.html?node=3760941&ref_=nav_em__HC_T2_0_2_23_17"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Sports Nutrition",
+        "href": "/gp/browse.html?node=6973663011&ref_=nav_em__SN_T2_0_2_23_18"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Baby &amp; Child Care",
+        "href": "/gp/browse.html?node=10787321&ref_=nav_em__BC_T2_0_2_23_19"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Medical Supplies &amp; Equipment",
+        "href": "/gp/browse.html?node=3775161&ref_=nav_em__MSE_T2_0_2_23_20"
+    },
+    {
+        "parent_category": "Beauty & Health",
+        "sub_category_name": "Health &amp; Wellness",
+        "href": "/gp/browse.html?node=10079996011&ref_=nav_em__HW_T2_0_2_23_21"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Toys &amp; Games",
+        "href": "/gp/browse.html?node=165793011&ref_=nav_em__tg_0_2_24_2"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=165796011&ref_=nav_em__ba_0_2_24_3"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Diapering",
+        "href": "/gp/browse.html?node=166764011&ref_=nav_em__baby_diapers_0_2_24_4"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Registry &amp; Gift List",
+        "href": "/registries?ref_=nav_em_ham_toys_baby_registry_giftlist_0_2_24_5"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Video Games for Kids",
+        "href": "/gp/browse.html?node=471306&ref_=nav_em__cvg_0_2_24_6"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Amazon Teen",
+        "href": "/cr/forteens?ref_=nav_em_TDEP_0_2_24_7"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "Amazon Elements",
+        "href": "/gp/browse.html?node=8514636011&ref_=nav_em__elements_baby_0_2_24_8"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Girls",
+        "href": "/gp/browse.html?node=7147442011&ref_=nav_em__toys_girls_0_2_24_10"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Boys",
+        "href": "/gp/browse.html?node=7147443011&ref_=nav_em__toys_boys_0_2_24_11"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Baby",
+        "href": "/gp/browse.html?node=7147444011&ref_=nav_em__toys_baby_0_2_24_12"
+    },
+    {
+        "parent_category": "Toys, Kids & Baby",
+        "sub_category_name": "For Teens",
+        "href": "/teenshop?ref_=nav_em_TDEP_0_2_24_13"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "All Handmade",
+        "href": "/gp/browse.html?node=120955898011&ref_=nav_em__HM_Home_0_2_25_2"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Jewelry",
+        "href": "/gp/browse.html?node=121179460011&ref_=nav_em__HM_Jewelry_0_2_25_3"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Clothing &amp; Shoes",
+        "href": "/gp/browse.html?node=121190502011&ref_=nav_em__HM_clothingShoes_0_2_25_4"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Beauty &amp; Grooming",
+        "href": "/gp/browse.html?node=121190632011&ref_=nav_em__HM_beauty_0_2_25_5"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": " Stationery &amp; Party Supplies",
+        "href": "/gp/browse.html?node=121190727011&ref_=nav_em__HM_stationery_0_2_25_6"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Toys &amp; Games",
+        "href": "/gp/browse.html?node=121190630011&ref_=nav_em__HM_toys_0_2_25_7"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Pet Supplies",
+        "href": "/gp/browse.html?node=121190752011&ref_=nav_em__HM_petsupplies_0_2_25_8"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Home Décor",
+        "href": "/gp/browse.html?node=121190508011&ref_=nav_em__HM_homedecor_0_2_25_9"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Kitchen &amp; Dining ",
+        "href": "/gp/browse.html?node=121190509011&ref_=nav_em__HM_kitchen_0_2_25_10"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Baby",
+        "href": "/gp/browse.html?node=121190737011&ref_=nav_em__HM_baby_0_2_25_11"
+    },
+    {
+        "parent_category": "Handmade",
+        "sub_category_name": "Sell on Amazon Handmade",
+        "href": "https://services.amazon.com/handmade/handmade.html?ld=AZUSHND_HM_amz_directory&ref_=nav_em_0_2_25_12"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "All Sports &amp; Outdoors",
+        "href": "/gp/browse.html?node=3375251&ref_=nav_em__sa_sp_allsport_0_2_26_2"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Outdoor Recreation",
+        "href": "/gp/browse.html?node=706814011&ref_=nav_em__sa_sp_outrec_0_2_26_3"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Hunting",
+        "href": "/gp/browse.html?node=3412851&ref_=nav_em__sa_sp_hunt_0_2_26_4"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Fishing &amp; Boating",
+        "href": "/gp/browse.html?node=3408951&ref_=nav_em__sa_sp_fish_0_2_26_5"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Cycling",
+        "href": "/gp/browse.html?node=3403201&ref_=nav_em__sa_sp_ride_0_2_26_6"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Exercise &amp; Fitness",
+        "href": "/gp/browse.html?node=3407731&ref_=nav_em__sa_sp_exfit_0_2_26_7"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sports",
+        "href": "/gp/browse.html?node=10971181011&ref_=nav_em__sa_sp_team_0_2_26_8"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Golf",
+        "href": "/gp/browse.html?node=3410851&ref_=nav_em__sa_sp_golf_0_2_26_9"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Game Room &amp; Outdoor Games",
+        "href": "/gp/browse.html?node=706808011&ref_=nav_em__sa_sp_gamerm_0_2_26_10"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Fan Shop",
+        "href": "/fanshop?ref_=nav_em__sa_sp_slls_hb_so_d_0_2_26_11"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sports Collectibles",
+        "href": "/gp/browse.html?node=3250697011&ref_=nav_em__sa_sp_sptcllct_0_2_26_12"
+    },
+    {
+        "parent_category": "Sports & Outdoors",
+        "sub_category_name": "Sales &amp; Deals",
+        "href": "/gp/browse.html?node=10805321&ref_=nav_em__sa_sp_deals_0_2_26_13"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Automotive Parts &amp; Accessories",
+        "href": "/gp/browse.html?node=15684181&ref_=nav_em__apa_0_2_27_2"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Automotive Tools &amp; Equipment",
+        "href": "/gp/browse.html?node=15706941&ref_=nav_em__ate_0_2_27_3"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Car/Vehicle Electronics &amp; GPS",
+        "href": "/gp/browse.html?node=3248684011&ref_=nav_em__ceg_0_2_27_4"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Tires &amp; Wheels",
+        "href": "/gp/browse.html?node=15706571&ref_=nav_em__wt_0_2_27_5"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Motorcycle &amp; Powersports",
+        "href": "/gp/browse.html?node=346333011&ref_=nav_em__matv_0_2_27_6"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "RV Parts &amp; Accessories",
+        "href": "/gp/browse.html?node=2258019011&ref_=nav_em__ate_0_2_27_7"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Your Garage",
+        "href": "/gp/your-garage/?ref_=nav_em_au_pf_as_GNO_0_2_27_8"
+    },
+    {
+        "parent_category": "Automotive",
+        "sub_category_name": "Amazon Autos",
+        "href": "/gp/browse.html?node=10677469011&ref_=nav_em_0_2_27_9"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Shop all Industrial &amp; Scientific",
+        "href": "/gp/browse.html?node=16310091&ref_=nav_em__biss_0_2_28_2"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Doctors and Medical Staff",
+        "href": "/gp/browse.html?node=8297370011&ref_=nav_em__bissmd_0_2_28_3"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Restaurant Owners and Chefs",
+        "href": "/gp/browse.html?node=6054382011&ref_=nav_em__bisschef_0_2_28_4"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "Teachers and Educators",
+        "href": "/gp/browse.html?node=13882974011&ref_=nav_em__bissedu_0_2_28_5"
+    },
+    {
+        "parent_category": "Industrial and Scientific",
+        "sub_category_name": "MRO Professionals",
+        "href": "/gp/browse.html?node=21543524011&ref_=nav_em__bissmro_0_2_28_6"
+    }
+]
