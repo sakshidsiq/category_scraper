@@ -1,0 +1,128 @@
+[
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "parent_category": "Headphones",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "parent_category": "Headphones",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=2335752011&ref_=nav_em__wi_0_2_17_3",
+        "parent_category": "Cell Phones &amp; Accessories",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=541966&ref_=nav_em__pc_ce_0_2_17_4",
+        "parent_category": "Computers",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "parent_category": "Headphones",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    },
+    {
+        "url": "https://www.amazon.com/gp/browse.html?node=172541&ref_=nav_em_headphones_0_2_17_6",
+        "parent_category": "Headphones",
+        "li_selector": "[class*='apb-browse-left-nav'] .left_nav ul",
+        "name_selector": ".a-color-base.a-link-normal>span",
+        "link_selector": ".a-color-base.a-link-normal"
+    }
+]
