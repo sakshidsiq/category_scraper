@@ -1,0 +1,153 @@
+parent_category,parent_category_link,category,category_link,level
+Explore Healthy Nutrition,/health/info,Tracey Shaffer,/health/experts/tracey-shaffer,6
+Explore Healthy Nutrition,/health/info,Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,6
+Explore Healthy Nutrition,/health/info,Marcella Ranieri,/health/experts/marcella-ranieri,6
+Explore Healthy Nutrition,/health/info,Kristen Keen,/health/experts/kristen-keen,6
+Explore Healthy Nutrition,/health/info,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,6
+Explore Healthy Nutrition,/health/info,View All Dietitians,/health/registered-dietitians,6
+Explore Healthy Nutrition,/health/info,Enhance Your Heart Health†,/health/info/heart-health,6
+Explore Healthy Nutrition,/health/info,Learn About Diabetes Management†,/health/info/diabetes-care,6
+Explore Healthy Nutrition,/health/info,Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,6
+Explore Healthy Nutrition,/health/info,Boost Your Immune System†,/health/info/immune-support,6
+Explore Healthy Nutrition,/health/info,Strengthen Your Mental Wellness†,/health/info/mental-wellness,6
+Explore Healthy Nutrition,/health/info,View All Healthcare Departments,/health,6
+Explore Healthy Nutrition,/health/info,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Explore Healthy Nutrition,/health/info,Shop by Dietary Lifestyle,/f/shop-by-diet,6
+Explore Healthy Nutrition,/health/info,Check Out OptUP™,/health/pharmacy/optup,6
+Explore Healthy Nutrition,/health/info,Explore Food & OTC Benefit Cards,/i/benefit-card,6
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,6
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,6
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,6
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,6
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,6
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,6
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,6
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,6
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Meet Our Dietitians,/health/registered-dietitians,View All Healthcare Departments,/health,6
+Meet Our Dietitians,/health/registered-dietitians,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Meet Our Dietitians,/health/registered-dietitians,Explore Healthy Nutrition,/health/info,6
+Meet Our Dietitians,/health/registered-dietitians,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Meet Our Dietitians,/health/registered-dietitians,Shop Dietary Lifestyles,/f/shop-by-diet,6
+Meet Our Dietitians,/health/registered-dietitians,Check Out OptUP™,/health/pharmacy/optup,6
+Browse Wellness Articles,/blog/health,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Browse Wellness Articles,/blog/health,Dietary Lifestyles,/f/shop-by-diet,6
+Browse Wellness Articles,/blog/health,Blog Health Archive,/blog/health/archive,6
+Browse Wellness Articles,/blog/health,OptUp® Nutrition,/health/pharmacy/optup,6
+Browse Wellness Articles,/blog/health,Meet our Dietitians,/health/registered-dietitians,6
+Check Out OptUP™,/health/pharmacy/optup,View All Healthcare Departments,/health,6
+Check Out OptUP™,/health/pharmacy/optup,Explore Healthy Nutrition,/health/info,6
+Check Out OptUP™,/health/pharmacy/optup,View My Nutrition Insights,/nutritioninsights,6
+Check Out OptUP™,/health/pharmacy/optup,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Check Out OptUP™,/health/pharmacy/optup,Better-For-You Recipes,/blog/health/better-for-you-recipes,6
+Check Out OptUP™,/health/pharmacy/optup,Shop by Diet,/f/shop-by-diet,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,View All Healthcare Departments,/health,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Explore the Pharmacy,/health/pharmacy,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,"Get Vaccinated
+(Opens in a new tab or window)",/health/clinic/vaccinations,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,See Our FAQs,/health/pharmacy/faqs/prescriptions,6
+Schedule an Appointment,/health/clinic/schedule-appointment,View All Healthcare Departments,/health,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore the Pharmacy,/health/pharmacy,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore The Little Clinic,/health/clinic,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Healthy Nutrition,/health/info,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,6
+Shop Health & Wellness Items,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,6
+Physicals & Screenings,/health/pharmacy/clinical-services,View All Clinic Services,/health/clinic/services,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Explore The Little Clinic,/health/clinic,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Find a Clinic,/health-services/clinic/locations,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Get Vaccinated,/health/clinic/vaccinations,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Tracey Shaffer,/health/experts/tracey-shaffer,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Allison Yoder,/health/experts/allison-yoder,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Ashlyn Evans,/health/experts/ashlyn-evans,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Joy Wang,/health/nutrition/registered-dietitians/joy-wang,6
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,All Dietitians,/health/registered-dietitians,6
+Marcella Ranieri,/health/experts/marcella-ranieri,Mary Kathryn 'Katy' Keogh,/health/experts/katy-keogh,6
+Marcella Ranieri,/health/experts/marcella-ranieri,Molly Hembree,/health/experts/molly-hembree,6
+Marcella Ranieri,/health/experts/marcella-ranieri,Sarah Limbert,/health/experts/sarah-limbert,6
+Marcella Ranieri,/health/experts/marcella-ranieri,Shari Mermelstein,/health/experts/shari-mermelstein,6
+Marcella Ranieri,/health/experts/marcella-ranieri,Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,6
+Marcella Ranieri,/health/experts/marcella-ranieri,All Dietitians,/health/registered-dietitians,6
+Kristen Keen,/health/experts/kristen-keen,Laura Brown,/health/experts/laura-brown,6
+Kristen Keen,/health/experts/kristen-keen,Lisa McCune,/health/experts/lisa-mccune,6
+Kristen Keen,/health/experts/kristen-keen,Marcella Ranieri,/health/experts/marcella-ranieri,6
+Kristen Keen,/health/experts/kristen-keen,Mary Kathryn “Katy” Keogh,/health/experts/katy-keogh,6
+Kristen Keen,/health/experts/kristen-keen,Molly Hembree,/health/experts/molly-hembree,6
+Kristen Keen,/health/experts/kristen-keen,All Dietitians,/health/registered-dietitians,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Joy Wang,/health/experts/joy-wang,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Kara Miller,/health/experts/kara-miller,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Kristen Keen,/health/experts/kristen-keen,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Laura Brown,/health/experts/laura-brown,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Lisa McCune,/health/experts/lisa-mccune,6
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,All Dietitians,/health/registered-dietitians,6
+View All Dietitians,/health/registered-dietitians,View All Healthcare Departments,/health,6
+View All Dietitians,/health/registered-dietitians,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+View All Dietitians,/health/registered-dietitians,Explore Healthy Nutrition,/health/info,6
+View All Dietitians,/health/registered-dietitians,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+View All Dietitians,/health/registered-dietitians,Shop Dietary Lifestyles,/f/shop-by-diet,6
+View All Dietitians,/health/registered-dietitians,Check Out OptUP™,/health/pharmacy/optup,6
+Enhance Your Heart Health†,/health/info/heart-health,View All Healthcare Departments,/health,6
+Enhance Your Heart Health†,/health/info/heart-health,Explore Healthy Nutrition,/health/info,6
+Enhance Your Heart Health†,/health/info/heart-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Enhance Your Heart Health†,/health/info/heart-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Enhance Your Heart Health†,/health/info/heart-health,Shop Dietary Lifestyles,/f/shop-by-diet,6
+Enhance Your Heart Health†,/health/info/heart-health,Check Out OptUP™,/health/pharmacy/optup,6
+Learn About Diabetes Management†,/health/info/diabetes-care,View All Healthcare Departments,/health,6
+Learn About Diabetes Management†,/health/info/diabetes-care,Explore Healthy Nutrition,/health/info,6
+Learn About Diabetes Management†,/health/info/diabetes-care,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Learn About Diabetes Management†,/health/info/diabetes-care,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Learn About Diabetes Management†,/health/info/diabetes-care,Shop by Dietary Lifestyle,/f/shop-by-diet,6
+Learn About Diabetes Management†,/health/info/diabetes-care,Check Out OptUP™,/health/pharmacy/optup,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,View All Healthcare Departments,/health,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Explore Healthy Nutrition,/health/info,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Shop by Dietary Lifestyle,/f/shop-by-diet,6
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Check Out OptUP™,/health/pharmacy/optup,6
+Boost Your Immune System†,/health/info/immune-support,View All Healthcare Departments,/health,6
+Boost Your Immune System†,/health/info/immune-support,Explore Healthy Nutrition,/health/info,6
+Boost Your Immune System†,/health/info/immune-support,Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Boost Your Immune System†,/health/info/immune-support,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,6
+Boost Your Immune System†,/health/info/immune-support,Shop Dietary Lifestyles,/f/shop-by-diet,6
+Boost Your Immune System†,/health/info/immune-support,Check Out OptUP™,/health/pharmacy/optup,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,View All Healthcare Departments,/health,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Explore Healthy Nutrition,/health/info,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Explore the Pharmacy,/health/pharmacy,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,"Learn More About Opioids
+(Opens in a new tab or window)",https://generationrx.org/learn/understand-the-issue/,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Learn More About Mental Wellness,https://krogerhealth.everfi-next.net/student/dashboard/wellness-resources/krogerhealth-mental-wellness-education,6
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,6
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,6
+Shop by Dietary Lifestyle,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,6
+Shop by Dietary Lifestyle,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,6
+Shop by Dietary Lifestyle,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,6
+Shop by Dietary Lifestyle,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,6

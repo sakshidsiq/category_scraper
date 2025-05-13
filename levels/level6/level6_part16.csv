@@ -1,0 +1,94 @@
+parent_category,parent_category_link,category,category_link,level
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,6
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,6
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,6
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,6
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,6
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,6
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,6
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,6
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,6
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,6
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,6
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,6
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,6
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,6
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,6
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,6
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,6
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,6
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,6
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,6
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,6
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,6
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,View All Healthcare Departments,/health,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Schedule a COVID-19 Vaccine,/health/clinic/schedule-appointment?type=Vaccines,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Schedule a COVID-19 Test,/health/clinic/schedule-appointment,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Explore At-Home Test Kits,/search?keyword=CovidTest&query=CovidTest&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,6
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Find a Clinic,/health-services/clinic/locations,6
+Explore Virtual Care,/health/clinic/virtual-care,View All Healthcare Departments,/health,6
+Explore Virtual Care,/health/clinic/virtual-care,Explore Healthy Nutrition,/health/info,6
+Explore Virtual Care,/health/clinic/virtual-care,Explore The Little Clinic,/health/clinic,6
+Explore Virtual Care,/health/clinic/virtual-care,Meet Our Dietitians,/health/registered-dietitians,6
+Explore Virtual Care,/health/clinic/virtual-care,Browse Wellness Articles,/blog/health,6
+Explore Virtual Care,/health/clinic/virtual-care,Check Out OptUP™,/health/pharmacy/optup,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Meat,/d/meat,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Seafood,/d/seafood,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Produce,/d/produce,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Deli,/d/deli,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Bakery,/d/bakery,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Dairy & Eggs,/d/dairy,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Pantry,/d/grocery,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Beverage,/d/beverages,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Breakfast,/d/breakfast,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Natural & Organic,/d/natural-organic,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Adult Beverage,/d/beer-wine-liquor,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Frozen,/d/frozen,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Health,/d/health,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Vitamins & Supplements,/d/vitamins-supplements,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Personal Care,/d/personal-care,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Beauty,/d/beauty,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Baby,/d/baby,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Home,/d/home-electronics,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Kitchen & Dining,/d/kitchen-dining,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Electronics,/d/electronics,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Patio & Grilling,/d/patio-grilling,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Cleaning & Household,/d/household,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Pets,/d/pet-supplies,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Toys,/d/toys,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Floral,/d/floral,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Vitacost,https://www.vitacost.com/,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Murrays Cheese,/b/murrays-cheese,6
+Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,Home Chef,/b/home-chef,6
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,6
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,6
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,6
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,6
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,6
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,6
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,6
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,6
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,6
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,6
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,6
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,6

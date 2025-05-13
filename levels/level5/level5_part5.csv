@@ -1,0 +1,55 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/personal-care,Oral Care,/pl/oral-care/21003?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Hand Soap & Sanitizers,/pl/hand-soap-sanitizer/21007?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Bath & Shower,/pl/bath-shower/21013?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Skin Care,/pl/face‐care/20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all,5
+Shop All,/d/personal-care,Travel Size Products,/pl/travel-size/20007?query=travel%20size&searchType=default_search&taxonomyId=20007&fulfillment=all,5
+Shop All,/d/personal-care,Hair Care,/pl/hair-care/21002?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Body Lotion & Moisturizers,/pl/body-moisturizers/21006?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Deodorants & Antiperspirants,/pl/deodorants-antiperspirant/21001?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Feminine Care,/pl/feminine-care/21009?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Shaving & Hair Removal,/pl/shaving-grooming/21004?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/personal-care,Men’s Grooming,/pl/mens-grooming/21016?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=21016&fulfillment=all,5
+Shop All,/d/personal-care,Incontinence,/pl/incontinence/21008?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Sun Care & Sunless Tanning,/pl/sunning-%20-tanning/21011?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/personal-care,Sexual Health,/pl/sexual-health/21010?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Natural & Organic,/pl/beauty-personalcare/18001?pzn=relevance&searchType=mktg%20attribute&taxonomyId=18001&nutrition=Organic%2CLive%20Naturally&fulfillment=all,5
+Shop All,/d/beauty,Hair Care,/pl/hair‐care/20004?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20004&fulfillment=all,5
+Shop All,/d/beauty,Skin Care,/pl/face‐care/20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all,5
+Shop All,/d/beauty,Bath & Body,/pl/bath‐&‐body /20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all External,5
+Shop All,/d/beauty,Makeup,/pl/makeup/20001?taxonomyId=20001&fulfillment=all,5
+Shop All,/d/beauty,Sun Care,/pl/sun-tanning/20006?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20006&fulfillment=all,5
+Shop All,/d/beauty,Fragrance,/pl/fragrance/20003?taxonomyId=20003&fulfillment=all,5
+Shop All,/d/beauty,Nails,/pl/nails/2000100003,5
+Shop All,/d/beauty,Natural & Organic,/pl/beauty‐personal‐care/18001,5
+Shop All,/d/beauty,Mini & Travel‐Size,/pl/minis‐travel‐size/20007?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20007&fulfillment=all,5
+Shop All,/d/beauty,Textured Hair Care,/pl/Textured%20Hair/2000400006?taxonomyId=2000400006&monet=false&fulfilment=all,5
+Shop All,/d/beauty,Beauty Deals,/pl/personalcare/21?pzn=relevance&searchType=mktg%20attribute&taxonomyId=21&fulfillment=all,5
+Shop All,/d/beauty,Shop All,/pl/beauty/20?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20&fulfillment=all,5
+Shop All,/d/baby,Diapers & Wipes,/pl/diapers-training-pants/10003?query=diapers&searchType=default_search&taxonomyId=10003&fulfillment=all,5
+Shop All,/d/baby,Wipes,/pl/baby-wipes/1000400002?pzn=relevance&taxonomyId=1000400002&fulfillment=all,5
+Shop All,/d/baby,Bath & Skin Care,/pl/body-&-hair-care/46005?taxonomyId=46005&fulfillment=all,5
+Shop All,/d/baby,Nursing & Feeding,/pl/nursing-&-feeding/44?taxonomyId=44&fulfillment=all,5
+Shop All,/d/baby,Health & Safety,/pl/health-&-safety/45?facets=tru&pzn=relevance,5
+Shop All,/d/baby,Baby Food,/pl/baby-food-snacks/10001?query=baby%20food&searchType=default_search&taxonomyId=10001&fulfillment=all,5
+Shop All,/d/baby,Strollers,/pl/strollers/42002?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Cribs,/pl/cribs-andBassinets/4300100001?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Car Seats,/pl/car‐seats/42001?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Gear & Activity,/pl/travel/42003?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Toddler,/pl/potty/46006?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Pre & Postpartum Essentials,/search?keyword=PreandPostpartum&query=PreandPostpartum&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Milk Based,/pl/milk-based-formula/1009300788?query=formula&searchType=default_search&taxonomyId=1009300788&fulfillment=all,5
+Shop All,/d/baby,Soy & Plant Based,/pl/soy-plant-based-formula/1009300789?query=formula&searchType=default_search&taxonomyId=1009300789&fulfillment=all,5
+Shop All,/d/baby,Sensitive & Gentle,/pl/sensitive-gentle-formula/1009300790?query=formula&searchType=default_search&taxonomyId=1009300790&fulfillment=all,5
+Shop All,/d/baby,Hypoallergenic,/pl/hypo-allergenicformula/1009300791?query=formula&searchType=default_search&taxonomyId=1009300791&fulfillment=all,5
+Shop All,/d/baby,Natural & Organic,/search?keyword=2023BabyDeptFormulaOrganic&query=2023BabyDeptFormulaOrganic&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Powder,/pl/powder-formula/1009300786?query=formula&searchType=default_search&taxonomyId=1009300786&fulfillment=all,5
+Shop All,/d/baby,Ready to Feed,/search?keyword=2023BabyDeptFormulaReadyToFeed&query=2023BabyDeptFormulaReadyToFeed&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Concentrate,/pl/concentrated-formula/1009300787?query=formula&searchType=default_search&taxonomyId=1009300787&fulfillment=all,5
+Shop All,/d/baby,Goat Milk,/pl/goat-milk-formula/1009300792?query=formula&searchType=default_search&taxonomyId=1009300792&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Jars,/pl/baby-food-jars/4400900006?taxonomyId=4400900006&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Pouches,/pl/baby-food-pouches/4400900007?taxonomyId=4400900007&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Snacks,/pl/baby-food-snacks/4400900008?taxonomyId=4400900008&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Cereal,/pl/baby-food-cereal/4400900010?taxonomyId=4400900010&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Meals,/pl/toddler-meals/4400900009?taxonomyId=4400900009&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Beverage,/pl/baby-&-toddler-beverage/4400900005?taxonomyId=4400900005&fulfillment=all,5

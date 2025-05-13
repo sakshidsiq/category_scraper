@@ -1,0 +1,209 @@
+parent_category,parent_category_link,category,category_link,level
+Celebrations Main Page,/f/party-shop,Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,7
+Celebrations Main Page,/f/party-shop,Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,7
+Celebrations Main Page,/f/party-shop,Baking Essentials,/search?keyword=CelebrationBaking&query=CelebrationBaking&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Party Décor & Supplies,/search?keyword=CelebrationSuppliesDecor&query=CelebrationSuppliesDecor&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Sweet Treats & Candy,/d/candy,7
+Celebrations Main Page,/f/party-shop,Flowers,/d/floral,7
+Celebrations Main Page,/f/party-shop,"Food, Snacks & Beverages",/f/party-foods,7
+Celebrations Main Page,/f/party-shop,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop,Birthday,/f/birthdays,7
+Celebrations Main Page,/f/party-shop,Graduation,/f/graduation,7
+Celebrations Main Page,/f/party-shop,Anniversary,/search?keyword=CelebrationAnniversary&query=CelebrationAnniversary&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Baby,/d/baby,7
+Gifting Essentials,/f/party-gifts,Celebrations Main Page,/f/party-shop?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,Birthday Must-Haves,/f/birthdays?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Online Ordering,/orderonline?pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Celebrations Main Page,/f/party-shop,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Birthday Must-Haves,/f/birthdays,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Baking Essentials,/search?keyword=CelebrationBaking&query=CelebrationBaking&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Party Décor & Supplies,/search?keyword=CelebrationSuppliesDecor&query=CelebrationSuppliesDecor&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Sweet Treats & Candy,/d/candy,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Flowers,/d/floral,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,"Food, Snacks & Beverages",/f/party-foods,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Birthday,/f/birthdays,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Graduation,/f/graduation,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Anniversary,/search?keyword=CelebrationAnniversary&query=CelebrationAnniversary&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop?pzn=relevance,Baby,/d/baby,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Cakes & Cookies,/search?query=CelebrationBDayCakeCookies&monet=curated&fulfillment=all&keyword=CelebrationBDayCakeCookies&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Cake Toppers & Candles,/search?query=CelebrationBDayCandlesToppers&monet=curated&fulfillment=allted&fulfillment=all&keyword=CelebrationBDayCandlesToppers&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Frozen Desserts,/search?query=CelebrationBDayFrznDessert&monet=curated&fulfillment=all&keyword=CelebrationBDayFrznDessert&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Baking Ingredients,/search?query=CelebrationBDayBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Baking Tools & Helpers,/search?query=CelebrationBDayGMBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayGMBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Celebrations Main Page,/f/party-shop,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Gifting Essentials,/f/party-gifts,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,7
+Birthday Must-Haves,/f/birthdays?pzn=relevance,Celebrate Grads with Special Deals,/f/graduation,7
+Sweet Treats & Candy,/d/candy,Chocolate,/pl/chocolate/23001?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Gum & Mints,/pl/gum/23002?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Grab & Go Candy,/pl/mints/2300200003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Chewy & Gummy Candy,/pl/gummychewy-candy/23003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Hard Candy & Lollipops,/pl/hard-candy/23004?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Healthier Options,https://www.kroger.com/pl/healthieroptions/23009?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Dark Chocolate Candy,/search?query=dark%20chocolate%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,7
+Sweet Treats & Candy,/d/candy,Sugar Free,/search?query=sugar%20free%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,7
+Sweet Treats & Candy,/d/candy,Assorted & Variety,/pl/chocolate/2300100005?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Sweet Treats & Candy,/d/candy,Premium Chocolate,/pl/premiumchocolate/23008?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,7
+Flowers,/d/floral,Fresh Cut Roses,/pl/fresh-cut-roses/09130,7
+Flowers,/d/floral,Bouquets,/pl/bouquets/09126,7
+Flowers,/d/floral,Floral Arrangements,/pl/floralarrangements/09128,7
+Flowers,/d/floral,Orchids,/pl/orchids/09132,7
+Flowers,/d/floral,Home & Gift,/pl/potted-plants/09133,7
+Flowers,/d/floral,Balloons,/pl/balloons/09125,7
+Flowers,/d/floral,Thank You,/search?keyword=FloralThankYou&query=FloralThankYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Flowers,/d/floral,Thinking of You,/search?keyword=FloralThinkingOfYou&query=FloralThinkingOfYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Flowers,/d/floral,Anniversary,/search?keyword=FloralAnniversary&query=FloralAnniversary&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Flowers,/d/floral,Birthday,/search?keyword=FloralBirthday&query=FloralBirthday&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Flowers,/d/floral,New Baby,/search?keyword=FloralNewBaby&query=FloralNewBaby&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Flowers,/d/floral,Sympathy,/search?keyword=FloralSympathy&query=FloralSympathy&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Food, Snacks & Beverages",/f/party-foods,Online Ordering,/orderonline?pzn=relevance,7
+"Food, Snacks & Beverages",/f/party-foods,Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Food, Snacks & Beverages",/f/party-foods,Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Food, Snacks & Beverages",/f/party-foods,Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,7
+"Food, Snacks & Beverages",/f/party-foods,Celebrations Main Page,/f/party-shop,7
+"Food, Snacks & Beverages",/f/party-foods,Birthday Must-Haves,/f/birthdays,7
+"Food, Snacks & Beverages",/f/party-foods,Gifting Essentials,/f/party-gifts,7
+Gifting Essentials,/f/party-gifts,Celebrations Main Page,/f/party-shop?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,Birthday Must-Haves,/f/birthdays?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Birthday,/f/birthdays,Cakes & Cookies,/search?query=CelebrationBDayCakeCookies&monet=curated&fulfillment=all&keyword=CelebrationBDayCakeCookies&searchType=mktg attribute&pzn=relevance,7
+Birthday,/f/birthdays,Cake Toppers & Candles,/search?query=CelebrationBDayCandlesToppers&monet=curated&fulfillment=allted&fulfillment=all&keyword=CelebrationBDayCandlesToppers&searchType=mktg attribute&pzn=relevance,7
+Birthday,/f/birthdays,Frozen Desserts,/search?query=CelebrationBDayFrznDessert&monet=curated&fulfillment=all&keyword=CelebrationBDayFrznDessert&searchType=mktg attribute&pzn=relevance,7
+Birthday,/f/birthdays,Baking Ingredients,/search?query=CelebrationBDayBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday,/f/birthdays,Baking Tools & Helpers,/search?query=CelebrationBDayGMBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayGMBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday,/f/birthdays,Celebrations Main Page,/f/party-shop,7
+Birthday,/f/birthdays,Gifting Essentials,/f/party-gifts,7
+Birthday,/f/birthdays,"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,7
+Birthday,/f/birthdays,Celebrate Grads with Special Deals,/f/graduation,7
+Baby,/d/baby,Diapers & Wipes,/pl/diapers-training-pants/10003?query=diapers&searchType=default_search&taxonomyId=10003&fulfillment=all,7
+Baby,/d/baby,Wipes,/pl/baby-wipes/1000400002?pzn=relevance&taxonomyId=1000400002&fulfillment=all,7
+Baby,/d/baby,Bath & Skin Care,/pl/body-&-hair-care/46005?taxonomyId=46005&fulfillment=all,7
+Baby,/d/baby,Nursing & Feeding,/pl/nursing-&-feeding/44?taxonomyId=44&fulfillment=all,7
+Baby,/d/baby,Health & Safety,/pl/health-&-safety/45?facets=tru&pzn=relevance,7
+Baby,/d/baby,Baby Food,/pl/baby-food-snacks/10001?query=baby%20food&searchType=default_search&taxonomyId=10001&fulfillment=all,7
+Baby,/d/baby,Strollers,/pl/strollers/42002?fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Cribs,/pl/cribs-andBassinets/4300100001?fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Car Seats,/pl/car‐seats/42001?fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Gear & Activity,/pl/travel/42003?fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Toddler,/pl/potty/46006?fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Pre & Postpartum Essentials,/search?keyword=PreandPostpartum&query=PreandPostpartum&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Milk Based,/pl/milk-based-formula/1009300788?query=formula&searchType=default_search&taxonomyId=1009300788&fulfillment=all,7
+Baby,/d/baby,Soy & Plant Based,/pl/soy-plant-based-formula/1009300789?query=formula&searchType=default_search&taxonomyId=1009300789&fulfillment=all,7
+Baby,/d/baby,Sensitive & Gentle,/pl/sensitive-gentle-formula/1009300790?query=formula&searchType=default_search&taxonomyId=1009300790&fulfillment=all,7
+Baby,/d/baby,Hypoallergenic,/pl/hypo-allergenicformula/1009300791?query=formula&searchType=default_search&taxonomyId=1009300791&fulfillment=all,7
+Baby,/d/baby,Natural & Organic,/search?keyword=2023BabyDeptFormulaOrganic&query=2023BabyDeptFormulaOrganic&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Powder,/pl/powder-formula/1009300786?query=formula&searchType=default_search&taxonomyId=1009300786&fulfillment=all,7
+Baby,/d/baby,Ready to Feed,/search?keyword=2023BabyDeptFormulaReadyToFeed&query=2023BabyDeptFormulaReadyToFeed&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Baby,/d/baby,Concentrate,/pl/concentrated-formula/1009300787?query=formula&searchType=default_search&taxonomyId=1009300787&fulfillment=all,7
+Baby,/d/baby,Goat Milk,/pl/goat-milk-formula/1009300792?query=formula&searchType=default_search&taxonomyId=1009300792&fulfillment=all,7
+Celebrations Main Page,/f/party-shop,Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,7
+Celebrations Main Page,/f/party-shop,Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,7
+Celebrations Main Page,/f/party-shop,Baking Essentials,/search?keyword=CelebrationBaking&query=CelebrationBaking&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Party Décor & Supplies,/search?keyword=CelebrationSuppliesDecor&query=CelebrationSuppliesDecor&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Sweet Treats & Candy,/d/candy,7
+Celebrations Main Page,/f/party-shop,Flowers,/d/floral,7
+Celebrations Main Page,/f/party-shop,"Food, Snacks & Beverages",/f/party-foods,7
+Celebrations Main Page,/f/party-shop,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop,Birthday,/f/birthdays,7
+Celebrations Main Page,/f/party-shop,Graduation,/f/graduation,7
+Celebrations Main Page,/f/party-shop,Anniversary,/search?keyword=CelebrationAnniversary&query=CelebrationAnniversary&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Baby,/d/baby,7
+Gifting Essentials,/f/party-gifts,Celebrations Main Page,/f/party-shop?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,Birthday Must-Haves,/f/birthdays?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Online Ordering,/orderonline?pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Celebrations Main Page,/f/party-shop,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Birthday Must-Haves,/f/birthdays,7
+"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop,Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,7
+Celebrations Main Page,/f/party-shop,Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,7
+Celebrations Main Page,/f/party-shop,Baking Essentials,/search?keyword=CelebrationBaking&query=CelebrationBaking&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Party Décor & Supplies,/search?keyword=CelebrationSuppliesDecor&query=CelebrationSuppliesDecor&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Sweet Treats & Candy,/d/candy,7
+Celebrations Main Page,/f/party-shop,Flowers,/d/floral,7
+Celebrations Main Page,/f/party-shop,"Food, Snacks & Beverages",/f/party-foods,7
+Celebrations Main Page,/f/party-shop,Gifting Essentials,/f/party-gifts,7
+Celebrations Main Page,/f/party-shop,Birthday,/f/birthdays,7
+Celebrations Main Page,/f/party-shop,Graduation,/f/graduation,7
+Celebrations Main Page,/f/party-shop,Anniversary,/search?keyword=CelebrationAnniversary&query=CelebrationAnniversary&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Celebrations Main Page,/f/party-shop,Baby,/d/baby,7
+Birthday Must-Haves,/f/birthdays,Cakes & Cookies,/search?query=CelebrationBDayCakeCookies&monet=curated&fulfillment=all&keyword=CelebrationBDayCakeCookies&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays,Cake Toppers & Candles,/search?query=CelebrationBDayCandlesToppers&monet=curated&fulfillment=allted&fulfillment=all&keyword=CelebrationBDayCandlesToppers&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays,Frozen Desserts,/search?query=CelebrationBDayFrznDessert&monet=curated&fulfillment=all&keyword=CelebrationBDayFrznDessert&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays,Baking Ingredients,/search?query=CelebrationBDayBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays,Baking Tools & Helpers,/search?query=CelebrationBDayGMBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayGMBaking&searchType=mktg attribute&pzn=relevance,7
+Birthday Must-Haves,/f/birthdays,Celebrations Main Page,/f/party-shop,7
+Birthday Must-Haves,/f/birthdays,Gifting Essentials,/f/party-gifts,7
+Birthday Must-Haves,/f/birthdays,"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,7
+Birthday Must-Haves,/f/birthdays,Celebrate Grads with Special Deals,/f/graduation,7
+Gifting Essentials,/f/party-gifts,Celebrations Main Page,/f/party-shop?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,Birthday Must-Haves,/f/birthdays?pzn=relevance,7
+Gifting Essentials,/f/party-gifts,"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,7
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,7
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,7
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,7
+Enhance Your Heart Health†,/health/info/heart-health,View All Healthcare Departments,/health,7
+Enhance Your Heart Health†,/health/info/heart-health,Explore Healthy Nutrition,/health/info,7
+Enhance Your Heart Health†,/health/info/heart-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,7
+Enhance Your Heart Health†,/health/info/heart-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Enhance Your Heart Health†,/health/info/heart-health,Shop Dietary Lifestyles,/f/shop-by-diet,7
+Enhance Your Heart Health†,/health/info/heart-health,Check Out OptUP™,/health/pharmacy/optup,7
+Learn About Diabetes Management†,/health/info/diabetes-care,View All Healthcare Departments,/health,7
+Learn About Diabetes Management†,/health/info/diabetes-care,Explore Healthy Nutrition,/health/info,7
+Learn About Diabetes Management†,/health/info/diabetes-care,Better-for-You Recipes,/blog/health/better-for-you-recipes,7
+Learn About Diabetes Management†,/health/info/diabetes-care,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Learn About Diabetes Management†,/health/info/diabetes-care,Shop by Dietary Lifestyle,/f/shop-by-diet,7
+Learn About Diabetes Management†,/health/info/diabetes-care,Check Out OptUP™,/health/pharmacy/optup,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,View All Healthcare Departments,/health,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Explore Healthy Nutrition,/health/info,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Shop by Dietary Lifestyle,/f/shop-by-diet,7
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Check Out OptUP™,/health/pharmacy/optup,7

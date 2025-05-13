@@ -1,0 +1,178 @@
+parent_category,parent_category_link,category,category_link,level
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,8
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,8
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,View All Healthcare Departments,/health,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,Explore the Pharmacy,/health/pharmacy,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,"Get Vaccinated
+(Opens in a new tab or window)",/health/clinic/vaccinations,8
+Medication Adherence,/health/pharmacy/medication-adherence-services,See Our FAQs,/health/pharmacy/faqs/prescriptions,8
+Shop Health & Wellness Items,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,8
+Shop Health & Wellness Items,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,8
+Home,/d/international-latin-mexican,Pantry Staples,/pl/Pantry/58002?taxonomyId=58002&monet=false&fulfilment=all,8
+Home,/d/international-latin-mexican,Meat & Seafood,/pl/Meat-Seafood/58008?taxonomyId=58008&monet=false&fulfilment=all,8
+Home,/d/international-latin-mexican,Fresh Produce,/pl/Fruits-Vegetables/58010?taxonomyId=58010&monet=false&fulfilment=all,8
+Home,/d/international-latin-mexican,"Salsas, Sauces & Seasonings",/pl/Salsa-Sauces-Dips/58003?taxonomyId=58003&monet=false&fulfilment=all,8
+Home,/d/international-latin-mexican,Tortillas & Shells,/pl/TortillasTaco-Shells-Tostadas/58001?taxonomyId=58001&monet=false&fulfilment=all,8
+Home,/d/international-latin-mexican,Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,8
+Home,/d/international-latin-mexican,Ceviche Mixto,/r/ceviche-mixto-mixed-seafood-recipe/5d6ed33c9da07c58141dc38b,8
+Home,/d/international-latin-mexican,Slow Cooker Pollo Guisado (Chicken Stew),/r/slow-cooker-pollo-guisado-chicken-stew-recipe/5d6ecafa9da07c58141dc31c,8
+Home,/d/international-latin-mexican,Pupusas con Curtido,/r/pupusas-con-curtido-stuffed-corn-tortillas-recipe/5d7022059da07c461162e812,8

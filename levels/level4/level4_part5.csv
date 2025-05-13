@@ -1,0 +1,147 @@
+parent_category,parent_category_link,category,category_link,level
+Pharmacy,https://www.kroger.com/health/pharmacy,Sign In or Create Account,/rx/dashboard,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Rx Refills,/rx/guest-refill,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Order Status,/rx/tracker,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Auto Refill,/rx/auto-refills,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Notifications & Reminders,/rx/patient-profile,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,4
+Pharmacy,https://www.kroger.com/health/pharmacy,View All Healthcare Departments,/health,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Pharmacy,https://www.kroger.com/health/pharmacy,Shop Health & Wellness Items,/d/health,4
+Clinic,https://www.kroger.com/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,4
+Clinic,https://www.kroger.com/health/clinic,Weight Management,/health/weight-management,4
+Clinic,https://www.kroger.com/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,4
+Clinic,https://www.kroger.com/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,4
+Clinic,https://www.kroger.com/health/clinic,Virtual Care,/health/clinic/virtual-care,4
+Clinic,https://www.kroger.com/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,4
+Clinic,https://www.kroger.com/health/clinic,View All Healthcare Departments,/health,4
+Clinic,https://www.kroger.com/health/clinic,View All Clinic Services,/health/clinic/services,4
+Clinic,https://www.kroger.com/health/clinic,Find a Clinic,/health-services/clinic/locations,4
+Clinic,https://www.kroger.com/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,4
+Clinic,https://www.kroger.com/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,4
+Clinic,https://www.kroger.com/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,4
+Nutrition,https://www.kroger.com/health/nutrition,Tracey Shaffer,/health/experts/tracey-shaffer,4
+Nutrition,https://www.kroger.com/health/nutrition,Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,4
+Nutrition,https://www.kroger.com/health/nutrition,Marcella Ranieri,/health/experts/marcella-ranieri,4
+Nutrition,https://www.kroger.com/health/nutrition,Kristen Keen,/health/experts/kristen-keen,4
+Nutrition,https://www.kroger.com/health/nutrition,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,4
+Nutrition,https://www.kroger.com/health/nutrition,View All Dietitians,/health/registered-dietitians,4
+Nutrition,https://www.kroger.com/health/nutrition,Enhance Your Heart Health†,/health/info/heart-health,4
+Nutrition,https://www.kroger.com/health/nutrition,Learn About Diabetes Management†,/health/info/diabetes-care,4
+Nutrition,https://www.kroger.com/health/nutrition,Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,4
+Nutrition,https://www.kroger.com/health/nutrition,Boost Your Immune System†,/health/info/immune-support,4
+Nutrition,https://www.kroger.com/health/nutrition,Strengthen Your Mental Wellness†,/health/info/mental-wellness,4
+Nutrition,https://www.kroger.com/health/nutrition,View All Healthcare Departments,/health,4
+Nutrition,https://www.kroger.com/health/nutrition,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,4
+Nutrition,https://www.kroger.com/health/nutrition,Shop by Dietary Lifestyle,/f/shop-by-diet,4
+Nutrition,https://www.kroger.com/health/nutrition,Check Out OptUP™,/health/pharmacy/optup,4
+Nutrition,https://www.kroger.com/health/nutrition,Explore Food & OTC Benefit Cards,/i/benefit-card,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,View All Healthcare Departments,/health,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore the Pharmacy,/health/pharmacy,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore The Little Clinic,/health/clinic,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore Healthy Nutrition,/health/info,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,View All Healthcare Departments,/health,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,Explore the Pharmacy,/health/pharmacy,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,Explore The Little Clinic,/health/clinic,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,Explore Healthy Nutrition,/health/info,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Clinic Appointments,https://www.kroger.com/health/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,View All Healthcare Departments,/health,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,Explore the Pharmacy,/health/pharmacy,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,Explore The Little Clinic,/health/clinic,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,Explore Healthy Nutrition,/health/info,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,Explore Virtual Care,/health/clinic/virtual-care,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,View All Healthcare Departments,/health,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,Explore the Pharmacy,/health/pharmacy,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,Explore The Little Clinic,/health/clinic,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,Explore Healthy Nutrition,/health/info,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,Explore Virtual Care,/health/clinic/virtual-care,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,View All Healthcare Departments,/health,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,Explore the Pharmacy,/health/pharmacy,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,Explore The Little Clinic,/health/clinic,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,Explore Healthy Nutrition,/health/info,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,Explore Virtual Care,/health/clinic/virtual-care,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Sign In or Create Account,/rx/dashboard,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Rx Refills,/rx/guest-refill,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Order Status,/rx/tracker,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Auto Refill,/rx/auto-refills,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Notifications & Reminders,/rx/patient-profile,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,View All Healthcare Departments,/health,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Explore the Pharmacy,https://www.kroger.com/health/pharmacy,Shop Health & Wellness Items,/d/health,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,View All Healthcare Departments,/health,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore the Pharmacy,/health/pharmacy,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore The Little Clinic,/health/clinic,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore Healthy Nutrition,/health/info,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,View All Healthcare Departments,/health,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,Explore the Pharmacy,/health/pharmacy,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,Explore The Little Clinic,/health/clinic,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,Explore Healthy Nutrition,/health/info,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,Explore COVID-19 Resources,/health/pharmacy/covid-care,4
+Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,Explore Virtual Care,/health/clinic/virtual-care,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,View All Healthcare Departments,/health,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,Explore the Pharmacy,/health/pharmacy,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,"Get Vaccinated
+(Opens in a new tab or window)",/health/clinic/vaccinations,4
+Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,See Our FAQs,/health/pharmacy/faqs/prescriptions,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,View All Healthcare Departments,/health,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,Explore the Pharmacy,/health/pharmacy,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,Get Vaccinated,/health/clinic/vaccinations,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,"Save on Prescriptions
+(Opens in a new tab or window)",https://www.krogerhealthsavings.com/,4
+Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,See Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,View All Healthcare Departments,/health,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,Explore the Pharmacy,/health/pharmacy,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,Get Vaccinated,/health/clinic/vaccinations,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,"Save on Prescriptions
+(Opens in a new tab or window)",https://www.krogerhealthsavings.com/,4
+Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,See Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,View All Healthcare Departments,/health,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,Explore the Pharmacy,/health/pharmacy,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,Get Vaccinated,/health/clinic/vaccinations,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,"Save on Prescriptions
+(Opens in a new tab or window)",https://www.krogerhealthsavings.com/,4
+Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,See Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,View All Healthcare Departments,/health,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,Explore the Pharmacy,/health/pharmacy,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,Find a Pharmacy,/stores/pharmacy,4
+Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Weight Management,/health/weight-management,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Virtual Care,/health/clinic/virtual-care,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,View All Healthcare Departments,/health,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,View All Clinic Services,/health/clinic/services,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Find a Clinic,/health-services/clinic/locations,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,4
+Explore The Little Clinic,https://www.kroger.com/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,4

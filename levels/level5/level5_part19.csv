@@ -1,0 +1,117 @@
+parent_category,parent_category_link,category,category_link,level
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,5
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,5
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,5
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,5
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,5
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,5
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,5
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,5
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,5
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,5
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,5
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,5
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,5
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,5
+New Arrivals,/f/new-arrivals,Shop All Departments,/d/shop-all-departments,5
+New Arrivals,/f/new-arrivals,Shop Our Brands,/b/ourbrands,5
+New Arrivals,/f/new-arrivals,Meal Planning,/blog/meal-planning,5
+New Arrivals,/f/new-arrivals,Specialty Diets,/f/shop-by-diet,5
+New Arrivals,/f/new-arrivals,Shop Your Regulars,/products/start-my-cart,5
+Shop All Departments,/d/shop-all-departments,Meat,/d/meat,5
+Shop All Departments,/d/shop-all-departments,Seafood,/d/seafood,5
+Shop All Departments,/d/shop-all-departments,Produce,/d/produce,5
+Shop All Departments,/d/shop-all-departments,Deli,/d/deli,5
+Shop All Departments,/d/shop-all-departments,Bakery,/d/bakery,5
+Shop All Departments,/d/shop-all-departments,Dairy & Eggs,/d/dairy,5
+Shop All Departments,/d/shop-all-departments,Pantry,/d/grocery,5
+Shop All Departments,/d/shop-all-departments,Beverage,/d/beverages,5
+Shop All Departments,/d/shop-all-departments,Breakfast,/d/breakfast,5
+Shop All Departments,/d/shop-all-departments,Natural & Organic,/d/natural-organic,5
+Shop All Departments,/d/shop-all-departments,Adult Beverage,/d/beer-wine-liquor,5
+Shop All Departments,/d/shop-all-departments,Frozen,/d/frozen,5
+Shop All Departments,/d/shop-all-departments,Health,/d/health,5
+Shop All Departments,/d/shop-all-departments,Vitamins & Supplements,/d/vitamins-supplements,5
+Shop All Departments,/d/shop-all-departments,Personal Care,/d/personal-care,5
+Shop All Departments,/d/shop-all-departments,Beauty,/d/beauty,5
+Shop All Departments,/d/shop-all-departments,Baby,/d/baby,5
+Shop All Departments,/d/shop-all-departments,Home,/d/home-electronics,5
+Shop All Departments,/d/shop-all-departments,Kitchen & Dining,/d/kitchen-dining,5
+Shop All Departments,/d/shop-all-departments,Electronics,/d/electronics,5
+Shop All Departments,/d/shop-all-departments,Patio & Grilling,/d/patio-grilling,5
+Shop All Departments,/d/shop-all-departments,Cleaning & Household,/d/household,5
+Shop All Departments,/d/shop-all-departments,Pets,/d/pet-supplies,5
+Shop All Departments,/d/shop-all-departments,Toys,/d/toys,5
+Shop All Departments,/d/shop-all-departments,Floral,/d/floral,5
+Shop All Departments,/d/shop-all-departments,Vitacost,https://www.vitacost.com/,5
+Shop All Departments,/d/shop-all-departments,Murrays Cheese,/b/murrays-cheese,5
+Shop All Departments,/d/shop-all-departments,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Simple Truth®,/b/simple-truth,5
+Shop Our Brands,/b/ourbrands,Private Selection®,/b/private-selection,5
+Shop Our Brands,/b/ourbrands,Kroger Brand,/b/kroger-brand,5
+Shop Our Brands,/b/ourbrands,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Murray’s Cheese,/b/murrays-cheese,5
+Shop Our Brands,/b/ourbrands,BLOOM HAUS™,/b/bloom-haus,5
+Shop Our Brands,/b/ourbrands,ABOUND,/b/abound,5
+Shop Our Brands,/b/ourbrands,Luvsome,/b/luvsome,5
+Shop Our Brands,/b/ourbrands,Pet Pride,/b/pet-pride,5
+Shop Our Brands,/b/ourbrands,Comforts,/b/comforts-baby,5
+Shop Our Brands,/b/ourbrands,Dip,/b/dip,5
+Specialty Diets,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Specialty Diets,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Specialty Diets,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Specialty Diets,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+New Arrivals,/f/new-arrivals,Shop All Departments,/d/shop-all-departments,5
+New Arrivals,/f/new-arrivals,Shop Our Brands,/b/ourbrands,5
+New Arrivals,/f/new-arrivals,Meal Planning,/blog/meal-planning,5
+New Arrivals,/f/new-arrivals,Specialty Diets,/f/shop-by-diet,5
+New Arrivals,/f/new-arrivals,Shop Your Regulars,/products/start-my-cart,5
+New Arrivals,/f/new-arrivals,Shop All Departments,/d/shop-all-departments,5
+New Arrivals,/f/new-arrivals,Shop Our Brands,/b/ourbrands,5
+New Arrivals,/f/new-arrivals,Meal Planning,/blog/meal-planning,5
+New Arrivals,/f/new-arrivals,Specialty Diets,/f/shop-by-diet,5
+New Arrivals,/f/new-arrivals,Shop Your Regulars,/products/start-my-cart,5
+Shop All Departments,/d/shop-all-departments,Meat,/d/meat,5
+Shop All Departments,/d/shop-all-departments,Seafood,/d/seafood,5
+Shop All Departments,/d/shop-all-departments,Produce,/d/produce,5
+Shop All Departments,/d/shop-all-departments,Deli,/d/deli,5
+Shop All Departments,/d/shop-all-departments,Bakery,/d/bakery,5
+Shop All Departments,/d/shop-all-departments,Dairy & Eggs,/d/dairy,5
+Shop All Departments,/d/shop-all-departments,Pantry,/d/grocery,5
+Shop All Departments,/d/shop-all-departments,Beverage,/d/beverages,5
+Shop All Departments,/d/shop-all-departments,Breakfast,/d/breakfast,5
+Shop All Departments,/d/shop-all-departments,Natural & Organic,/d/natural-organic,5
+Shop All Departments,/d/shop-all-departments,Adult Beverage,/d/beer-wine-liquor,5
+Shop All Departments,/d/shop-all-departments,Frozen,/d/frozen,5
+Shop All Departments,/d/shop-all-departments,Health,/d/health,5
+Shop All Departments,/d/shop-all-departments,Vitamins & Supplements,/d/vitamins-supplements,5
+Shop All Departments,/d/shop-all-departments,Personal Care,/d/personal-care,5
+Shop All Departments,/d/shop-all-departments,Beauty,/d/beauty,5
+Shop All Departments,/d/shop-all-departments,Baby,/d/baby,5
+Shop All Departments,/d/shop-all-departments,Home,/d/home-electronics,5
+Shop All Departments,/d/shop-all-departments,Kitchen & Dining,/d/kitchen-dining,5
+Shop All Departments,/d/shop-all-departments,Electronics,/d/electronics,5
+Shop All Departments,/d/shop-all-departments,Patio & Grilling,/d/patio-grilling,5
+Shop All Departments,/d/shop-all-departments,Cleaning & Household,/d/household,5
+Shop All Departments,/d/shop-all-departments,Pets,/d/pet-supplies,5
+Shop All Departments,/d/shop-all-departments,Toys,/d/toys,5
+Shop All Departments,/d/shop-all-departments,Floral,/d/floral,5
+Shop All Departments,/d/shop-all-departments,Vitacost,https://www.vitacost.com/,5
+Shop All Departments,/d/shop-all-departments,Murrays Cheese,/b/murrays-cheese,5
+Shop All Departments,/d/shop-all-departments,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Simple Truth®,/b/simple-truth,5
+Shop Our Brands,/b/ourbrands,Private Selection®,/b/private-selection,5
+Shop Our Brands,/b/ourbrands,Kroger Brand,/b/kroger-brand,5
+Shop Our Brands,/b/ourbrands,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Murray’s Cheese,/b/murrays-cheese,5
+Shop Our Brands,/b/ourbrands,BLOOM HAUS™,/b/bloom-haus,5
+Shop Our Brands,/b/ourbrands,ABOUND,/b/abound,5
+Shop Our Brands,/b/ourbrands,Luvsome,/b/luvsome,5
+Shop Our Brands,/b/ourbrands,Pet Pride,/b/pet-pride,5
+Shop Our Brands,/b/ourbrands,Comforts,/b/comforts-baby,5
+Shop Our Brands,/b/ourbrands,Dip,/b/dip,5
+Specialty Diets,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Specialty Diets,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Specialty Diets,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Specialty Diets,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5

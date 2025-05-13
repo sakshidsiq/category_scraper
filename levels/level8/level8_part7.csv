@@ -1,0 +1,159 @@
+parent_category,parent_category_link,category,category_link,level
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,8
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,8
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,8
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,8
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,8
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,8
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,8
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,8
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,8
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,8
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,8
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,8
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,8
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,8
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,8
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,8
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,8
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,8
+Easter Meal Ingredients,/f/easter,Tools & Gadgets,/search?keyword=Easter25ToolsGadgets&query=Easter25ToolsGadgets&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Easter Meal Ingredients,/f/easter,Cookware,/search?keyword=Easter25Cookware&query=Easter25Cookware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Easter Meal Ingredients,/f/easter,Bakeware,/search?keyword=Easter25Bakeware&query=Easter25Bakeware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Easter Meal Ingredients,/f/easter,Dinnerware & Serveware,/search?keyword=Easter25DinnerServeware&query=Easter25DinnerServeware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,8
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,8
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,8
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,8
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,8
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,8
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,8
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,8
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,8
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,8
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,8
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,8
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,8
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,8
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,8
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,8
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,8
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,8
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,8
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,8
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,8
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,8
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,8
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,8
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,8
+Shop by Dietary Lifestyle,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,8
+Shop by Dietary Lifestyle,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,8
+Shop by Dietary Lifestyle,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,8
+Shop by Dietary Lifestyle,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Grilled Pineapple Poblano Guacamole,/r/grilled-pineapple-poblano-guacamole-recipe/5d08f9779da07c1bfa12a76a,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Shrimp with Avocado Peach Salsa,/r/keto-grilled-shrimp-with-avocado-peach-salad-recipe/628a5cc0-e09b-49d5-b468-2bc70ad453bb,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Steak and Potato Salad,/r/grilled-steak-potato-party-salad-recipe/5d08f65f9da07c1bfa12a734,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Chicken and Summer Squash Packets,/r/chicken-summer-squash-packets-recipe/5b34040984ae5310116e36a5,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Turkey Burgers,/r/turkey-burgers-recipe/104051,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Pork Chop with Peach Pan Sauce,/r/pork-chops-with-peach-pan-sauce-recipe/899966ee-fc34-411a-be3b-79bd3f8bc16f,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,Dietary Lifestyles,/f/shop-by-diet,8
+Find Better-for-You Recipes,/blog/health/better-for-you-recipes,OptUP®,/health/pharmacy/optup,8
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,8
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,8
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,8
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,8
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,8
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,8
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,8
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,8
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,8
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,8
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,8
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,8
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,8
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,8
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,8
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,8
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,8
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,8
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,8
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,8
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,8
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,8
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,8
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,8
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,8
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,8
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,8
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,8
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,8
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,8
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,8
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,8
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,8
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,8
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,8
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,8
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,8
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,8
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,8
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,8
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,8

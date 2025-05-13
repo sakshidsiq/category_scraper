@@ -1,0 +1,20 @@
+parent_category,category_link,reason
+Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Get Vaccinated,/health/clinic/vaccinations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Physicals & Screenings,/health/pharmacy/clinical-services,page not loaded
+Vaccines & Injections,/health/clinic/vaccinations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Clinic,/health-services/clinic/locations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,page not loaded
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Explore Food & OTC Benefit Cards,/i/benefit-card,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Explore At-Home Test Kits,/search?keyword=CovidTest&query=CovidTest&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Clinic,/health-services/clinic/locations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sign In or Create Account,/rx/dashboard,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Rx Transfers,/rx/guest/transfer-prescriptions,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center

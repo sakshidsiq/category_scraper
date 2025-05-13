@@ -1,0 +1,7 @@
+parent_category,parent_category_link,category,category_link,level
+Produce,/d/produce,Kroger Brand,/pl/produce/06?brandName=Kroger&query=kroger&monet=false,7
+Produce,/d/produce,Private Selection,/pl/produce/06?brandName=Private%20Selection&monet=false,7
+Produce,/d/produce,Simple Truth,/pl/produce/06?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Beverage,/d/beverages,Kroger,/pl/beverages/04?brandName=Kroger&fulfillment=all,7
+Breakfast,/d/breakfast,Simple Truth,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Simple%20Truth%7CSimple%20Truth%20Organic&fulfillment=all,7
+Breakfast,/d/breakfast,Kroger,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Kroger&fulfillment=all,7

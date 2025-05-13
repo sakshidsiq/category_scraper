@@ -1,0 +1,87 @@
+parent_category,parent_category_link,category,category_link,level
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,9
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,9
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,9
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,9
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,9
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,9
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,9
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,9
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,9
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,9
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,9
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,9
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,9
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,9
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,9
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,9
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,9
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,9
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,9
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,9
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,9
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,9
+View All Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,9
+View All Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,9
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,9
+Browse Wellness Articles,/blog/health,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,9
+Browse Wellness Articles,/blog/health,Dietary Lifestyles,/f/shop-by-diet,9
+Browse Wellness Articles,/blog/health,Blog Health Archive,/blog/health/archive,9
+Browse Wellness Articles,/blog/health,OptUp® Nutrition,/health/pharmacy/optup,9
+Browse Wellness Articles,/blog/health,Meet our Dietitians,/health/registered-dietitians,9

@@ -1,0 +1,74 @@
+parent_category,parent_category_link,category,category_link,level
+Start a Pickup or Delivery Order,/f/start-shopping,Shop Summer,/f/summer-shop,4
+Start a Pickup or Delivery Order,/f/start-shopping,Weekly Ad,/weeklyad/shoppable,4
+Start a Pickup or Delivery Order,/f/start-shopping,Quick & Easy Meals,/blog/meal-planning,4
+Start a Pickup or Delivery Order,/f/start-shopping,Save with Kroger Brand,/b/kroger-brand,4
+Start a Pickup or Delivery Order,/f/start-shopping,New Arrivals,/f/new-arrivals,4
+Save with This Week's Top Deals,/pr/top-deals,Shop Summer,/f/summer-shop,4
+Save with This Week's Top Deals,/pr/top-deals,"Spend $40, Save $10 Pet & Baby",/search?keyword=TDPetBabyS40S10P425&query=TDPetBabyS40S10P425&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Save with This Week's Top Deals,/pr/top-deals,4X Fuel Points on Gift Cards,/o/gift-cards,4
+Save with This Week's Top Deals,/pr/top-deals,Budget Friendly Meals,/blog/budget-friendly-meals,4
+Save with This Week's Top Deals,/pr/top-deals,Shop Kroger Brands,/b/kroger-brand,4
+Save with This Week's Top Deals,/pr/top-deals,Fuel Points,/pr/fuel-event,4
+Murray’s Cheeses,/b/murrays-cheese,Recipes,/recipes/search?searchTerm=murray%27s&page=1,4
+Murray’s Cheeses,/b/murrays-cheese,"Gifting & Entertaining
+(Opens in a new tab or window)",https://www.murrayscheese.com/murrays-cheese-at-kroger,4
+Murray’s Cheeses,/b/murrays-cheese,"Follow the Curd
+(Opens in a new tab or window)",https://www.murrayscheese.com/cheezemail,4
+Latin Flavors,/f/latin-flavors-recipes,Multicultural Foods,/blog/meal-planning/multicultural,4
+Latin Flavors,/f/latin-flavors-recipes,Top Deals,/pr/top-deals,4
+Latin Flavors,/f/latin-flavors-recipes,Weekly Digital Deals,/pr/weekly-digital-deals,4
+Latin Flavors,/f/latin-flavors-recipes,Boost,/pr/boost,4
+Summer Essentials,/f/summer-shop,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Summer Essentials,/f/summer-shop,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Summer Essentials,/f/summer-shop,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+New Arrivals,/f/new-arrivals,Shop All Departments,/d/shop-all-departments,4
+New Arrivals,/f/new-arrivals,Shop Our Brands,/b/ourbrands,4
+New Arrivals,/f/new-arrivals,Meal Planning,/blog/meal-planning,4
+New Arrivals,/f/new-arrivals,Specialty Diets,/f/shop-by-diet,4
+New Arrivals,/f/new-arrivals,Shop Your Regulars,/products/start-my-cart,4
+Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,Japanese,/search?keyword=2024AAPIJapaneseEssentials&query=2024AAPIJapaneseEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,Filipino,/search?keyword=2024AAPIFilipinoEssentials&query=2024AAPIFilipinoEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,Korean,/search?keyword=2024AAPIKoreanEssentials&query=2024AAPIKoreanEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,Chinese,/search?keyword=2024AAPIChineseEssentials&query=2024AAPIChineseEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,Indian,/search?keyword=2024AAPIIndianEssentials&query=2024AAPIIndianEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Brunch Ideas & Inspiration,/blog/meal-planning/brunch,Build your Easter Meal,/f/easter,4
+Brunch Ideas & Inspiration,/blog/meal-planning/brunch,Weeknight Dinner Recipes,/blog/meal-planning,4
+Brunch Ideas & Inspiration,/blog/meal-planning/brunch,More Easter Recipes,/blog/seasonal/easter,4
+Brunch Ideas & Inspiration,/blog/meal-planning/brunch,Spring Recipes,/blog/seasonal/spring,4
+DIY Brunch Beverages,/blog/meal-planning/brunch#brunchdrinks,Build your Easter Meal,/f/easter,4
+DIY Brunch Beverages,/blog/meal-planning/brunch#brunchdrinks,Weeknight Dinner Recipes,/blog/meal-planning,4
+DIY Brunch Beverages,/blog/meal-planning/brunch#brunchdrinks,More Easter Recipes,/blog/seasonal/easter,4
+DIY Brunch Beverages,/blog/meal-planning/brunch#brunchdrinks,Spring Recipes,/blog/seasonal/spring,4
+Shop All Summer,/f/summer-shop,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Shop All Summer,/f/summer-shop,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Shop All Summer,/f/summer-shop,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Guaranteed Fresh Produce,/d/produce,Spring Produce,/pl/springproduce/0617600004?taxonomyId=0617600004&monet=curated&fulfillment=all&pzn=relevance,4
+Guaranteed Fresh Produce,/d/produce,Berries,/pl/berries/0611100673,4
+Guaranteed Fresh Produce,/d/produce,Citrus,/pl/citrus/0611100671?taxonomyId=0611100671&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Fresh Cut Fruit & Veggies,/pl/fresh-cut-fruit-vegetables/06121,4
+Guaranteed Fresh Produce,/d/produce,Grapes,/pl/grapes-cherries/0611100681?taxonomyId=0611100681&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Potatoes,/pl/potatoes/0611200691?taxonomyId=0611200691&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Apples,/pl/apples/0611100667?taxonomyId=0611100667&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Broccoli & Cauliflower,/pl/broccolicauliflower/0611200685?taxonomyId=0611100685&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,"Nuts, Trail Mix & Seeds",/pl/nuts-trail-mix-seeds/01022?taxonomyId=01022&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Carrots,/pl/carrots/0611200682?taxonomyId=0611200682&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Salad Mix,/pl/salads/06114,4
+Guaranteed Fresh Produce,/d/produce,Tomatoes,/pl/tomatoes/0611200690,4
+Guaranteed Fresh Produce,/d/produce,Fresh Prepared Fruits & Vegetables,/pl/packaged-produce/06123,4
+Guaranteed Fresh Produce,/d/produce,Onions & Garlic,/pl/onions/0611200692,4
+Guaranteed Fresh Produce,/d/produce,Mushrooms,/pl/ mushrooms/0611200686,4
+Guaranteed Fresh Produce,/d/produce,Peppers,/pl/peppers/0611200689,4
+Guaranteed Fresh Produce,/d/produce,Tropical Fruits,/pl/tropicalfruits/0611100675?taxonomyId=0611100675&fulfillment=all,4
+Guaranteed Fresh Produce,/d/produce,Avocados,/pl/avocado/0611100680?taxonomyId=0611100680&fulfillment=all,4
+Summer Snacks & Sides,/f/summer-shop#dipssnacks,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Summer Snacks & Sides,/f/summer-shop#dipssnacks,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Summer Snacks & Sides,/f/summer-shop#dipssnacks,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Grilling Recipe Inspiration,/blog/seasonal/summer/grilling,Shop Summer Ingredients,/f/summer-shop,4
+Grilling Recipe Inspiration,/blog/seasonal/summer/grilling,Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,4
+Grilling Recipe Inspiration,/blog/seasonal/summer/grilling,Weeknight Dinner Recipes,/blog/meal-planning,4
+Garden & Patio,/d/patio-grilling,Firewood & Fire Starters,/search?keyword=FirewoodFireStartersIconENT&query=FirewoodFireStartersIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,4
+Garden & Patio,/d/patio-grilling,Grill Accessories,/pl/grill-accessories/2400100006?taxonomyId=2400100006&fulfillment=all,4
+Garden & Patio,/d/patio-grilling,Outdoor Cookware,/search?keyword=OutdoorCookwareIconENT&query=OutdoorCookwareIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,4
+Garden & Patio,/d/patio-grilling,"Seeds, Soils & Garden Essentials",/pl/landscaping-lawncare/2400200006?taxonomyId=2400200006&fulfillment=all,4
+Garden & Patio,/d/patio-grilling,Fuel,/search?keyword=GrillingFuelIconENT&query=GrillingFuelIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,4

@@ -1,0 +1,40 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/candy,Chocolate,/pl/chocolate/23001?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Gum & Mints,/pl/gum/23002?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Grab & Go Candy,/pl/mints/2300200003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Chewy & Gummy Candy,/pl/gummychewy-candy/23003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Hard Candy & Lollipops,/pl/hard-candy/23004?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Healthier Options,https://www.kroger.com/pl/healthieroptions/23009?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Dark Chocolate Candy,/search?query=dark%20chocolate%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Shop All,/d/candy,Sugar Free,/search?query=sugar%20free%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Shop All,/d/candy,Assorted & Variety,/pl/chocolate/2300100005?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Premium Chocolate,/pl/premiumchocolate/23008?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Letter Vitamins,/pl/letter-vitamins/2201300001?taxonomyId=2201300001&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Minerals,/pl/minerals/2201300004?taxonomyId=2201300004&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Herbal Supplements,/pl/herbalsupplements/2201300003?taxonomyId=2201300003&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Multi Vitamins,/pl/multi-vitamins/2201300005?taxonomyId=2201300005&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Nutritional Supplements,/pl/nutrition-dietsupplements/2201300008?taxonomyId=2201300008&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Natural & Organic,/pl/vitaminssupplements/1800100003?taxonomyId=1800100003&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Children's Vitamins,/pl/children-svitamins/2201300002?taxonomyId=2201300002&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Probiotics,/pl/probiotics/2201300009,5
+Shop All,/d/vitamins-supplements,Prenatal & Postnatal,/pl/prenatalpostnatal-vitamins/2201300010?taxonomyId=2201300010&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Joint Health,/pl/joint-health/2201300007?taxonomyId=2201300007&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Heart Health,/pl/fish-oil-oilsomegas/2201300006?taxonomyId=2201300006&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Hair Skin & Nails,/pl/hair-skin-nailssupplements/2201300011?taxonomyId=2201300011&fulfillment=all,5
+Shop All,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,5
+Shop All,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,5

@@ -1,0 +1,55 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/natural-organic,Grocery,/pl/grocery/18012,5
+Shop All,/d/natural-organic,Beauty & Personal Care,/pl/beauty-personal-care/18001,5
+Shop All,/d/natural-organic,Meat & Seafood,/pl/meat-seafood/18004,5
+Shop All,/d/natural-organic,Produce,/pl/organic-produce/18003,5
+Shop All,/d/natural-organic,Dairy & Eggs,/pl/dairy-eggs/18007,5
+Shop All,/d/natural-organic,Cleaning & Household,/pl/cleaning-household/18011,5
+Shop All,/d/natural-organic,Baby,/pl/baby/18002,5
+Shop All,/d/natural-organic,Deli,/pl/deli/18008,5
+Shop All,/d/natural-organic,Bread & Bakery,/pl/bakery-bread/18009,5
+Shop All,/d/natural-organic,Frozen,/pl/frozen/18010,5
+Shop All,/d/natural-organic,Spices & Baking,/pl/spices-baking/18006,5
+Shop All,/d/natural-organic,Beverages,/pl/beverages/18005,5
+Shop All,/d/beverages,Soda & Pop,/pl/soda-pop/04001,5
+Shop All,/d/beverages,Water,/pl/water/04006,5
+Shop All,/d/beverages,Coffee Shop,/d/coffee,5
+Shop All,/d/beverages,Juice & Lemonade,/pl/juice/04004,5
+Shop All,/d/beverages,Milk & Milk Substitutes,/pl/milk-plant-based-milk/02001,5
+Shop All,/d/beverages,Tea,/pl/tea-kombucha/04007,5
+Shop All,/d/beverages,Kombucha & Gut Health Beverages,/pl/kombucha-and-gut-health-beverages/04012?pzn=relevance&taxonomyId=04012&fulfillment=all,5
+Shop All,/d/beverages,Sparkling Water,/pl/sparkling-water/04002,5
+Shop All,/d/beverages,Sports Drink,/pl/sports-drinks/04005,5
+Shop All,/d/beverages,Drink Mixes & Beverage Enhancers,/pl/drink-mixes-beverage-enhancers/04008,5
+Shop All,/d/beverages,Drink Boxes & Pouches,/pl/drink-boxes-pouches/04010,5
+Shop All,/d/beverages,Energy Drinks,/pl/energydrinks/04011,5
+Shop All,/d/beverages,Adult Beverage Mixers,/pl/adult-beverage-mixers/08189?pzn=relevance&taxonomyId=08189&fulfillment=all,5
+Shop All,/d/beverages,Cocoa Mixes,/pl/cocoa-mixes/0400700011?taxonomyId=0400700011&fulfillment=all,5
+Shop All,/d/beverages,Protein Shakes,/pl/proteinshakes/2201000002,5
+Shop All,/d/beverages,Glassware & Drinkware,/pl/glassware-drinkware/28004?facets=true&pzn=relevance,5
+Shop All,/d/beverages,Soda Stream,/search?query=soda%20stream&searchType=default_search,5
+Shop All,/d/breakfast,Cereal & Granola,/pl/cereal-granola/03001,5
+Shop All,/d/breakfast,Breakfast & Cereal Bars,/pl/breakfastcereal-bars/0300200001,5
+Shop All,/d/breakfast,Pop-Tarts & Toaster Pastries,/pl/pop-tartstoaster-pastries/0300200006,5
+Shop All,/d/breakfast,"Bread, Bagels & Muffins",/pl/bread-bagels-muffins/03004,5
+Shop All,/d/breakfast,Frozen Breakfast,/pl/frozen-breakfast/19007,5
+Shop All,/d/breakfast,Donuts & Pastries,/pl/donuts-pastries/03005,5
+Shop All,/d/breakfast,"Pancake, Waffle & Baking Mixes",/pl/pancake-waffle-baking-mixes/03003,5
+Shop All,/d/breakfast,Dairy & Refrigerated Breakfast,/pl/dairy-refrigerated-breakfast/03006,5
+Shop All,/d/breakfast,Bacon & Breakfast Sausage,/pl/bacon-sausage/05017,5
+Shop All,/d/breakfast,Juice & Breakfast Drinks,/pl/juice-breakfast-drinks/03007,5
+Shop All,/d/breakfast,Fresh Fruit,/pl/fresh-fruit/06111,5
+Shop All,/d/breakfast,Fresh Cut Fruit,/pl/fresh-cut-fruitvegetables/06121,5
+Shop All,/d/breakfast,Private Selection,/pl/breakfast/03?query=Private%20Selection&searchType=default_search&taxonomyId=03&fulfillment=all&pzn=relevance,5
+Shop All,/d/coffee,K-Cups & Pods,/pl/k-cups-coffee-pods/0400300001?taxonomyId=0400300001&fulfillment=all,5
+Shop All,/d/coffee,Nespresso Pods & Capsules,/pl/nespresso-pods-capsules/0400300004?taxonomyId=0400300004&fulfillment=all,5
+Shop All,/d/coffee,Ground Coffee,/pl/ground-coffee/0400300003?taxonomyId=0400300003&fulfillment=all,5
+Shop All,/d/coffee,Whole Coffee Beans,/pl/whole-coffee-beans/0400300002?taxonomyId=0400300002&fulfillment=all,5
+Shop All,/d/coffee,Instant Coffee,/pl/instant-coffee/0400300010?taxonomyId=0400300010&fulfillment=all,5
+Shop All,/d/coffee,Seasonal & Holiday Flavored Coffee & Creamer,/pl/seasonal-holiday-flavored-coffee-creamer/0400300005?taxonomyId=0400300005&fulfillment=all,5
+Shop All,/d/coffee,"Cold Brew, Iced & Bottled Coffee",/pl/cold-brew-iced-bottled-coffee/0400300009?taxonomyId=0400300009&fulfillment=al,5
+Shop All,/d/coffee,Espresso Coffee,/pl/espresso-coffee/0400300007?taxonomyId=0400300007&fulfillment=all,5
+Shop All,/d/coffee,Decaffeinated Coffee,/pl/decaffeinated-coffee/0400300006?taxonomyId=0400300006&fulfillment=all,5
+Shop All,/d/coffee,Coffee Creamers & Flavoring Syrups,/pl/coffee-creamers-flavoring-syrups/0400300008?taxonomyId=0400300008&fulfillment=all,5
+Shop All,/d/coffee,Coffee Filters,/pl/filters/2801200002?taxonomyId=2801200002&fulfillment=all,5
+Shop All,/d/coffee,Coffee & Espresso Machines,/pl/coffee-makers/2800700009?taxonomyId=2800700009&fulfillment=all,5

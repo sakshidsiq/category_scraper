@@ -1,0 +1,179 @@
+parent_category,parent_category_link,category,category_link,level
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,6
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,6
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,6
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,6
+Schedule an Appointment,/health/clinic/schedule-appointment,View All Healthcare Departments,/health,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore the Pharmacy,/health/pharmacy,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore The Little Clinic,/health/clinic,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Healthy Nutrition,/health/info,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,6
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,6
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,6
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,6
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,6
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,6
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,6
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,6
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,6
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,6
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,6
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,6
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,View All Healthcare Departments,/health,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Explore the Pharmacy,/health/pharmacy,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Find a Pharmacy,/stores/pharmacy,6
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,6
+Physicals & Screenings,/health/pharmacy/clinical-services,View All Clinic Services,/health/clinic/services,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Explore The Little Clinic,/health/clinic,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Find a Clinic,/health-services/clinic/locations,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Get Vaccinated,/health/clinic/vaccinations,6
+Weight Management,/health/weight-management,View All Healthcare Departments,/health,6
+Weight Management,/health/weight-management,Explore The Little Clinic,/health/clinic,6
+Weight Management,/health/weight-management,Explore Healthy Nutrition,/health/info,6
+Weight Management,/health/weight-management,Shop by Dietary Lifestyle,/f/shop-by-diet,6
+Weight Management,/health/weight-management,Find Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Weight Management,/health/weight-management,Explore the Pharmacy,/health/pharmacy,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,View All Clinic Services,/health/clinic/services,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Explore The Little Clinic,/health/clinic,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Find a Clinic,/health-services/clinic/locations,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Get Vaccinated,/health/clinic/vaccinations,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,View All Clinic Services,/health/clinic/services,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Explore The Little Clinic,/health/clinic,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Find a Clinic,/health-services/clinic/locations,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Get Vaccinated,/health/clinic/vaccinations,6
+Virtual Care,/health/clinic/virtual-care,View All Healthcare Departments,/health,6
+Virtual Care,/health/clinic/virtual-care,Explore Healthy Nutrition,/health/info,6
+Virtual Care,/health/clinic/virtual-care,Explore The Little Clinic,/health/clinic,6
+Virtual Care,/health/clinic/virtual-care,Meet Our Dietitians,/health/registered-dietitians,6
+Virtual Care,/health/clinic/virtual-care,Browse Wellness Articles,/blog/health,6
+Virtual Care,/health/clinic/virtual-care,Check Out OptUP™,/health/pharmacy/optup,6
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,6
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,6
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,6
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,6
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,6
+Schedule an Appointment,/health/clinic/schedule-appointment,View All Healthcare Departments,/health,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore the Pharmacy,/health/pharmacy,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore The Little Clinic,/health/clinic,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Healthy Nutrition,/health/info,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,6
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,6
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,6
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,6
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,6
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,6
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,6
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,6
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,6
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,6
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,6
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,6
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,6
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,View All Healthcare Departments,/health,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Explore the Pharmacy,/health/pharmacy,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,"Get Vaccinated
+(Opens in a new tab or window)",/health/clinic/vaccinations,6
+Medication Adherence,/health/pharmacy/medication-adherence-services,See Our FAQs,/health/pharmacy/faqs/prescriptions,6
+Schedule an Appointment,/health/clinic/schedule-appointment,View All Healthcare Departments,/health,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore the Pharmacy,/health/pharmacy,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore The Little Clinic,/health/clinic,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Healthy Nutrition,/health/info,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,6
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,6
+Shop Health & Wellness Items,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,6
+Shop Health & Wellness Items,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,6
+Physicals & Screenings,/health/pharmacy/clinical-services,View All Clinic Services,/health/clinic/services,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Explore The Little Clinic,/health/clinic,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Find a Clinic,/health-services/clinic/locations,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Physicals & Screenings,/health/pharmacy/clinical-services,Get Vaccinated,/health/clinic/vaccinations,6
+Weight Management,/health/weight-management,View All Healthcare Departments,/health,6
+Weight Management,/health/weight-management,Explore The Little Clinic,/health/clinic,6
+Weight Management,/health/weight-management,Explore Healthy Nutrition,/health/info,6
+Weight Management,/health/weight-management,Shop by Dietary Lifestyle,/f/shop-by-diet,6
+Weight Management,/health/weight-management,Find Better-for-You Recipes,/blog/health/better-for-you-recipes,6
+Weight Management,/health/weight-management,Explore the Pharmacy,/health/pharmacy,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,View All Clinic Services,/health/clinic/services,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Explore The Little Clinic,/health/clinic,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Find a Clinic,/health-services/clinic/locations,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Not Feeling Well,/health/clinic/services/not-feeling-well,Get Vaccinated,/health/clinic/vaccinations,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,View All Clinic Services,/health/clinic/services,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Explore The Little Clinic,/health/clinic,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Find a Clinic,/health-services/clinic/locations,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,6
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Get Vaccinated,/health/clinic/vaccinations,6
+Virtual Care,/health/clinic/virtual-care,View All Healthcare Departments,/health,6
+Virtual Care,/health/clinic/virtual-care,Explore Healthy Nutrition,/health/info,6
+Virtual Care,/health/clinic/virtual-care,Explore The Little Clinic,/health/clinic,6
+Virtual Care,/health/clinic/virtual-care,Meet Our Dietitians,/health/registered-dietitians,6
+Virtual Care,/health/clinic/virtual-care,Browse Wellness Articles,/blog/health,6
+Virtual Care,/health/clinic/virtual-care,Check Out OptUP™,/health/pharmacy/optup,6

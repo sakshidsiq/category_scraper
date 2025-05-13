@@ -1,0 +1,48 @@
+parent_category,parent_category_link,category,category_link,level
+Coffee Shop,/d/coffee,K-Cups & Pods,/pl/k-cups-coffee-pods/0400300001?taxonomyId=0400300001&fulfillment=all,7
+Coffee Shop,/d/coffee,Nespresso Pods & Capsules,/pl/nespresso-pods-capsules/0400300004?taxonomyId=0400300004&fulfillment=all,7
+Coffee Shop,/d/coffee,Ground Coffee,/pl/ground-coffee/0400300003?taxonomyId=0400300003&fulfillment=all,7
+Coffee Shop,/d/coffee,Whole Coffee Beans,/pl/whole-coffee-beans/0400300002?taxonomyId=0400300002&fulfillment=all,7
+Coffee Shop,/d/coffee,Instant Coffee,/pl/instant-coffee/0400300010?taxonomyId=0400300010&fulfillment=all,7
+Coffee Shop,/d/coffee,Seasonal & Holiday Flavored Coffee & Creamer,/pl/seasonal-holiday-flavored-coffee-creamer/0400300005?taxonomyId=0400300005&fulfillment=all,7
+Coffee Shop,/d/coffee,"Cold Brew, Iced & Bottled Coffee",/pl/cold-brew-iced-bottled-coffee/0400300009?taxonomyId=0400300009&fulfillment=al,7
+Coffee Shop,/d/coffee,Espresso Coffee,/pl/espresso-coffee/0400300007?taxonomyId=0400300007&fulfillment=all,7
+Coffee Shop,/d/coffee,Decaffeinated Coffee,/pl/decaffeinated-coffee/0400300006?taxonomyId=0400300006&fulfillment=all,7
+Coffee Shop,/d/coffee,Coffee Creamers & Flavoring Syrups,/pl/coffee-creamers-flavoring-syrups/0400300008?taxonomyId=0400300008&fulfillment=all,7
+Coffee Shop,/d/coffee,Coffee Filters,/pl/filters/2801200002?taxonomyId=2801200002&fulfillment=all,7
+Coffee Shop,/d/coffee,Coffee & Espresso Machines,/pl/coffee-makers/2800700009?taxonomyId=2800700009&fulfillment=all,7
+Vietnamese,/d/international-asian-vietnamese,Asian Home,/f/diversity-and-inclusion/celebrating-asian-culture,7
+Vietnamese,/d/international-asian-vietnamese,Chinese,/d/international-asian-chinese,7
+Vietnamese,/d/international-asian-vietnamese,Korean,/d/international-asian-korean,7
+Vietnamese,/d/international-asian-vietnamese,Indian,/d/international-asian-indian,7
+Vietnamese,/d/international-asian-vietnamese,Filipino,/d/international-asian-filipino,7
+Vietnamese,/d/international-asian-vietnamese,Japanese,/d/international-asian-japanese,7
+Vietnamese,/d/international-asian-vietnamese,Thai,/d/international-asian-thai,7
+Korean,/d/international-asian-korean,Asian Home,/f/diversity-and-inclusion/celebrating-asian-culture,7
+Korean,/d/international-asian-korean,Chinese,/d/international-asian-chinese,7
+Korean,/d/international-asian-korean,Vietnamese,/d/international-asian-vietnamese,7
+Korean,/d/international-asian-korean,Indian,/d/international-asian-indian,7
+Korean,/d/international-asian-korean,Filipino,/d/international-asian-filipino,7
+Korean,/d/international-asian-korean,Japanese,/d/international-asian-japanese,7
+Korean,/d/international-asian-korean,Thai,/d/international-asian-thai,7
+Thai,/d/international-asian-thai,Asian Home,/f/diversity-and-inclusion/celebrating-asian-culture,7
+Thai,/d/international-asian-thai,Chinese,/d/international-asian-chinese,7
+Thai,/d/international-asian-thai,Vietnamese,/d/international-asian-vietnamese,7
+Thai,/d/international-asian-thai,Korean,/d/international-asian-korean,7
+Thai,/d/international-asian-thai,Indian,/d/international-asian-indian,7
+Thai,/d/international-asian-thai,Filipino,/d/international-asian-filipino,7
+Thai,/d/international-asian-thai,Japanese,/d/international-asian-japanese,7
+Indian,/d/international-asian-indian,Asian Home,/f/diversity-and-inclusion/celebrating-asian-culture,7
+Indian,/d/international-asian-indian,Chinese,/d/international-asian-chinese,7
+Indian,/d/international-asian-indian,Vietnamese,/d/international-asian-vietnamese,7
+Indian,/d/international-asian-indian,Korean,/d/international-asian-korean,7
+Indian,/d/international-asian-indian,Filipino,/d/international-asian-filipino,7
+Indian,/d/international-asian-indian,Japanese,/d/international-asian-japanese,7
+Indian,/d/international-asian-indian,Thai,/d/international-asian-thai,7
+Filipino,/d/international-asian-filipino,Asian Home,/f/diversity-and-inclusion/celebrating-asian-culture,7
+Filipino,/d/international-asian-filipino,Chinese,/d/international-asian-chinese,7
+Filipino,/d/international-asian-filipino,Vietnamese,/d/international-asian-vietnamese,7
+Filipino,/d/international-asian-filipino,Korean,/d/international-asian-korean,7
+Filipino,/d/international-asian-filipino,Indian,/d/international-asian-indian,7
+Filipino,/d/international-asian-filipino,Japanese,/d/international-asian-japanese,7
+Filipino,/d/international-asian-filipino,Thai,/d/international-asian-thai,7

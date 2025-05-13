@@ -1,0 +1,18 @@
+parent_category,parent_category_link,category,category_link,level
+Health,/d/health,Kroger,/pl/health-wellness/22?brandName=Kroger&facets=true&monet=false,7
+Health,/d/health,Simple Truth,/pl/health-wellness/22?brandName=Simple%20Truth&facets=true&monet=false,7
+Cleaning & Household,/d/household,Kroger Brand,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Kroger&fulfillment=all,7
+Cleaning & Household,/d/household,Simple Truth,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Simple%20Truth&fulfillment=all,7
+Murrays Cheese,/b/murrays-cheese,Shop In-Store,/pl/specialtycheeses/13005?brandName=Murray%27s&facets=true,7
+Produce,/d/produce,Kroger Brand,/pl/produce/06?brandName=Kroger&query=kroger&monet=false,7
+Produce,/d/produce,Private Selection,/pl/produce/06?brandName=Private%20Selection&monet=false,7
+Produce,/d/produce,Simple Truth,/pl/produce/06?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Beverage,/d/beverages,Kroger,/pl/beverages/04?brandName=Kroger&fulfillment=all,7
+Breakfast,/d/breakfast,Simple Truth,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Simple%20Truth%7CSimple%20Truth%20Organic&fulfillment=all,7
+Breakfast,/d/breakfast,Kroger,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Kroger&fulfillment=all,7
+Health,/d/health,Kroger,/pl/health-wellness/22?brandName=Kroger&facets=true&monet=false,7
+Health,/d/health,Simple Truth,/pl/health-wellness/22?brandName=Simple%20Truth&facets=true&monet=false,7
+Cleaning & Household,/d/household,Kroger Brand,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Kroger&fulfillment=all,7
+Cleaning & Household,/d/household,Simple Truth,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Simple%20Truth&fulfillment=all,7
+Murrays Cheese,/b/murrays-cheese,Shop In-Store,/pl/specialtycheeses/13005?brandName=Murray%27s&facets=true,7
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Simple Truth® Picks,/search?query=plant%20based&searchType=default_search&brandName=Simple%20Truth&fulfillment=all&pzn=relevance,7

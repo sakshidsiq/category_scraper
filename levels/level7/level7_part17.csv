@@ -1,0 +1,42 @@
+parent_category,parent_category_link,category,category_link,level
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,7
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,7
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,7
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,7
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,7
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,7
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,7
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,7
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,7
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,7
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,7
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,7
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,7
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,7
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,7
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,7
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,7
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,7
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,7
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,7
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,7
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,7
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,7
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,7
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,7
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,7
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,7
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,7
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,7
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,7
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,7
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,7
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,7
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,7
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,7
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,7
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,7

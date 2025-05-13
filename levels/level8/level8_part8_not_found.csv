@@ -1,0 +1,52 @@
+parent_category,category_link,reason
+Get Vaccinated,/health/clinic/vaccinations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Clinic,/health-services/clinic/locations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,page not loaded
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,page not loaded
+Get Vaccinated,/health/clinic/vaccinations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Chocolate,/pl/chocolate/23001?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Gum & Mints,/pl/gum/23002?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Grab & Go Candy,/pl/mints/2300200003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Chewy & Gummy Candy,/pl/gummychewy-candy/23003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Hard Candy & Lollipops,/pl/hard-candy/23004?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Healthier Options,https://www.kroger.com/pl/healthieroptions/23009?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Dark Chocolate Candy,/search?query=dark%20chocolate%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sugar Free,/search?query=sugar%20free%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Assorted & Variety,/pl/chocolate/2300100005?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Premium Chocolate,/pl/premiumchocolate/23008?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Fresh Cut Roses,/pl/fresh-cut-roses/09130,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Bouquets,/pl/bouquets/09126,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Floral Arrangements,/pl/floralarrangements/09128,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Orchids,/pl/orchids/09132,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Home & Gift,/pl/potted-plants/09133,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Balloons,/pl/balloons/09125,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Thank You,/search?keyword=FloralThankYou&query=FloralThankYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Thinking of You,/search?keyword=FloralThinkingOfYou&query=FloralThinkingOfYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Anniversary,/search?keyword=FloralAnniversary&query=FloralAnniversary&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Birthday,/search?keyword=FloralBirthday&query=FloralBirthday&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+New Baby,/search?keyword=FloralNewBaby&query=FloralNewBaby&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sympathy,/search?keyword=FloralSympathy&query=FloralSympathy&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Online Ordering,/orderonline?pzn=relevance,page not loaded
+Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Cakes & Cookies,/search?query=CelebrationBDayCakeCookies&monet=curated&fulfillment=all&keyword=CelebrationBDayCakeCookies&searchType=mktg attribute&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Cake Toppers & Candles,/search?query=CelebrationBDayCandlesToppers&monet=curated&fulfillment=allted&fulfillment=all&keyword=CelebrationBDayCandlesToppers&searchType=mktg attribute&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Frozen Desserts,/search?query=CelebrationBDayFrznDessert&monet=curated&fulfillment=all&keyword=CelebrationBDayFrznDessert&searchType=mktg attribute&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Baking Ingredients,/search?query=CelebrationBDayBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayBaking&searchType=mktg attribute&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Baking Tools & Helpers,/search?query=CelebrationBDayGMBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayGMBaking&searchType=mktg attribute&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Celebrate Grads with Special Deals,/f/graduation,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,page not loaded
+Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,page not loaded
+Baking Essentials,/search?keyword=CelebrationBaking&query=CelebrationBaking&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Party Décor & Supplies,/search?keyword=CelebrationSuppliesDecor&query=CelebrationSuppliesDecor&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Graduation,/f/graduation,page not loaded
+Anniversary,/search?keyword=CelebrationAnniversary&query=CelebrationAnniversary&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Online Ordering,/orderonline?pzn=relevance,page not loaded
+Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Build a Custom Cake Online,/onlinedeli/servlet/en/delibakery/cakes/licensed-cakes?loaded=true,page not loaded
+Order Premade Cakes,/onlinedeli/servlet/en/delibakery/cakes/special-occasion-cakes,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center

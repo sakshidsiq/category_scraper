@@ -1,0 +1,16 @@
+parent_category,parent_category_link,category,category_link,level
+Shop Health & Wellness Items,/d/health,Kroger,/pl/health-wellness/22?brandName=Kroger&facets=true&monet=false,6
+Shop Health & Wellness Items,/d/health,Simple Truth,/pl/health-wellness/22?brandName=Simple%20Truth&facets=true&monet=false,6
+Shop Our Brands,/b/ourbrands,Smart Way,/search?brandName=Smart%20Way&fulfillment=all&monet=false,6
+Shop Our Brands,/b/ourbrands,Bakery Fresh,/search?brandName=Bakery%20Fresh%20Goodness&monet=false,6
+Shop Our Brands,/b/ourbrands,Heritage Farm,/search?brandName=Heritage%20Farm&fulfillment=all&monet=false,6
+Shop Our Brands,/b/ourbrands,Office Works,/search?brandName=Office%20Works&monet=false,6
+Shop Our Brands,/b/ourbrands,HD Designs,/search?brandName=HD%20Designs&monet=false,6
+Shop Our Brands,/b/ourbrands,Everyday Living,/search?brandName=Everyday%20Living&monet=false,6
+Shop Our Brands,/b/ourbrands,Pretty Savvy,/search?monet=false&brandName=Pretty%20Savvy&fulfillment=all,6
+Produce,/d/produce,Kroger Brand,/pl/produce/06?brandName=Kroger&query=kroger&monet=false,6
+Produce,/d/produce,Private Selection,/pl/produce/06?brandName=Private%20Selection&monet=false,6
+Produce,/d/produce,Simple Truth,/pl/produce/06?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,6
+Beverage,/d/beverages,Kroger,/pl/beverages/04?brandName=Kroger&fulfillment=all,6
+Breakfast,/d/breakfast,Simple Truth,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Simple%20Truth%7CSimple%20Truth%20Organic&fulfillment=all,6
+Breakfast,/d/breakfast,Kroger,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Kroger&fulfillment=all,6

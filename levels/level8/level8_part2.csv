@@ -1,0 +1,47 @@
+parent_category,parent_category_link,category,category_link,level
+Snacks,/d/snacks,Chips & Puffs,/search?keyword=ChipsPuffsMore&query=ChipsPuffsMore&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,8
+Snacks,/d/snacks,Cookies,/pl/cookies/01021?taxonomyId=01021&fulfillment=all,8
+Snacks,/d/snacks,Crackers,/pl/crackers/01026?taxonomyId=01026&fulfillment=all,8
+Snacks,/d/snacks,Popcorn,/pl/popcorn/0102000007?facets=true&pzn=relevance,8
+Snacks,/d/snacks,Nuts & Seeds,/pl/nuts-seeds/0102000002?facets=true&pzn=relevance,8
+Snacks,/d/snacks,Pretzels,/pl/pretzels/0102000005?facets=true&pzn=relevance,8
+Snacks,/d/snacks,Granola Bars,/pl/granola-bars/0102000027,8
+Snacks,/d/snacks,Trail Mix,/pl/trail-mix/0102000001,8
+Snacks,/d/snacks,Rice Cakes,/pl/rice-cakes/0102000014,8
+Snacks,/d/snacks,Snack Cakes & Pies,/pl/snack-cakes-pies/0102000010,8
+Snacks,/d/snacks,Beef Jerky & Dried Meat,/pl/beef-jerky-dried-meat/0102000004,8
+Snacks,/d/snacks,Raisins & Dried Fruit,/pl/raisins-dried-fruit/0102000003,8
+Snacks,/d/snacks,Fruit Snacks,/pl/fruit-snacks/0102000013,8
+Snacks,/d/snacks,Applesauce & Fruit Cups,/pl/applesauce-fruit-cups/0102000016,8
+Snacks,/d/snacks,Fruit & Veggie Snack,/pl/snack-packs/0612300003,8
+Snacks,/d/snacks,Dips,/pl/dips/0102000009,8
+Snacks,/d/snacks,Gelatin & Pudding,/pl/pudding-gelatin/0101200017,8
+Beverage,/d/beverages,Soda & Pop,/pl/soda-pop/04001,8
+Beverage,/d/beverages,Water,/pl/water/04006,8
+Beverage,/d/beverages,Coffee Shop,/d/coffee,8
+Beverage,/d/beverages,Juice & Lemonade,/pl/juice/04004,8
+Beverage,/d/beverages,Milk & Milk Substitutes,/pl/milk-plant-based-milk/02001,8
+Beverage,/d/beverages,Tea,/pl/tea-kombucha/04007,8
+Beverage,/d/beverages,Kombucha & Gut Health Beverages,/pl/kombucha-and-gut-health-beverages/04012?pzn=relevance&taxonomyId=04012&fulfillment=all,8
+Beverage,/d/beverages,Sparkling Water,/pl/sparkling-water/04002,8
+Beverage,/d/beverages,Sports Drink,/pl/sports-drinks/04005,8
+Beverage,/d/beverages,Drink Mixes & Beverage Enhancers,/pl/drink-mixes-beverage-enhancers/04008,8
+Beverage,/d/beverages,Drink Boxes & Pouches,/pl/drink-boxes-pouches/04010,8
+Beverage,/d/beverages,Energy Drinks,/pl/energydrinks/04011,8
+Beverage,/d/beverages,Adult Beverage Mixers,/pl/adult-beverage-mixers/08189?pzn=relevance&taxonomyId=08189&fulfillment=all,8
+Beverage,/d/beverages,Cocoa Mixes,/pl/cocoa-mixes/0400700011?taxonomyId=0400700011&fulfillment=all,8
+Beverage,/d/beverages,Protein Shakes,/pl/proteinshakes/2201000002,8
+Beverage,/d/beverages,Glassware & Drinkware,/pl/glassware-drinkware/28004?facets=true&pzn=relevance,8
+Beverage,/d/beverages,Soda Stream,/search?query=soda%20stream&searchType=default_search,8
+Coffee Shop,/d/coffee,K-Cups & Pods,/pl/k-cups-coffee-pods/0400300001?taxonomyId=0400300001&fulfillment=all,8
+Coffee Shop,/d/coffee,Nespresso Pods & Capsules,/pl/nespresso-pods-capsules/0400300004?taxonomyId=0400300004&fulfillment=all,8
+Coffee Shop,/d/coffee,Ground Coffee,/pl/ground-coffee/0400300003?taxonomyId=0400300003&fulfillment=all,8
+Coffee Shop,/d/coffee,Whole Coffee Beans,/pl/whole-coffee-beans/0400300002?taxonomyId=0400300002&fulfillment=all,8
+Coffee Shop,/d/coffee,Instant Coffee,/pl/instant-coffee/0400300010?taxonomyId=0400300010&fulfillment=all,8
+Coffee Shop,/d/coffee,Seasonal & Holiday Flavored Coffee & Creamer,/pl/seasonal-holiday-flavored-coffee-creamer/0400300005?taxonomyId=0400300005&fulfillment=all,8
+Coffee Shop,/d/coffee,"Cold Brew, Iced & Bottled Coffee",/pl/cold-brew-iced-bottled-coffee/0400300009?taxonomyId=0400300009&fulfillment=al,8
+Coffee Shop,/d/coffee,Espresso Coffee,/pl/espresso-coffee/0400300007?taxonomyId=0400300007&fulfillment=all,8
+Coffee Shop,/d/coffee,Decaffeinated Coffee,/pl/decaffeinated-coffee/0400300006?taxonomyId=0400300006&fulfillment=all,8
+Coffee Shop,/d/coffee,Coffee Creamers & Flavoring Syrups,/pl/coffee-creamers-flavoring-syrups/0400300008?taxonomyId=0400300008&fulfillment=all,8
+Coffee Shop,/d/coffee,Coffee Filters,/pl/filters/2801200002?taxonomyId=2801200002&fulfillment=all,8
+Coffee Shop,/d/coffee,Coffee & Espresso Machines,/pl/coffee-makers/2800700009?taxonomyId=2800700009&fulfillment=all,8

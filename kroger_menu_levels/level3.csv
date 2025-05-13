@@ -1,0 +1,368 @@
+parent_category,parent_category_link,category,category_link,level
+I Would Like to:,,,,3
+I Would Like to:,,Start a Pickup or Delivery Order,/f/start-shopping,3
+I Would Like to:,,Save with This Week's Top Deals,/pr/top-deals,3
+I Would Like to:,,Explore Health Services,https://www.kroger.com/health,3
+I Would Like to:,,Order Deli Items & Custom Cakes,/order-ahead,3
+Trending,,,,3
+Trending,,$20 Off Your First Pickup or Delivery Order,/pr/pickup-delivery-savings-4,3
+Trending,,Try Boost Free for 30 Days,/pr/boost,3
+Trending,,"Buy 5 or More, Save $1 Each",/pr/buy-and-save,3
+Trending,,4X Points on Gift Cards,/o/gift-cards,3
+Trending,,Mother's Day Floral for Pickup or Delivery,/search?keyword=HPMothersDayFlowers25&query=HPMothersDayFlowers25&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Trending,,Murray’s Cheeses,/b/murrays-cheese,3
+Trending,,Latin Flavors,/f/latin-flavors-recipes,3
+Trending,,Summer Essentials,/f/summer-shop,3
+Trending,,New Arrivals,/f/new-arrivals,3
+Trending,,Asian American & Pacific Islander Month,/f/diversity-and-inclusion/celebrating-asian-culture,3
+Trending,,Prescription Transfers,https://www.kroger.com/rx/guest/transfer-prescriptions,3
+Mother’s Day,,,,3
+Mother’s Day,,Shop All Mother’s Day,/f/mothers-day,3
+Mother’s Day,,Brunch Ideas & Inspiration,/blog/meal-planning/brunch,3
+Mother’s Day,,Cheers to Mom,/f/mothers-day#mothersdayalbev,3
+Mother’s Day,,DIY Brunch Beverages,/blog/meal-planning/brunch#brunchdrinks,3
+Mother’s Day,,Flowers for Mom,/search?keyword=HPMothersDayFlowers25&query=HPMothersDayFlowers25&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Mother’s Day,,More Gift Ideas,/search?keyword=HPGiftsforMom25&query=HPGiftsforMom25&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Mother’s Day,,Gift Cards She’ll Love,/o/gift-cards,3
+Summer,,,,3
+Summer,,Shop All Summer,/f/summer-shop,3
+Summer,,Guaranteed Fresh Produce,/d/produce,3
+Summer,,Summer Snacks & Sides,/f/summer-shop#dipssnacks,3
+Summer,,Summer Sippers,/search?keyword=HPSummerSips25&query=HPSummerSips25&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Summer,,Grilling Recipe Inspiration,/blog/seasonal/summer/grilling,3
+Summer,,Garden & Patio,/d/patio-grilling,3
+Summer,,Sun Care & More,/search?keyword=HPSuncare25&query=HPSuncare25&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Graduation 2025,,,,3
+Graduation 2025,,Shop All Graduation,/f/graduation-shop,3
+Graduation 2025,,Party Apps & Easy Bites,/f/graduation-shop#apps,3
+Graduation 2025,,Order Custom Cakes & Party Platters,/order-ahead,3
+Graduation 2025,,Gift a Boost Membership,/pr/boost/redeem#boostgiftcards,3
+Fresh Fruit & Vegetables,,Fresh Fruit & Vegetables,,3
+Fresh Fruit & Vegetables,,Packaged,,3
+Fresh Fruit & Vegetables,,Shop All Produce,,3
+Meat,,Fresh Meat,,3
+Meat,,Prepared & Packaged Meat,,3
+Meat,,Meat Alternatives,,3
+Meat,,Shop All Meat,,3
+Seafood,,Fresh Seafood,,3
+Seafood,,Prepared & Packaged Seafood,,3
+Seafood,,Shop All Seafood,,3
+Deli,,Deli,,3
+Deli,,Prepared Meals & Sides,,3
+Bakery,,Shop All Bakery,,3
+Bakery,,Cakes & Sweets,,3
+Bakery,,Bread,,3
+Floral,,The Floral Shop,,3
+Floral,,Floral Order Ahead,,3
+Order Ahead,,Order Deli & Bakery Items,,3
+Pantry,,Pantry,,3
+Pantry,,International Foods,,3
+Dairy & Eggs,,Milk & Creamer,,3
+Dairy & Eggs,,Eggs,,3
+Dairy & Eggs,,Refrigerated,,3
+Dairy & Eggs,,Shop All Dairy & Eggs,,3
+Frozen,,"Frozen Meals, Sides & Snacks",,3
+Frozen,,Frozen Desserts,,3
+Frozen,,Frozen Fruit & Vegetables,,3
+Frozen,,Frozen Drinks & Ice,,3
+Frozen,,Shop All Frozen,,3
+Natural & Organic,,Fresh,,3
+Natural & Organic,,Grocery,,3
+Natural & Organic,,"Home, Beauty & Baby",,3
+Natural & Organic,,Natural & Organic,,3
+Beverages,,"Soda, Juice & More",,3
+Beverages,,Water,,3
+Beverages,,Coffee & Tea,,3
+Beverages,,Shop All Beverages,,3
+Breakfast,,Cereal & Granola Bars,,3
+Breakfast,,Bread & Pastries,,3
+Breakfast,,More Breakfast Favorites,,3
+Breakfast,,Shop All Breakfast,,3
+Coffee,,Shop All Coffee,,3
+Candy,,Candy,,3
+Beer & Seltzers,,,,3
+Beer & Seltzers,,Domestic & Imported Beer,/pl/beer/08119?pzn=relevance,3
+Beer & Seltzers,,Craft Beer,/pl/craft-beer/08145?pzn=relevance,3
+Beer & Seltzers,,Hard Seltzers & Ready to Drink,/pl/hard-seltzers-ready-to-drink-alcohol/08183?pzn=relevance,3
+Wine,,,,3
+Wine,,Red Wine,/pl/red-wine/08120?pzn=relevance,3
+Wine,,White Wine,/pl/white-wine/08122?pzn=relevance,3
+Wine,,Rose & Blush Wine,/pl/rose-blush-wine/08181?pzn=relevance,3
+Wine,,Champagne & Sparkling Wine,/pl/champagne-sparkling-wine/08180?pzn=relevance,3
+Wine,,Box Wine,/pl/box-wine/08182?pzn=relevance,3
+Wine,,Dessert & Vermouth Wine,/pl/desserts-vermouth-wine/08185?pzn=relevance,3
+Liquor,,,,3
+Liquor,,Shop Liquor,/pl/liquor/08121?pzn=relevance,3
+Non-Alcoholic Beer & Wine,,,,3
+Non-Alcoholic Beer & Wine,,Shop Non-Alcoholic Beer & Wine,/pl/non-alcoholic-beer-wine/08184?pzn=relevance,3
+"Beer, Wine & Liquor",,,,3
+"Beer, Wine & Liquor",,Shop All,/d/beer-wine-liquor,3
+Health & Wellness,,Medicines & Treatments,,3
+Health & Wellness,,Vitamins & Supplements,,3
+Health & Wellness,,First Aid & Care,,3
+Health & Wellness,,Health & Wellness,,3
+Personal Care,,Personal Care,,3
+Beauty,,Hair Care,,3
+Beauty,,Face & Skin Care,,3
+Beauty,,Makeup & Accessories,,3
+Beauty,,Fragrance,,3
+Beauty,,Beauty,,3
+Baby,,Baby,,3
+Baby,,Food Formula & Nursing,,3
+Baby,,Baby Essentials,,3
+Laundry,,,,3
+Laundry,,Laundry Detergent Pods,/pl/laundry-detergent-pods-pacs/2602500007?pzn=relevance,3
+Laundry,,Liquid Laundry Detergent,/pl/liquid-laundry-detergent/2602500001?pzn=relevance,3
+Laundry,,Powder Laundry Detergent,/pl/powder-laundry-detergent/2602500010?pzn=relevance,3
+Laundry,,Fabric Softener,/pl/fabric-softener/2602500005?pzn=relevance,3
+Laundry,,Dryer Sheets,/pl/dryer-sheets/2602500003?pzn=relevance,3
+Laundry,,Scent Boosters,/pl/scent-booster/2602500011?pzn=relevance,3
+Laundry,,Bleach,/pl/bleach/2602500002?pzn=relevance,3
+Laundry,,Stain Remover,/pl/stain-remover/2602500012?pzn=relevance,3
+Laundry,,Laundry Sanitizer,/pl/laundry-sanitizer/2602500008?pzn=relevance,3
+Laundry,,Fabric Refreshers,/pl/fabric-refreshers/2602500004?pzn=relevance,3
+Laundry,,Free & Clear Laundry,/pl/free-clear-laundry/2602500014?pzn=relevance,3
+Laundry,,Laundry Supplies,/pl/laundry-supplies/2602500009?pzn=relevance,3
+Paper Products,,,,3
+Paper Products,,Paper Towels,/pl/paper-towels/2602400003?pzn=relevance,3
+Paper Products,,Toilet Paper,/pl/toilet-paper/2602400001?pzn=relevance,3
+Paper Products,,Flushable Wipes,/pl/flushable-wipes/2602400002?pzn=relevance,3
+Paper Products,,Facial Tissue,/pl/facial-tissue/2602400004?pzn=relevance,3
+Paper Products,,Bulk Paper Products,/pl/bulk-paper-products/2602400006?pzn=relevance,3
+Paper Products,,Hand Wipes,/pl/hand-wipes/2602400007?pzn=relevance,3
+Paper Products,,Natural & Organic,/pl/natural-organic/2602400008?pzn=relevance,3
+Paper Products,,Napkins,/pl/paper-napkins/2602400005?pzn=relevance,3
+Kitchen,,,,3
+Kitchen,,Dishwashing Needs,/pl/Dishwashing-Needs/26005?pzn=relevance,3
+Kitchen,,Food Storage,/pl/Food-Storage/26006?pzn=relevance,3
+Kitchen,,Disposable Tableware,/pl/Disposable-Tableware/26018?pzn=relevance,3
+Kitchen,,Baking Paper & Foils,/pl/Baking-Paper-&-Foils/26019?pzn=relevance,3
+Kitchen,,Water Filtration,/pl/Water-Filtration/26011?pzn=relevance,3
+Cleaning Supplies,,,,3
+Cleaning Supplies,,Wipes & Cleaning Supplies,/pl/cleaning-disinfecting-wipes/2600400006?taxonomyId=2600400006&fulfillment=all,3
+Cleaning Supplies,,Cleaning Tools,/pl/cleaning-tools/2600400005?taxonomyId=2600400005&fulfillment=all,3
+Cleaning Supplies,,Kitchen Cleaners,/pl/kitchen-cleaners/2600400007?taxonomyId=2600400007&fulfillment=all,3
+Cleaning Supplies,,All-Purpose Cleaners,/pl/all-purpose-cleaners/2600400008?taxonomyId=2600400008&fulfillment=all,3
+Cleaning Supplies,,Bathroom Cleaners,/pl/bathroom-cleaners/2600400009?taxonomyId=2600400009&fulfillment=all,3
+Cleaning Supplies,,Carpet & Floor Cleaners,/pl/carpet-floor-cleaners/2600400010?taxonomyId=2600400010&fulfillment=all,3
+Cleaning Supplies,,Glass Cleaners,/pl/glass-cleaners/2600400004?taxonomyId=2600400004&fulfillment=all,3
+Cleaning Supplies,,Dusters,/pl/dusters/2600400011?taxonomyId=2600400011&fulfillment=all,3
+Cleaning Supplies,,Mops,/pl/mops/2600400012?taxonomyId=2600400012&fulfillment=all,3
+Cleaning Supplies,,Furniture Cleaner,/pl/furniture-cleaner/2600400013?taxonomyId=2600400013&fulfillment=all,3
+Cleaning Supplies,,Brooms & Dust Pans,/pl/brooms-dust-pans/2600400014?taxonomyId=2600400014&fulfillment=all,3
+Cleaning Supplies,,Drain Cleaners,/pl/drain-cleaners/2600400015?taxonomyId=2600400015&fulfillment=all,3
+Cleaning Supplies,,Natural Cleaners,/pl/natural-cleaners/2600400016?taxonomyId=2600400016&fulfillment=all,3
+Cleaning Supplies,,Bulk Cleaning Supplies,/pl/bulk-cleaning-supplies/2600400017?taxonomyId=2600400017&fulfillment,3
+Cleaning Supplies,,Pet Cleaning Supplies,/pl/pet-cleaning-supplies/2600400018?taxonomyId=2600400018&fulfillment=all,3
+Cleaning & Household,,,,3
+Cleaning & Household,,Shop All,/d/household,3
+Kitchen & Dining,,Kitchen,,3
+Kitchen & Dining,,Dining,,3
+Kitchen & Dining,,Kitchen & Dining,,3
+Home,,Home & Decor,,3
+Home,,Home Essentials,,3
+Home,,Home,,3
+Electronics,,Audio,,3
+Electronics,,More Electronics,,3
+Electronics,,Electronics,,3
+Garden & Patio,,Garden & Patio,,3
+Toys & Games,,Toys & Games,,3
+Shop All Pet,,,,3
+Shop All Pet,,Shop All Pet,/d/pet-supplies,3
+Dog,,,,3
+Dog,,Dog Food,/pl/dog-food/27017,3
+Dog,,Dog Treats,/pl/dog-treats/27018,3
+Dog,,Dog Toys,/pl/dog-toys/27019,3
+Dog,,Dog Supplies,/pl/dog-supplies/27020,3
+Cat,,,,3
+Cat,,Cat Food,/pl/cat-food/27021,3
+Cat,,Cat Treats,/pl/cat-treats/27022,3
+Cat,,Cat Litter & Accessories,/pl/cat-litter-accessories/27023,3
+Cat,,Cat Toys,/pl/cat-toys/27024,3
+Cat,,Cat Supplies,/pl/cat-supplies/27025,3
+Small Pet,,,,3
+Small Pet,,Bird Supplies,/pl/bird-supplies/27026,3
+Small Pet,,Fish Supplies,/pl/fish-supplies/27027,3
+Small Pet,,Small Animal Supplies,/pl/small-animal-supplies/27029,3
+Grocery & More,,,,3
+Grocery & More,,Shop All Our Brands,/b/ourbrands,3
+Grocery & More,,Kroger Brand,/b/kroger-brand,3
+Grocery & More,,Kroger Mercado,/b/kroger-brand#mercado,3
+Grocery & More,,Simple Truth®,/b/simple-truth,3
+Grocery & More,,Private Selection®,/b/private-selection,3
+Grocery & More,,Vitacost (Opens in a new tab or window),https://www.vitacost.com/,3
+Grocery & More,,Smart Way,/search?brandName=Smart%20Way&fulfillment=all&monet=false,3
+Fresh,,,,3
+Fresh,,Home Chef,/b/home-chef,3
+Fresh,,Murray's Cheese,/b/murrays-cheese,3
+Fresh,,Heritage Farm,/search?monet=false&brandName=Heritage%20Farm&fulfillment=all,3
+Fresh,,Bakery Fresh,/search?monet=false&brandName=Bakery%20Fresh%20Goodness%7CBakery%20Fresh&fulfillment=all,3
+Fresh,,Bloom Haus™,/b/bloom-haus,3
+Pet,,,,3
+Pet,,Abound,/b/abound,3
+Pet,,Pet Pride,/b/pet-pride,3
+Pet,,Luvsome,/b/luvsome,3
+Baby & Clothing,,,,3
+Baby & Clothing,,Comforts,/b/comforts-baby,3
+Baby & Clothing,,Dip,/b/dip,3
+Gift Cards,,,,3
+Gift Cards,,Shop All,/o/gift-cards,3
+Shop New & Featured,,,,3
+Shop New & Featured,,New Arrivals,/f/new-arrivals,3
+Shop New & Featured,,Meal Planning,/blog/meal-planning,3
+Shop New & Featured,,World Cuisines,/blog/meal-planning/multicultural,3
+Shop New & Featured,,School Essentials,/f/back-to-school,3
+Shop New & Featured,,Racing Shop,/f/racing,3
+Shop New & Featured,,Blue Truck Shop,/pr/kroger-delivery,3
+Shop New & Featured,,Featured Brands,/b/featuredbrands,3
+Shop by Celebration,,,,3
+Shop by Celebration,,Party Planning,/f/party-shop,3
+Shop by Celebration,,Custom Cakes,/order-ahead,3
+Shop by Celebration,,Floral & Balloons,/d/floral,3
+Shop by Lifestyle,,,,3
+Shop by Lifestyle,,All Lifestyles,/f/shop-by-diet,3
+Shop by Lifestyle,,Keto-friendly,/f/shop-by-diet/keto-groceries,3
+Shop by Lifestyle,,Plant-based,/f/shop-by-diet/plant-based-groceries,3
+Shop by Lifestyle,,Gluten-free,/f/shop-by-diet/gluten-free-groceries,3
+Shop by Lifestyle,,Mediterranean,/f/shop-by-diet/mediterranean-groceries,3
+Shop with Purpose,,,,3
+Shop with Purpose,,Zero Hunger | Zero Waste,/f/zero-hunger-zero-waste,3
+Shop with Purpose,,Discover Eco-friendly Products,/b/terracycle#topitems,3
+Shop with Purpose,,Support Black Businesses,/f/diversity-and-inclusion/celebrating-black-culture,3
+Shop with Purpose,,Celebrate Inspiring Women,/f/diversity-and-inclusion/celebrating-women,3
+Shop with Purpose,,Celebrate Hispanic Heritage,/f/diversity-and-inclusion/hispanic-heritage-month,3
+Shop with Purpose,,Honoring the AAPI Community,/f/diversity-and-inclusion/celebrating-asian-culture,3
+Shop with Purpose,,Support Pride,/f/diversity-and-inclusion/celebrating-pride,3
+Payment Cards,,,,3
+Payment Cards,,Get Our Credit Card,/d/our-payment-cards,3
+Payment Cards,,Free Boost Essential with Our Credit Card,/pr/about-boost-credit-promo,3
+Payment Cards,,Kroger Pay,/d/kroger-mobile-pay,3
+Money Services,,,,3
+Money Services,,All Money Services,/o/money-services,3
+Money Services,,Money Orders,/o/money-services/money-orders,3
+Money Services,,Check Cashing,/o/money-services/check-cashing,3
+Money Services,,Bill Pay,/o/money-services/bill-pay,3
+Money Services,,Money Transfer,/o/money-services/send-money,3
+Money Services,,Account Funding,/i/account-funding,3
+Money Services,,Prepaid Cards,/o/money-services/prepaid-cards,3
+Additional Services,,,,3
+Additional Services,,Gift Cards,/o/gift-cards,3
+Additional Services,,Phones & Airtime,/o/store-services/airtime-wireless-telecomm,3
+Additional Services,,SNAP EBT,/i/payment/snap-ebt-online-orders,3
+Additional Services,,Food & OTC Benefit Cards,/i/benefit-card,3
+Additional Services,,Fraud Awareness,/o/money-services/fraud,3
+Gifts & Rewards,,,,3
+Gifts & Rewards,,Gift Cards,/o/gift-cards,3
+Gifts & Rewards,,Digital Gift Cards Online,/o/gift-cards#GiftCardMall,3
+Gifts & Rewards,,Bulk Gift Cards,/o/gift-cards#BulkGiftCard,3
+Entertainment,,,,3
+Entertainment,,Kroger Play,/o/kroger-play,3
+Entertainment,,Lottery,/i/lottery-tickets,3
+Health Services,,,,3
+Health Services,,All Health & Wellness Services,https://www.kroger.com/health,3
+Health Services,,Pharmacy,https://www.kroger.com/health/pharmacy,3
+Health Services,,Clinic,https://www.kroger.com/health/clinic,3
+Health Services,,Nutrition,https://www.kroger.com/health/nutrition,3
+Health Services,,Business & Community Solutions (Opens in a new tab or window),https://www.krogerhealth.com/,3
+Prescription Management,,,,3
+Prescription Management,,My Prescriptions,https://www.kroger.com/rx/dashboard,3
+Prescription Management,,Prescription Refills,https://www.kroger.com/rx/guest-refill,3
+Prescription Management,,Transfer a Prescription,https://www.kroger.com/rx/guest/transfer-prescriptions,3
+Appointment Scheduler,,,,3
+Appointment Scheduler,,Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,3
+Appointment Scheduler,,Clinic Appointments,https://www.kroger.com/health/schedule-appointment,3
+Appointment Scheduler,,Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,3
+Appointment Scheduler,,Virtual Nutrition Counseling,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,3
+Appointment Scheduler,,Virtual Care Appointments,https://www.kroger.com/health/schedule-appointment?type=Virtual%20Visit,3
+My Health,,,,3
+My Health,,My Health Portal,https://www.kroger.com/health-dashboard,3
+My Health,,My Prescriptions,https://www.kroger.com/rx/dashboard,3
+My Health,,My Nutrition Insights,/nutritioninsights,3
+My Health,,Clinic Patient Portal (Opens in a new tab or window),https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,3
+Pharmacy Services,,,,3
+Pharmacy Services,,Explore the Pharmacy,https://www.kroger.com/health/pharmacy,3
+Pharmacy Services,,Pharmacy Appointments,https://www.kroger.com/health/schedule-appointment,3
+Pharmacy Services,,Vaccines,https://www.kroger.com/health/vaccines,3
+Pharmacy Services,,Health Screenings,https://www.kroger.com/health/schedule-appointment?type=Biometric%20Screenings,3
+Prescription Management,,Prescription Status,https://www.kroger.com/rx/tracker,3
+Prescription Management,,Medication Adherence,https://www.kroger.com/health/pharmacy/medication-adherence-services,3
+Insurance & Savings,,,,3
+Insurance & Savings,,Coverage & Savings Information,https://www.kroger.com/health/pharmacy/pharmacy-insurance-savings,3
+Insurance & Savings,,Payment Methods,https://www.kroger.com/health/pharmacy/insurance-savings#payments,3
+Insurance & Savings,,Online Bill Pay,https://www.kroger.com/health/pharmacy/faqs/online-payment,3
+Insurance & Savings,,Kroger Health Savings Club (Opens in a new tab or window),https://www.krogerhealthsavings.com/,3
+Insurance & Savings,,Prescription Discount Cards,https://www.kroger.com/health/pharmacy/insurance-savings#pdc,3
+Insurance & Savings,,Medicare Resource Center,https://www.kroger.com/health/pharmacy/insurance-savings/medicare,3
+Tools & Resources,,,,3
+Tools & Resources,,Pharmacy Hours & Locations,/stores/pharmacy,3
+Tools & Resources,,Contact Information,https://www.kroger.com/health/contact-faq,3
+Tools & Resources,,FAQs,https://www.kroger.com/health/pharmacy/faqs/prescriptions,3
+Clinic Services,,,,3
+Clinic Services,,Explore The Little Clinic,https://www.kroger.com/health/clinic,3
+Clinic Services,,Virtual Care,https://www.kroger.com/health/clinic/services/virtual-care,3
+Clinic Services,,Physicals & Screenings,https://www.kroger.com/health/clinic/services/physicals-screenings,3
+Clinic Services,,Not Feeling Well,https://www.kroger.com/health/clinic/services/not-feeling-well,3
+Clinic Services,,Weight Management,https://www.kroger.com/health/weight-management,3
+Clinic Services,,Preventive & Ongoing Care,https://www.kroger.com/health/clinic/services/preventive-care,3
+Clinic Services,,Reproductive & Sexual Health,https://www.kroger.com/health/clinic/services/reproductive-sexual-health,3
+Clinic Services,,Clinical Trials,https://www.kroger.com/health/clinical-trials,3
+Clinic Services,,All Clinic Services,https://www.kroger.com/health/clinic/services,3
+Appointment Scheduler,,Not Feeling Well Appointments,https://www.kroger.com/health/schedule-appointment?type=Not%20Feeling%20Well,3
+Appointment Scheduler,,Physical Appointments,https://www.kroger.com/health/schedule-appointment?type=Physicals,3
+Appointment Scheduler,,"Eye, Skin, Hair & Nail Appointments",https://www.kroger.com/health/schedule-appointment?type=Eye%20and%20Skin%20Conditions%2C%20Hair%2C%20Nails,3
+Appointment Scheduler,,Tuberculosis (TB) Appointments,https://www.kroger.com/health/schedule-appointment?type=Tuberculosis%20%28TB%29%20%2F%20PPD%20Test,3
+Appointment Scheduler,,Reproductive & Sexual Health Appointments,https://www.kroger.com/health/schedule-appointment?type=Reproductive%20%26%20Sexual%20Health,3
+Appointment Scheduler,,All Clinic Appointments,https://www.kroger.com/health/schedule-appointment,3
+Insurance & Payments,,,,3
+Insurance & Payments,,Accepted Insurance Plans,https://www.kroger.com/health/clinic/billing-insurance-payment,3
+Insurance & Payments,,Service Price List,https://www.kroger.com/health/clinic/billing-insurance-payment?tid=insurancepricing&t=2,3
+Insurance & Payments,,Payment Methods,https://www.kroger.com/health/clinic/billing-insurance-payment#payments,3
+Insurance & Payments,,Online Bill Pay,https://www.kroger.com/health/clinic/billing-insurance-payment,3
+Tools & Resources,,Clinic Hours & Locations,https://www.kroger.com/health-services/clinic/locations,3
+Tools & Resources,,Patient Portal (Opens in a new tab or window),https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,3
+Tools & Resources,,Medical Records,https://www.kroger.com/health/contact-faq,3
+Nutrition Resources,,,,3
+Nutrition Resources,,Explore Healthy Nutrition,https://www.kroger.com/health/nutrition,3
+Nutrition Resources,,My Nutrition Insights,/nutritioninsights,3
+Nutrition Resources,,FoodHealth Score,https://www.kroger.com/health/nutrition/optup,3
+Nutrition Resources,,Health Solutions,https://www.kroger.com/health/nutrition#healthsolutions,3
+Nutrition Resources,,Mental Wellness,https://www.kroger.com/health/info/mental-wellness,3
+Nutrition Your Way,,,,3
+Nutrition Your Way,,Free Nutrition Session,https://www.kroger.com/freenutrition,3
+Nutrition Your Way,,Virtual Nutrition Counseling,https://www.kroger.com/health/clinic/services/virtual-care#virtualnutrition,3
+Nutrition Your Way,,Dietitian Appointments,https://www.kroger.com/health/schedule-appointment?type=Nutrition%20Services,3
+Nutrition Your Way,,Our Registered Dietitians,https://www.kroger.com/health/registered-dietitians,3
+Nourishing Foods,,,,3
+Nourishing Foods,,Better-for-You Recipes,https://www.kroger.com/blog/health/better-for-you-recipes,3
+Nourishing Foods,,Dietitian Recommendations,/search?keyword=dieticianpicks&query=dieticianpicks&searchType=mktgattribute&monet=curated&fulfillment=all&pzn=relevance,3
+Nourishing Foods,,OptUP™ Favorites,/search?keyword=OptUpFavorites&query=OptUpFavorites&searchType=mktg%20attribute&monet=false&fulfillment=all&pzn=relevance,3
+Dietary Lifestyles,,,,3
+Dietary Lifestyles,,All Lifestyles,/f/shop-by-diet,3
+Dietary Lifestyles,,Keto-friendly,/f/shop-by-diet/keto-groceries,3
+Dietary Lifestyles,,Plant-based,/f/shop-by-diet/plant-based-groceries,3
+Dietary Lifestyles,,Gluten-free,/f/shop-by-diet/gluten-free-groceries,3
+Dietary Lifestyles,,Mediterranean,/f/shop-by-diet/mediterranean-groceries,3
+Vaccine Resources,,,,3
+Vaccine Resources,,All Vaccines,https://www.kroger.com/health/vaccines,3
+Vaccine Resources,,Vaccine Appointments,https://www.kroger.com/health/schedule-appointment?type=Vaccines,3
+Vaccine Resources,,Vaccines by Age,https://www.kroger.com/health/vaccines#availablevaccines,3
+Vaccine Resources,,School Vaccines,https://www.kroger.com/health/vaccines/school,3
+Vaccine Resources,,Travel Vaccines,https://www.kroger.com/health/vaccines/travel,3
+Vaccine Resources,,Business & Community Vaccine Events (Opens in a new tab or window),https://www.krogerhealth.com/vaccines,3
+Shop Top Deals,/pr/top-deals,Shop Summer,/f/summer-shop,3
+Shop Top Deals,/pr/top-deals,"Spend $40, Save $10 Pet & Baby",/search?keyword=TDPetBabyS40S10P425&query=TDPetBabyS40S10P425&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Shop Top Deals,/pr/top-deals,4X Fuel Points on Gift Cards,/o/gift-cards,3
+Shop Top Deals,/pr/top-deals,Budget Friendly Meals,/blog/budget-friendly-meals,3
+Shop Top Deals,/pr/top-deals,Shop Kroger Brands,/b/kroger-brand,3
+Shop Top Deals,/pr/top-deals,Fuel Points,/pr/fuel-event,3
+Start a Pickup or Delivery Order,/f/start-shopping,Shop Summer,/f/summer-shop,3
+Start a Pickup or Delivery Order,/f/start-shopping,Weekly Ad,/weeklyad/shoppable,3
+Start a Pickup or Delivery Order,/f/start-shopping,Quick & Easy Meals,/blog/meal-planning,3
+Start a Pickup or Delivery Order,/f/start-shopping,Save with Kroger Brand,/b/kroger-brand,3
+Start a Pickup or Delivery Order,/f/start-shopping,New Arrivals,/f/new-arrivals,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,Shop Summer,/f/summer-shop,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,"Spend $40, Save $10 Pet & Baby",/search?keyword=TDPetBabyS40S10P425&query=TDPetBabyS40S10P425&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,4X Fuel Points on Gift Cards,/o/gift-cards,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,Budget Friendly Meals,/blog/budget-friendly-meals,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,Shop Kroger Brands,/b/kroger-brand,3
+Shop This Week's Top Deals,/pr/shop-all-promotions,Fuel Points,/pr/fuel-event,3

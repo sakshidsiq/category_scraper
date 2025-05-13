@@ -1,0 +1,884 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/produce,Spring Produce,/pl/springproduce/0617600004?taxonomyId=0617600004&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/produce,Berries,/pl/berries/0611100673,5
+Shop All,/d/produce,Citrus,/pl/citrus/0611100671?taxonomyId=0611100671&fulfillment=all,5
+Shop All,/d/produce,Fresh Cut Fruit & Veggies,/pl/fresh-cut-fruit-vegetables/06121,5
+Shop All,/d/produce,Grapes,/pl/grapes-cherries/0611100681?taxonomyId=0611100681&fulfillment=all,5
+Shop All,/d/produce,Potatoes,/pl/potatoes/0611200691?taxonomyId=0611200691&fulfillment=all,5
+Shop All,/d/produce,Apples,/pl/apples/0611100667?taxonomyId=0611100667&fulfillment=all,5
+Shop All,/d/produce,Broccoli & Cauliflower,/pl/broccolicauliflower/0611200685?taxonomyId=0611100685&fulfillment=all,5
+Shop All,/d/produce,"Nuts, Trail Mix & Seeds",/pl/nuts-trail-mix-seeds/01022?taxonomyId=01022&fulfillment=all,5
+Shop All,/d/produce,Carrots,/pl/carrots/0611200682?taxonomyId=0611200682&fulfillment=all,5
+Shop All,/d/produce,Salad Mix,/pl/salads/06114,5
+Shop All,/d/produce,Tomatoes,/pl/tomatoes/0611200690,5
+Shop All,/d/produce,Fresh Prepared Fruits & Vegetables,/pl/packaged-produce/06123,5
+Shop All,/d/produce,Onions & Garlic,/pl/onions/0611200692,5
+Shop All,/d/produce,Mushrooms,/pl/ mushrooms/0611200686,5
+Shop All,/d/produce,Peppers,/pl/peppers/0611200689,5
+Shop All,/d/produce,Tropical Fruits,/pl/tropicalfruits/0611100675?taxonomyId=0611100675&fulfillment=all,5
+Shop All,/d/produce,Avocados,/pl/avocado/0611100680?taxonomyId=0611100680&fulfillment=all,5
+Shop All,/d/meat,Chicken,/pl/chicken/05002?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Ground Beef,/pl/ground-beef-patties/0500100004?pzn=relevance,5
+Shop All,/d/meat,Steaks,/search?keyword=MeatDeptSteakRoast&query=MeatDeptSteakRoast&searchType=mktgattribute&monet=curated&fullfillment=all,5
+Shop All,/d/meat,Roasts,/pl/beefroasts/0500100006?&pzn=relevance,5
+Shop All,/d/meat,Pork & Ham,/pl/pork-ham/05006?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Turkey,/pl/turkey/05012?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Ready to Cook,/search?keyword=HomeChefReadytoCook&query=HomeChefReadytoCook&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/meat,Plant-Based Meat,/search?keyword=Meat2020Meatless&query=Meat2020Meatless&searchType=mktgattribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/meat,Frozen Meat,/search?keyword=frozenmeat&query=frozenmeat&searchType=mktgattribute&monet=curated&fulfillment=all,5
+Shop All,/d/meat,Hot Dogs & Franks,/pl/hot-dogs-franks/05005?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,"Lamb, Veal & Bison",/pl/lamb-veal-bison/05014?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Bacon & Breakfast Sausage,/pl/bacon-breakfast-sausage/05017?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Dinner Sausage,/pl/dinner-sausage/05003?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Packaged & Sliced Deli Meats,/pl/packaged-deli-meat/05013?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,"Pepperoni, Salami & Summer Sausage",/pl/pepperoni-salami-summer-sausage/05015?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Lunch & Snack Kits,/pl/lunch-snack-kits/05018?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Heat & Serve,/pl/heat-serve-meals-and-sides/05016?searchType=curated&pzn=relevance,5
+Shop All,/d/meat,Enhancements,/pl/refrigerated-pickles-sauerkraut/05008?pzn=relevance,5
+Shop All,/d/seafood,Shrimp,/pl/shrimp/0501000009?pzn=relevance,5
+Shop All,/d/seafood,Wild Caught Fillets,/search?keyword=SeafoodDeptWildCaughtFish&query=SeafoodDeptWildCaughtFish&searchType=mktg attribute&monet=promo&ful%20lfillment=all,5
+Shop All,/d/seafood,Crab & Shellfish,/search?keyword=SeafoodDeptCrabShellFish&query=SeafoodDeptCrabShellFish&searchType=mktg attribute&monet=promo&ful%20lfillment=all&pzn=relevance,5
+Shop All,/d/seafood,Farm-Raised Fillets,/search?keyword=SeafoodDeptFarmRaisedFish&query=SeafoodDeptFarmRaisedFish&searchType=mktg attribute&monet=promo&fullfillment=all&pzn=relevance,5
+Shop All,/d/seafood,Smoked Salmon,/search?keyword=SeafoodDeptSmokedSalmon&query=SeafoodDeptSmokedSalmon&searchType=mktg attribute&monet=promo&fullfillment=all&pzn=relevance,5
+Shop All,/d/seafood,Seafood Salad & Dips,/pl/seafood-salads-dips/0500400020?pzn=relevance,5
+Shop All,/d/seafood,Frozen Seafood,/search?keyword=frozenseafoodfresh&query=frozenseafoodfresh&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/seafood,Fresh Sushi,/pl/sushi/1300800002?pzn=relevance,5
+Shop All,/d/seafood,Breaded Fish,/pl/frozen-fish/1900800003?pzn=relevance,5
+Shop All,/d/seafood,Canned Seafood,/pl/canned-seafood/0100600007?pzn=relevance,5
+Shop All,/d/seafood,Sauce & Breading,/pl/seafoodspices-breading/0500400021?pzn=relevance,5
+Shop All,/d/seafood,Breaded Shrimp,/search?keyword=seafoodbreadedshrimp&query=seafoodbreadedshrimp&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/seafood,Surimi Krab,/search?keyword=seafoodsurimikrab&query=seafoodsurimikrab&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/deli,Ham Deli Meat,/pl/fresh-deli-hammeat/1300100002?pzn=relevance&taxonomyId=1300100002&fulfillment=all,5
+Shop All,/d/deli,Turkey Deli Meat,/pl/fresh-deliturkey-meat/1300100003?pzn=relevance&taxonomyId=1300100003&fulfillment=all,5
+Shop All,/d/deli,All Deli Meat,/pl/fresh-deli-meats/13001?&pzn=relevance,5
+Shop All,/d/deli,All Deli Cheese,/pl/fresh-deli-cheese/13002,5
+Shop All,/d/deli,Chicken & Ribs,/search?keyword=delichickenandribs&query=delichickenandribs&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/deli,Sushi,/pl/sushi/1300800002?fulfillment=all&searchType=natural&pzn=relevance,5
+Shop All,/d/deli,Packaged Deli Meat,/pl/packaged-deli-meat/13003?fulfillment=all&searchType=natural&monet=promo&pzn=relevance,5
+Shop All,/d/deli,Packaged Deli Cheese,/pl/packaged-deli-cheese/13004,5
+Shop All,/d/deli,"Hummus, Salsa, Dips & Snacks",/pl/olives-dips-spreads-snacks/13011?fulfillment=all&searchType=natural&monet=promo&pzn=relevance,5
+Shop All,/d/deli,Specialty Cheese,/pl/specialty-cheeses/13005?fulfillment=all&searchType=natural&monet=promo&pzn=relevance,5
+Shop All,/d/deli,Charcuterie Meats & Cheese,/search?keyword=CharcuterieDeliDept&query=CharcuterieDeliDept&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/deli,Murray’s Cheese,/b/murrays-cheese,5
+Shop All,/d/deli,Soups,/pl/soups/1300600008,5
+Shop All,/d/deli,Home Chef,/b/home-chef,5
+Shop All,/d/deli,Sandwiches & Salads,/pl/grab-go-meals/13008,5
+Shop All,/d/deli,Cold Side Dishes,/search?keyword=delicoldpreparedsides&query=delicoldpreparedsides&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/deli,Party Platters,/pl/party-platters/13010?&pzn=relevance,5
+Shop All,/d/deli,Deli Online Catering,/fresh,5
+Shop All,/d/floral,Fresh Cut Roses,/pl/fresh-cut-roses/09130,5
+Shop All,/d/floral,Bouquets,/pl/bouquets/09126,5
+Shop All,/d/floral,Floral Arrangements,/pl/floralarrangements/09128,5
+Shop All,/d/floral,Orchids,/pl/orchids/09132,5
+Shop All,/d/floral,Home & Gift,/pl/potted-plants/09133,5
+Shop All,/d/floral,Balloons,/pl/balloons/09125,5
+Shop All,/d/floral,Thank You,/search?keyword=FloralThankYou&query=FloralThankYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/floral,Thinking of You,/search?keyword=FloralThinkingOfYou&query=FloralThinkingOfYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/floral,Anniversary,/search?keyword=FloralAnniversary&query=FloralAnniversary&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/floral,Birthday,/search?keyword=FloralBirthday&query=FloralBirthday&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/floral,New Baby,/search?keyword=FloralNewBaby&query=FloralNewBaby&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/floral,Sympathy,/search?keyword=FloralSympathy&query=FloralSympathy&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/grocery,"Packaged Bread, Buns, and Rolls",/pl/packaged-bread/01016,5
+Shop All,/d/grocery,Snacks,/d/snacks,5
+Shop All,/d/grocery,Beverage,/d/beverages,5
+Shop All,/d/grocery,Snack Cakes & Pies,/pl/snack-cakes-pies/0102000010,5
+Shop All,/d/grocery,Baking & Cooking,/pl/baking-cooking/01012?searchType=natural&pzn=relevance,5
+Shop All,/d/grocery,Pasta & Pasta Sauce,/pl/pasta-pasta-sauces/01010,5
+Shop All,/d/grocery,Spices & Seasonings,/pl/spices-seasonings/01015?pzn=relevance,5
+Shop All,/d/grocery,"Grains, Beans & Rice",/pl/grains-beans-rice/01007,5
+Shop All,/d/grocery,Canned Foods,/pl/canned-foods/01006,5
+Shop All,/d/grocery,Condiments & Sauces,/pl/condiments-sauces/01008,5
+Shop All,/d/grocery,Packaged Meals & Sides,/pl/packaged-meals-sides/01011,5
+Shop All,/d/grocery,"Spreads, Jelly & Honey",/pl/spreads-jelly-honey/01014,5
+Shop All,/d/grocery,International Foods,/pl/international/01013,5
+Shop All,/d/grocery,"Nuts, Trail Mix, & Seeds",/pl/nuts-trail-mix-seeds/01022?query=nuts&searchType=default_search&taxonomyId=01022&fulfillment=all,5
+Snacks,/d/snacks,Chips & Puffs,/search?keyword=ChipsPuffsMore&query=ChipsPuffsMore&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Snacks,/d/snacks,Cookies,/pl/cookies/01021?taxonomyId=01021&fulfillment=all,5
+Snacks,/d/snacks,Crackers,/pl/crackers/01026?taxonomyId=01026&fulfillment=all,5
+Snacks,/d/snacks,Popcorn,/pl/popcorn/0102000007?facets=true&pzn=relevance,5
+Snacks,/d/snacks,Nuts & Seeds,/pl/nuts-seeds/0102000002?facets=true&pzn=relevance,5
+Snacks,/d/snacks,Pretzels,/pl/pretzels/0102000005?facets=true&pzn=relevance,5
+Snacks,/d/snacks,Granola Bars,/pl/granola-bars/0102000027,5
+Snacks,/d/snacks,Trail Mix,/pl/trail-mix/0102000001,5
+Snacks,/d/snacks,Rice Cakes,/pl/rice-cakes/0102000014,5
+Snacks,/d/snacks,Snack Cakes & Pies,/pl/snack-cakes-pies/0102000010,5
+Snacks,/d/snacks,Beef Jerky & Dried Meat,/pl/beef-jerky-dried-meat/0102000004,5
+Snacks,/d/snacks,Raisins & Dried Fruit,/pl/raisins-dried-fruit/0102000003,5
+Snacks,/d/snacks,Fruit Snacks,/pl/fruit-snacks/0102000013,5
+Snacks,/d/snacks,Applesauce & Fruit Cups,/pl/applesauce-fruit-cups/0102000016,5
+Snacks,/d/snacks,Fruit & Veggie Snack,/pl/snack-packs/0612300003,5
+Snacks,/d/snacks,Dips,/pl/dips/0102000009,5
+Snacks,/d/snacks,Gelatin & Pudding,/pl/pudding-gelatin/0101200017,5
+Shop All,/d/international,Latin & Mexican,/d/international-latin-mexican,5
+Shop All,/d/international,Asian American & Pacific Islander,/d/international-asian,5
+Shop All,/d/international,Mediterranean & European,/search?keyword=2022InternationalMediandEuro&query=2022InternationalMediandEuro&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/international,Kosher,/search?query=kosherfoods&monet=false&keyword=kosherfoods&searchType=mktg%20attribute&pzn=relevance,5
+Latin American & Mexican,/d/international-latin-mexican,Pantry Staples,/pl/Pantry/58002?taxonomyId=58002&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Meat & Seafood,/pl/Meat-Seafood/58008?taxonomyId=58008&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Fresh Produce,/pl/Fruits-Vegetables/58010?taxonomyId=58010&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,"Salsas, Sauces & Seasonings",/pl/Salsa-Sauces-Dips/58003?taxonomyId=58003&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Tortillas & Shells,/pl/TortillasTaco-Shells-Tostadas/58001?taxonomyId=58001&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,5
+Latin American & Mexican,/d/international-latin-mexican,Ceviche Mixto,/r/ceviche-mixto-mixed-seafood-recipe/5d6ed33c9da07c58141dc38b,5
+Latin American & Mexican,/d/international-latin-mexican,Slow Cooker Pollo Guisado (Chicken Stew),/r/slow-cooker-pollo-guisado-chicken-stew-recipe/5d6ecafa9da07c58141dc31c,5
+Latin American & Mexican,/d/international-latin-mexican,Pupusas con Curtido,/r/pupusas-con-curtido-stuffed-corn-tortillas-recipe/5d7022059da07c461162e812,5
+Asian,/d/international-asian,Rice & Noodles,/search?query=AsianRiceNoodles&monet=false&keyword=AsianRiceNoodles&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Canned Fruit & Vegetables,/search?query=AsianCannedFruitsVeg&monet=false&keyword=AsianCannedFruitsVeg&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,"Sauces, Oils & Spices",/search?query=AsianSaucesOilsSpices&monet=false&keyword=AsianSaucesOilsSpices&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,"Meals, Bowls & Soup",/search?query=AsianMealsBowlsSoups&monet=false&keyword=AsianMealsBowlsSoups&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Snacks & Candy,/search?query=AsianSnacksCandy&monet=false&keyword=AsianSnacksCandy&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Beverages,/search?query=AsianBeverages&monet=false&keyword=AsianBeverages&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Meat & Seafood,/search?query=AsianMeatSeafood&keyword=AsianMeatSeafood&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Produce,/search?query=AsianProduce&keyword=AsianProduce&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Vietnamese,/d/international-asian-vietnamese,5
+Asian,/d/international-asian,Korean,/d/international-asian-korean,5
+Asian,/d/international-asian,Thai,/d/international-asian-thai,5
+Asian,/d/international-asian,Indian,/d/international-asian-indian,5
+Asian,/d/international-asian,Filipino,/d/international-asian-filipino,5
+Shop All,/d/dairy,Cheese,/pl/cheese/02002?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Milk & Plant-Based Milk,/pl/milk-plant-based- milk/02001?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Yogurt,/pl/yogurt/02009?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Butter & Margarine,/pl/butter-margarine/02004?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Eggs & Egg Substitutes,/pl/eggs-egg-substitutes/02003?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Cream & Creamer,/pl/cream-creamer/02005,5
+Shop All,/d/dairy,Sour Cream & Dips,/pl/sour-cream-dips/02006?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Refrigerated Dough & Crust,/pl/refrigerated-dough-crust/02007?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Pudding & Gelatin,/pl/pudding-gelatin/02008?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Simple Truth,/search?keyword=DairyOBSTO&query=DairyOBSTO&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Private Selection,/search?keyword=DiaryOBPS&query=DiaryOBPS&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Kroger,/search?keyword=DairyOBKroger&query=DairyOBKroger&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Murray’s Cheese,:/search?keyword=DairyOBMurrays&query=DairyOBMurrays&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/frozen,Frozen Pizza,/pl/frozen-pizza/19003,5
+Shop All,/d/frozen,Ice Cream & Ice Pops,/pl/ice-cream-ice-pops/19002,5
+Shop All,/d/frozen,Frozen Meals & Sides,/pl/frozen-meals-sides/19004,5
+Shop All,/d/frozen,Frozen Appetizers & Snacks,/pl/frozen-appetizers-snacks/19006,5
+Shop All,/d/frozen,Frozen Vegetables,/pl/frozen-vegetables/19005,5
+Shop All,/d/frozen,Frozen Breakfast,/pl/frozen-breakfast/19007,5
+Shop All,/d/frozen,"Frozen Chicken, Meat & Seafood",/pl/frozen-meat-seafood-meatless/19008,5
+Shop All,/d/frozen,Frozen Potatoes & Onion Rings,/pl/frozen-potatoes-onion-rings/19010,5
+Shop All,/d/frozen,Frozen Bread,/pl/frozen-bread/19009,5
+Shop All,/d/frozen,Frozen Fruit,/pl/frozen-fruit/19012,5
+Shop All,/d/frozen,Frozen Desserts & Pies,/pl/frozen-desserts/19001,5
+Shop All,/d/frozen,Frozen Juice & Mixers,/pl/frozen-juice-mixers/19011,5
+Shop All,/d/frozen,Frozen International Foods,/pl/international-frozen-foods/19013,5
+Shop All,/d/frozen,Frozen Plant Based Meat,/pl/frozenmeat-alternatives/1900800005?taxonomyId=1900800005&fulfillment=all,5
+Shop All,/d/natural-organic,Grocery,/pl/grocery/18012,5
+Shop All,/d/natural-organic,Beauty & Personal Care,/pl/beauty-personal-care/18001,5
+Shop All,/d/natural-organic,Meat & Seafood,/pl/meat-seafood/18004,5
+Shop All,/d/natural-organic,Produce,/pl/organic-produce/18003,5
+Shop All,/d/natural-organic,Dairy & Eggs,/pl/dairy-eggs/18007,5
+Shop All,/d/natural-organic,Cleaning & Household,/pl/cleaning-household/18011,5
+Shop All,/d/natural-organic,Baby,/pl/baby/18002,5
+Shop All,/d/natural-organic,Deli,/pl/deli/18008,5
+Shop All,/d/natural-organic,Bread & Bakery,/pl/bakery-bread/18009,5
+Shop All,/d/natural-organic,Frozen,/pl/frozen/18010,5
+Shop All,/d/natural-organic,Spices & Baking,/pl/spices-baking/18006,5
+Shop All,/d/natural-organic,Beverages,/pl/beverages/18005,5
+Shop All,/d/beverages,Soda & Pop,/pl/soda-pop/04001,5
+Shop All,/d/beverages,Water,/pl/water/04006,5
+Shop All,/d/beverages,Coffee Shop,/d/coffee,5
+Shop All,/d/beverages,Juice & Lemonade,/pl/juice/04004,5
+Shop All,/d/beverages,Milk & Milk Substitutes,/pl/milk-plant-based-milk/02001,5
+Shop All,/d/beverages,Tea,/pl/tea-kombucha/04007,5
+Shop All,/d/beverages,Kombucha & Gut Health Beverages,/pl/kombucha-and-gut-health-beverages/04012?pzn=relevance&taxonomyId=04012&fulfillment=all,5
+Shop All,/d/beverages,Sparkling Water,/pl/sparkling-water/04002,5
+Shop All,/d/beverages,Sports Drink,/pl/sports-drinks/04005,5
+Shop All,/d/beverages,Drink Mixes & Beverage Enhancers,/pl/drink-mixes-beverage-enhancers/04008,5
+Shop All,/d/beverages,Drink Boxes & Pouches,/pl/drink-boxes-pouches/04010,5
+Shop All,/d/beverages,Energy Drinks,/pl/energydrinks/04011,5
+Shop All,/d/beverages,Adult Beverage Mixers,/pl/adult-beverage-mixers/08189?pzn=relevance&taxonomyId=08189&fulfillment=all,5
+Shop All,/d/beverages,Cocoa Mixes,/pl/cocoa-mixes/0400700011?taxonomyId=0400700011&fulfillment=all,5
+Shop All,/d/beverages,Protein Shakes,/pl/proteinshakes/2201000002,5
+Shop All,/d/beverages,Glassware & Drinkware,/pl/glassware-drinkware/28004?facets=true&pzn=relevance,5
+Shop All,/d/beverages,Soda Stream,/search?query=soda%20stream&searchType=default_search,5
+Shop All,/d/breakfast,Cereal & Granola,/pl/cereal-granola/03001,5
+Shop All,/d/breakfast,Breakfast & Cereal Bars,/pl/breakfastcereal-bars/0300200001,5
+Shop All,/d/breakfast,Pop-Tarts & Toaster Pastries,/pl/pop-tartstoaster-pastries/0300200006,5
+Shop All,/d/breakfast,"Bread, Bagels & Muffins",/pl/bread-bagels-muffins/03004,5
+Shop All,/d/breakfast,Frozen Breakfast,/pl/frozen-breakfast/19007,5
+Shop All,/d/breakfast,Donuts & Pastries,/pl/donuts-pastries/03005,5
+Shop All,/d/breakfast,"Pancake, Waffle & Baking Mixes",/pl/pancake-waffle-baking-mixes/03003,5
+Shop All,/d/breakfast,Dairy & Refrigerated Breakfast,/pl/dairy-refrigerated-breakfast/03006,5
+Shop All,/d/breakfast,Bacon & Breakfast Sausage,/pl/bacon-sausage/05017,5
+Shop All,/d/breakfast,Juice & Breakfast Drinks,/pl/juice-breakfast-drinks/03007,5
+Shop All,/d/breakfast,Fresh Fruit,/pl/fresh-fruit/06111,5
+Shop All,/d/breakfast,Fresh Cut Fruit,/pl/fresh-cut-fruitvegetables/06121,5
+Shop All,/d/breakfast,Private Selection,/pl/breakfast/03?query=Private%20Selection&searchType=default_search&taxonomyId=03&fulfillment=all&pzn=relevance,5
+Shop All,/d/coffee,K-Cups & Pods,/pl/k-cups-coffee-pods/0400300001?taxonomyId=0400300001&fulfillment=all,5
+Shop All,/d/coffee,Nespresso Pods & Capsules,/pl/nespresso-pods-capsules/0400300004?taxonomyId=0400300004&fulfillment=all,5
+Shop All,/d/coffee,Ground Coffee,/pl/ground-coffee/0400300003?taxonomyId=0400300003&fulfillment=all,5
+Shop All,/d/coffee,Whole Coffee Beans,/pl/whole-coffee-beans/0400300002?taxonomyId=0400300002&fulfillment=all,5
+Shop All,/d/coffee,Instant Coffee,/pl/instant-coffee/0400300010?taxonomyId=0400300010&fulfillment=all,5
+Shop All,/d/coffee,Seasonal & Holiday Flavored Coffee & Creamer,/pl/seasonal-holiday-flavored-coffee-creamer/0400300005?taxonomyId=0400300005&fulfillment=all,5
+Shop All,/d/coffee,"Cold Brew, Iced & Bottled Coffee",/pl/cold-brew-iced-bottled-coffee/0400300009?taxonomyId=0400300009&fulfillment=al,5
+Shop All,/d/coffee,Espresso Coffee,/pl/espresso-coffee/0400300007?taxonomyId=0400300007&fulfillment=all,5
+Shop All,/d/coffee,Decaffeinated Coffee,/pl/decaffeinated-coffee/0400300006?taxonomyId=0400300006&fulfillment=all,5
+Shop All,/d/coffee,Coffee Creamers & Flavoring Syrups,/pl/coffee-creamers-flavoring-syrups/0400300008?taxonomyId=0400300008&fulfillment=all,5
+Shop All,/d/coffee,Coffee Filters,/pl/filters/2801200002?taxonomyId=2801200002&fulfillment=all,5
+Shop All,/d/coffee,Coffee & Espresso Machines,/pl/coffee-makers/2800700009?taxonomyId=2800700009&fulfillment=all,5
+Shop All,/d/candy,Chocolate,/pl/chocolate/23001?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Gum & Mints,/pl/gum/23002?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Grab & Go Candy,/pl/mints/2300200003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Chewy & Gummy Candy,/pl/gummychewy-candy/23003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Hard Candy & Lollipops,/pl/hard-candy/23004?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Healthier Options,https://www.kroger.com/pl/healthieroptions/23009?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Dark Chocolate Candy,/search?query=dark%20chocolate%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Shop All,/d/candy,Sugar Free,/search?query=sugar%20free%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Shop All,/d/candy,Assorted & Variety,/pl/chocolate/2300100005?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/candy,Premium Chocolate,/pl/premiumchocolate/23008?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Letter Vitamins,/pl/letter-vitamins/2201300001?taxonomyId=2201300001&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Minerals,/pl/minerals/2201300004?taxonomyId=2201300004&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Herbal Supplements,/pl/herbalsupplements/2201300003?taxonomyId=2201300003&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Multi Vitamins,/pl/multi-vitamins/2201300005?taxonomyId=2201300005&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Nutritional Supplements,/pl/nutrition-dietsupplements/2201300008?taxonomyId=2201300008&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Natural & Organic,/pl/vitaminssupplements/1800100003?taxonomyId=1800100003&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Children's Vitamins,/pl/children-svitamins/2201300002?taxonomyId=2201300002&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Probiotics,/pl/probiotics/2201300009,5
+Shop All,/d/vitamins-supplements,Prenatal & Postnatal,/pl/prenatalpostnatal-vitamins/2201300010?taxonomyId=2201300010&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Joint Health,/pl/joint-health/2201300007?taxonomyId=2201300007&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Heart Health,/pl/fish-oil-oilsomegas/2201300006?taxonomyId=2201300006&fulfillment=all,5
+Shop All,/d/vitamins-supplements,Hair Skin & Nails,/pl/hair-skin-nailssupplements/2201300011?taxonomyId=2201300011&fulfillment=all,5
+Shop All,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,5
+Shop All,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,5
+Shop All,/d/personal-care,Oral Care,/pl/oral-care/21003?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Hand Soap & Sanitizers,/pl/hand-soap-sanitizer/21007?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Bath & Shower,/pl/bath-shower/21013?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Skin Care,/pl/face‐care/20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all,5
+Shop All,/d/personal-care,Travel Size Products,/pl/travel-size/20007?query=travel%20size&searchType=default_search&taxonomyId=20007&fulfillment=all,5
+Shop All,/d/personal-care,Hair Care,/pl/hair-care/21002?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Body Lotion & Moisturizers,/pl/body-moisturizers/21006?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Deodorants & Antiperspirants,/pl/deodorants-antiperspirant/21001?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Feminine Care,/pl/feminine-care/21009?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Shaving & Hair Removal,/pl/shaving-grooming/21004?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/personal-care,Men’s Grooming,/pl/mens-grooming/21016?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=21016&fulfillment=all,5
+Shop All,/d/personal-care,Incontinence,/pl/incontinence/21008?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Sun Care & Sunless Tanning,/pl/sunning-%20-tanning/21011?searchType=mktg%20attribute&pzn=relevance,5
+Shop All,/d/personal-care,Sexual Health,/pl/sexual-health/21010?searchType=mktg attribute&pzn=relevance,5
+Shop All,/d/personal-care,Natural & Organic,/pl/beauty-personalcare/18001?pzn=relevance&searchType=mktg%20attribute&taxonomyId=18001&nutrition=Organic%2CLive%20Naturally&fulfillment=all,5
+Shop All,/d/beauty,Hair Care,/pl/hair‐care/20004?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20004&fulfillment=all,5
+Shop All,/d/beauty,Skin Care,/pl/face‐care/20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all,5
+Shop All,/d/beauty,Bath & Body,/pl/bath‐&‐body /20002?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20002&fulfillment=all External,5
+Shop All,/d/beauty,Makeup,/pl/makeup/20001?taxonomyId=20001&fulfillment=all,5
+Shop All,/d/beauty,Sun Care,/pl/sun-tanning/20006?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20006&fulfillment=all,5
+Shop All,/d/beauty,Fragrance,/pl/fragrance/20003?taxonomyId=20003&fulfillment=all,5
+Shop All,/d/beauty,Nails,/pl/nails/2000100003,5
+Shop All,/d/beauty,Natural & Organic,/pl/beauty‐personal‐care/18001,5
+Shop All,/d/beauty,Mini & Travel‐Size,/pl/minis‐travel‐size/20007?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20007&fulfillment=all,5
+Shop All,/d/beauty,Textured Hair Care,/pl/Textured%20Hair/2000400006?taxonomyId=2000400006&monet=false&fulfilment=all,5
+Shop All,/d/beauty,Beauty Deals,/pl/personalcare/21?pzn=relevance&searchType=mktg%20attribute&taxonomyId=21&fulfillment=all,5
+Shop All,/d/beauty,Shop All,/pl/beauty/20?monet=true&pzn=relevance&searchType=mktg%20attribute&taxonomyId=20&fulfillment=all,5
+Shop All,/d/baby,Diapers & Wipes,/pl/diapers-training-pants/10003?query=diapers&searchType=default_search&taxonomyId=10003&fulfillment=all,5
+Shop All,/d/baby,Wipes,/pl/baby-wipes/1000400002?pzn=relevance&taxonomyId=1000400002&fulfillment=all,5
+Shop All,/d/baby,Bath & Skin Care,/pl/body-&-hair-care/46005?taxonomyId=46005&fulfillment=all,5
+Shop All,/d/baby,Nursing & Feeding,/pl/nursing-&-feeding/44?taxonomyId=44&fulfillment=all,5
+Shop All,/d/baby,Health & Safety,/pl/health-&-safety/45?facets=tru&pzn=relevance,5
+Shop All,/d/baby,Baby Food,/pl/baby-food-snacks/10001?query=baby%20food&searchType=default_search&taxonomyId=10001&fulfillment=all,5
+Shop All,/d/baby,Strollers,/pl/strollers/42002?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Cribs,/pl/cribs-andBassinets/4300100001?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Car Seats,/pl/car‐seats/42001?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Gear & Activity,/pl/travel/42003?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Toddler,/pl/potty/46006?fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Pre & Postpartum Essentials,/search?keyword=PreandPostpartum&query=PreandPostpartum&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Milk Based,/pl/milk-based-formula/1009300788?query=formula&searchType=default_search&taxonomyId=1009300788&fulfillment=all,5
+Shop All,/d/baby,Soy & Plant Based,/pl/soy-plant-based-formula/1009300789?query=formula&searchType=default_search&taxonomyId=1009300789&fulfillment=all,5
+Shop All,/d/baby,Sensitive & Gentle,/pl/sensitive-gentle-formula/1009300790?query=formula&searchType=default_search&taxonomyId=1009300790&fulfillment=all,5
+Shop All,/d/baby,Hypoallergenic,/pl/hypo-allergenicformula/1009300791?query=formula&searchType=default_search&taxonomyId=1009300791&fulfillment=all,5
+Shop All,/d/baby,Natural & Organic,/search?keyword=2023BabyDeptFormulaOrganic&query=2023BabyDeptFormulaOrganic&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Powder,/pl/powder-formula/1009300786?query=formula&searchType=default_search&taxonomyId=1009300786&fulfillment=all,5
+Shop All,/d/baby,Ready to Feed,/search?keyword=2023BabyDeptFormulaReadyToFeed&query=2023BabyDeptFormulaReadyToFeed&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/baby,Concentrate,/pl/concentrated-formula/1009300787?query=formula&searchType=default_search&taxonomyId=1009300787&fulfillment=all,5
+Shop All,/d/baby,Goat Milk,/pl/goat-milk-formula/1009300792?query=formula&searchType=default_search&taxonomyId=1009300792&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Jars,/pl/baby-food-jars/4400900006?taxonomyId=4400900006&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Pouches,/pl/baby-food-pouches/4400900007?taxonomyId=4400900007&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Snacks,/pl/baby-food-snacks/4400900008?taxonomyId=4400900008&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Cereal,/pl/baby-food-cereal/4400900010?taxonomyId=4400900010&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Meals,/pl/toddler-meals/4400900009?taxonomyId=4400900009&fulfillment=all,5
+Shop All,/d/baby/nursing-feeding,Beverage,/pl/baby-&-toddler-beverage/4400900005?taxonomyId=4400900005&fulfillment=all,5
+Shop All,/d/kitchen-dining,Kitchen Appliances,/pl/kitchen-appliances/28007?taxonomyId=28007&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Utensils & Gadgets,/pl/kitchen-tools-&-gadgets/28001?taxonomyId=28001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Bakeware,/pl/bakeware/28009?taxonomyId=28009&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Storage & Organization,/pl/kitchen-storage-organization/28002?taxonomyId=28002&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Cookware,/pl/cookware/28008?taxonomyId=28008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Cutlery & Knives,/pl/cutlery-knife-accessories/40002?query=knives&searchType=default_search&taxonomyID=40002&fulfillment=all,5
+Shop All,/d/kitchen-dining,Dinnerware,/pl/dinnerware/40001??taxonomyId=40001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Serveware,/pl/serveware/40006??taxonomyId=40006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Glassware & Drinkware,/pl/glassware-&-drinkware/40003??taxonomyId=40003&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Barware,/pl/wine-and-bar-essentials/40008??taxonomyId=40008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Flatware,/pl/flatware/40005?taxonomyId=40005&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Kitchen Textiles,/pl/kitchen-&-table-linens/28006?taxonomyId=28006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Water Filtration,/pl/water-and-filters/28019?taxonomyId=28019&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Thermal & Sports Bottles,/pl/thermal-&-water-bottles/40004?taxonomyId=40004&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Coffee Makers,/pl/coffeemakers/2800700009?taxonomyId=2800700009&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Blenders,/pl/blenders/2800700002?taxonomyId=2800700002&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Air Fryers,/pl/fryers/2800700006?taxonomyId=2800700006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Slow Cookers,/pl/slowcookers/2800700001?taxonomyId=2800700001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Griddles & Waffle Makers,/pl/electricgriddles-&-waffle-makers/2800700005?taxonomyId=2800700005&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Microwaves,/pl/microwaves/2800700008?taxonomyId=2800700008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Hardware & Tools,/pl/hand-tools/33004?taxonomyId=33004&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,School & Office Supplies,/pl/school-%20-offce/35?taxonomyId=35&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Candles,/pl/candles-%26-home-fragrances/32001?taxonomyId=32001&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Home Decor,/pl/home-decor/32?taxonomyId=32&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Bath,/pl/bath/37?taxonomyId=37&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Storage & Organization,/pl/storage-solutions/39005?taxonomyId=39005&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Automotive,/pl/automotive/15043?taxonomyId=15043&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/electronics,Headphones,/pl/headphone-searbuds-headsets/2900300001?facets=true&pzn=relevance&taxonomyId=2900300001&fulfillment=all ,5
+Shop All,/d/electronics,Computer Supplies & Accessories,/pl/computersupplies-accessories/29005?facets=true&pzn=relevance,5
+Shop All,/d/electronics,Phones, /pl/phones/2900200005?facets=true&pzn=relevance&taxonomyId=2900200005&fulfillment=all,5
+Shop All,/d/electronics,Cell Accessories,/pl/accessories/2900200009?facets=true&pzn=relevance&taxonomyId=2900200009&fulfillment=all,5
+Shop All,/d/electronics,Printer & Supplies,/pl/printerssupplies/29006?facets=true&pzn=relevance,5
+Shop All,/d/patio-grilling,Firewood & Fire Starters,/search?keyword=FirewoodFireStartersIconENT&query=FirewoodFireStartersIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/patio-grilling,Grill Accessories,/pl/grill-accessories/2400100006?taxonomyId=2400100006&fulfillment=all,5
+Shop All,/d/patio-grilling,Outdoor Cookware,/search?keyword=OutdoorCookwareIconENT&query=OutdoorCookwareIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/patio-grilling,"Seeds, Soils & Garden Essentials",/pl/landscaping-lawncare/2400200006?taxonomyId=2400200006&fulfillment=all,5
+Shop All,/d/patio-grilling,Fuel,/search?keyword=GrillingFuelIconENT&query=GrillingFuelIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Building Blocks & Sets,/pl/building-blocks-sets/2500500002?pzn=relevance&taxonomyId=2500500002&fulfillment=all,5
+Shop All,/d/toys,"Creative Toys, Crafts & Activities",/pl/craft-kits/2500500001?taxonomyId=2500500001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Vehicles & Remote Control,/pl/vehicles-&-remote-control/25008?taxonomyId=25008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Dolls & Accessories,/pl/dolls-&-accessories/25004?taxonomyId=25004&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Stuffed Animals & Plush,/pl/stuffed-animals-%20-plush/2500400003?pzn=relevance&taxonomyId=2500400003&fulfillment=all,5
+Shop All,/d/toys,Games & Puzzles,/pl/games-&-puzzles/25001?taxonomyId=25001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Action Figures & Sets,/pl/action-figures/2500200001?pzn=relevance&taxonomyId=2500200001&fulfillment=all,5
+Shop All,/d/toys,Learning & Educational,/pl/learning-%20-education/25005?pzn=relevance&taxonomyId=25005&fulfillment=all,5
+Shop All,/d/toys,Babies,/search?keyword=ToysShopAge0to24&query=ToysShopAge0to24&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Toddlers,/search?keyword=ToysShopAge2to4&query=ToysShopAge2to4&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Little Kids,/search?keyword=ToysShopAge5to7&query=ToysShopAge5to7&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Big Kids,/search?keyword=ToysShopAge8to10&query=ToysShopAge8to10&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Teens,/search?keyword=ToysShopAge10plus&query=ToysShopAge10plus&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,LEGO,/search?keyword=ShopByLicenseLEGO&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Hot Wheels,/search?keyword=ShopByLicenseHotWheels&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Barbie,/search?keyword=ShopByLicenseBarbie&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Play-Doh,/search?keyword=ShopPlayDohCompoundSand&query=ShopPlayDohCompoundSand&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Disney,/search?keyword=ShopByLicenseDisneyPrincess&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Star Wars,/search?keyword=ShopByLicenseStarWars&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Squishmallow,/search?keyword=ShopSquishmallowTyBeanie&query=ShopSquishmallowTyBeanie&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer,/f/summer-shop,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer,/f/summer-shop,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer,/f/summer-shop,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+New Arrivals,/f/new-arrivals,Shop All Departments,/d/shop-all-departments,5
+New Arrivals,/f/new-arrivals,Shop Our Brands,/b/ourbrands,5
+New Arrivals,/f/new-arrivals,Meal Planning,/blog/meal-planning,5
+New Arrivals,/f/new-arrivals,Specialty Diets,/f/shop-by-diet,5
+New Arrivals,/f/new-arrivals,Shop Your Regulars,/products/start-my-cart,5
+Fuel Points,/pr/fuel-event,Fuel Points Program,/d/fuel-points-program,5
+Fuel Points,/pr/fuel-event,The Fresh Lane Blog,/blog,5
+Fuel Points,/pr/fuel-event,Pharmacy & Health,/health,5
+Fuel Points,/pr/fuel-event,Boost Membership,/pr/boost,5
+Fuel Points,/pr/fuel-event,New Arrivals,/f/new-arrivals,5
+Fuel Points,/pr/fuel-event,Digital Coupons,/savings/cl/coupons/,5
+Multicultural Foods,/blog/meal-planning/multicultural,Shrimp Paella,/r/shrimp-paella-recipe/569ea52a84aed2dc36020509,5
+Multicultural Foods,/blog/meal-planning/multicultural,Authentic Jerk Chicken,/r/authentic-jerk-chicken-recipe/0eedf418-ecbd-4857-b32d-d515fda2c27e,5
+Multicultural Foods,/blog/meal-planning/multicultural,Caprese Salad,/r/caprese-salad-on-stick-recipe/5c2fb1bc9da07c4f57d2f1ef,5
+Multicultural Foods,/blog/meal-planning/multicultural,Spicy Fish Tacos,/r/spicy-fish-tacos-with-creamy-cilantro-slaw-recipe/5a90620f84aee1f93240d6ba,5
+Multicultural Foods,/blog/meal-planning/multicultural,Tofu Bahn Mi,/r/tofu-banh-mi-recipe/1dc76fd8-a21b-4607-b3e9-e8a45244636e,5
+Multicultural Foods,/blog/meal-planning/multicultural,Greek Salad with Grilled Chicken,/r/greek-salad-with-grilled-chicken-recipe/23613a5f-5d66-4903-ad9a-23671898f90c,5
+Multicultural Foods,/blog/meal-planning/multicultural,Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,5
+Top Deals,/pr/top-deals,Shop Summer,/f/summer-shop,5
+Top Deals,/pr/top-deals,"Spend $40, Save $10 Pet & Baby",/search?keyword=TDPetBabyS40S10P425&query=TDPetBabyS40S10P425&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Top Deals,/pr/top-deals,4X Fuel Points on Gift Cards,/o/gift-cards,5
+Top Deals,/pr/top-deals,Budget Friendly Meals,/blog/budget-friendly-meals,5
+Top Deals,/pr/top-deals,Shop Kroger Brands,/b/kroger-brand,5
+Top Deals,/pr/top-deals,Fuel Points,/pr/fuel-event,5
+Shop All Departments,/d/shop-all-departments,Meat,/d/meat,5
+Shop All Departments,/d/shop-all-departments,Seafood,/d/seafood,5
+Shop All Departments,/d/shop-all-departments,Produce,/d/produce,5
+Shop All Departments,/d/shop-all-departments,Deli,/d/deli,5
+Shop All Departments,/d/shop-all-departments,Bakery,/d/bakery,5
+Shop All Departments,/d/shop-all-departments,Dairy & Eggs,/d/dairy,5
+Shop All Departments,/d/shop-all-departments,Pantry,/d/grocery,5
+Shop All Departments,/d/shop-all-departments,Beverage,/d/beverages,5
+Shop All Departments,/d/shop-all-departments,Breakfast,/d/breakfast,5
+Shop All Departments,/d/shop-all-departments,Natural & Organic,/d/natural-organic,5
+Shop All Departments,/d/shop-all-departments,Adult Beverage,/d/beer-wine-liquor,5
+Shop All Departments,/d/shop-all-departments,Frozen,/d/frozen,5
+Shop All Departments,/d/shop-all-departments,Health,/d/health,5
+Shop All Departments,/d/shop-all-departments,Vitamins & Supplements,/d/vitamins-supplements,5
+Shop All Departments,/d/shop-all-departments,Personal Care,/d/personal-care,5
+Shop All Departments,/d/shop-all-departments,Beauty,/d/beauty,5
+Shop All Departments,/d/shop-all-departments,Baby,/d/baby,5
+Shop All Departments,/d/shop-all-departments,Home,/d/home-electronics,5
+Shop All Departments,/d/shop-all-departments,Kitchen & Dining,/d/kitchen-dining,5
+Shop All Departments,/d/shop-all-departments,Electronics,/d/electronics,5
+Shop All Departments,/d/shop-all-departments,Patio & Grilling,/d/patio-grilling,5
+Shop All Departments,/d/shop-all-departments,Cleaning & Household,/d/household,5
+Shop All Departments,/d/shop-all-departments,Pets,/d/pet-supplies,5
+Shop All Departments,/d/shop-all-departments,Toys,/d/toys,5
+Shop All Departments,/d/shop-all-departments,Floral,/d/floral,5
+Shop All Departments,/d/shop-all-departments,Vitacost,https://www.vitacost.com/,5
+Shop All Departments,/d/shop-all-departments,Murrays Cheese,/b/murrays-cheese,5
+Shop All Departments,/d/shop-all-departments,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Simple Truth®,/b/simple-truth,5
+Shop Our Brands,/b/ourbrands,Private Selection®,/b/private-selection,5
+Shop Our Brands,/b/ourbrands,Kroger Brand,/b/kroger-brand,5
+Shop Our Brands,/b/ourbrands,Home Chef,/b/home-chef,5
+Shop Our Brands,/b/ourbrands,Murray’s Cheese,/b/murrays-cheese,5
+Shop Our Brands,/b/ourbrands,BLOOM HAUS™,/b/bloom-haus,5
+Shop Our Brands,/b/ourbrands,ABOUND,/b/abound,5
+Shop Our Brands,/b/ourbrands,Luvsome,/b/luvsome,5
+Shop Our Brands,/b/ourbrands,Pet Pride,/b/pet-pride,5
+Shop Our Brands,/b/ourbrands,Comforts,/b/comforts-baby,5
+Shop Our Brands,/b/ourbrands,Dip,/b/dip,5
+Specialty Diets,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Specialty Diets,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Specialty Diets,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Specialty Diets,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+Build your Easter Meal,/f/easter,Tools & Gadgets,/search?keyword=Easter25ToolsGadgets&query=Easter25ToolsGadgets&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Build your Easter Meal,/f/easter,Cookware,/search?keyword=Easter25Cookware&query=Easter25Cookware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Build your Easter Meal,/f/easter,Bakeware,/search?keyword=Easter25Bakeware&query=Easter25Bakeware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Build your Easter Meal,/f/easter,Dinnerware & Serveware,/search?keyword=Easter25DinnerServeware&query=Easter25DinnerServeware&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+More Easter Recipes,/blog/seasonal/easter,Easter Meal Ingredients,/f/easter,5
+More Easter Recipes,/blog/seasonal/easter,Brunch Recipes,/blog/brunch-recipes,5
+Shop Summer Ingredients,/f/summer-shop,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer Ingredients,/f/summer-shop,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer Ingredients,/f/summer-shop,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Shop Summer Ingredients,/f/summer-shop,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Grilling Recipes,/blog/seasonal/summer/grilling,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Weeknight Dinner Recipes,/blog/meal-planning,5
+Murray’s Cheese,/b/murrays-cheese,Recipes,/recipes/search?searchTerm=murray%27s&page=1,5
+Murray’s Cheese,/b/murrays-cheese,"Gifting & Entertaining
+(Opens in a new tab or window)",https://www.murrayscheese.com/murrays-cheese-at-kroger,5
+Murray’s Cheese,/b/murrays-cheese,"Follow the Curd
+(Opens in a new tab or window)",https://www.murrayscheese.com/cheezemail,5
+Luvsome,/b/luvsome,Pet Treats,/search?keyword=LuvsomeBrandPagePetTreats&query=LuvsomeBrandPagePetTreats&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,Japanese,/search?keyword=2024AAPIJapaneseEssentials&query=2024AAPIJapaneseEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,Filipino,/search?keyword=2024AAPIFilipinoEssentials&query=2024AAPIFilipinoEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,Korean,/search?keyword=2024AAPIKoreanEssentials&query=2024AAPIKoreanEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,Chinese,/search?keyword=2024AAPIChineseEssentials&query=2024AAPIChineseEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Celebrating Asian Cultures,/f/diversity-and-inclusion/celebrating-asian-culture,Indian,/search?keyword=2024AAPIIndianEssentials&query=2024AAPIIndianEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Health Services,/health/clinic/vaccinations/school,View All Healthcare Departments,/health,5
+Health Services,/health/clinic/vaccinations/school,See Vaccines for All Ages,/health/clinic/vaccinations,5
+Health Services,/health/clinic/vaccinations/school,Explore the Pharmacy,/health/pharmacy,5
+Health Services,/health/clinic/vaccinations/school,Explore The Little Clinic,/health/clinic,5
+Health Services,/health/clinic/vaccinations/school,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Health Services,/health/clinic/vaccinations/school,Find a Clinic,/health-services/clinic/locations,5
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+Sweet Treats & Candy,/d/candy,Chocolate,/pl/chocolate/23001?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Gum & Mints,/pl/gum/23002?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Grab & Go Candy,/pl/mints/2300200003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Chewy & Gummy Candy,/pl/gummychewy-candy/23003?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Hard Candy & Lollipops,/pl/hard-candy/23004?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Healthier Options,https://www.kroger.com/pl/healthieroptions/23009?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Dark Chocolate Candy,/search?query=dark%20chocolate%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Sweet Treats & Candy,/d/candy,Sugar Free,/search?query=sugar%20free%20candy&searchType=default_search&fulfillment=csp%7Cdth%7Csth,5
+Sweet Treats & Candy,/d/candy,Assorted & Variety,/pl/chocolate/2300100005?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Sweet Treats & Candy,/d/candy,Premium Chocolate,/pl/premiumchocolate/23008?searchType=mktg%20attribute&monet=true&pzn=relevance&fulfillment=all,5
+Flowers,/d/floral,Fresh Cut Roses,/pl/fresh-cut-roses/09130,5
+Flowers,/d/floral,Bouquets,/pl/bouquets/09126,5
+Flowers,/d/floral,Floral Arrangements,/pl/floralarrangements/09128,5
+Flowers,/d/floral,Orchids,/pl/orchids/09132,5
+Flowers,/d/floral,Home & Gift,/pl/potted-plants/09133,5
+Flowers,/d/floral,Balloons,/pl/balloons/09125,5
+Flowers,/d/floral,Thank You,/search?keyword=FloralThankYou&query=FloralThankYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Flowers,/d/floral,Thinking of You,/search?keyword=FloralThinkingOfYou&query=FloralThinkingOfYou&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Flowers,/d/floral,Anniversary,/search?keyword=FloralAnniversary&query=FloralAnniversary&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Flowers,/d/floral,Birthday,/search?keyword=FloralBirthday&query=FloralBirthday&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Flowers,/d/floral,New Baby,/search?keyword=FloralNewBaby&query=FloralNewBaby&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Flowers,/d/floral,Sympathy,/search?keyword=FloralSympathy&query=FloralSympathy&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+"Food, Snacks & Beverages",/f/party-foods,Online Ordering,/orderonline?pzn=relevance,5
+"Food, Snacks & Beverages",/f/party-foods,Grab & Go Options,/search?keyword=Celebrationgrabngofood&query=Celebrationgrabngofood&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+"Food, Snacks & Beverages",/f/party-foods,Snacks & Chips,/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+"Food, Snacks & Beverages",/f/party-foods,Sweet Treats & Candy,/search?query=CelebrationPartyCandy&monet=curated&fulfillment=all&pzn=relevance,5
+"Food, Snacks & Beverages",/f/party-foods,Celebrations Main Page,/f/party-shop,5
+"Food, Snacks & Beverages",/f/party-foods,Birthday Must-Haves,/f/birthdays,5
+"Food, Snacks & Beverages",/f/party-foods,Gifting Essentials,/f/party-gifts,5
+Gifting Essentials,/f/party-gifts,Celebrations Main Page,/f/party-shop?pzn=relevance,5
+Gifting Essentials,/f/party-gifts,Birthday Must-Haves,/f/birthdays?pzn=relevance,5
+Gifting Essentials,/f/party-gifts,"Snacks, Main Dishes & Fresh Cocktails",/search?keyword=Summer2020CelebrationSnacksChips&query=Summer2020CelebrationSnacksChips&searchType=mktg attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Birthday,/f/birthdays,Cakes & Cookies,/search?query=CelebrationBDayCakeCookies&monet=curated&fulfillment=all&keyword=CelebrationBDayCakeCookies&searchType=mktg attribute&pzn=relevance,5
+Birthday,/f/birthdays,Cake Toppers & Candles,/search?query=CelebrationBDayCandlesToppers&monet=curated&fulfillment=allted&fulfillment=all&keyword=CelebrationBDayCandlesToppers&searchType=mktg attribute&pzn=relevance,5
+Birthday,/f/birthdays,Frozen Desserts,/search?query=CelebrationBDayFrznDessert&monet=curated&fulfillment=all&keyword=CelebrationBDayFrznDessert&searchType=mktg attribute&pzn=relevance,5
+Birthday,/f/birthdays,Baking Ingredients,/search?query=CelebrationBDayBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayBaking&searchType=mktg attribute&pzn=relevance,5
+Birthday,/f/birthdays,Baking Tools & Helpers,/search?query=CelebrationBDayGMBaking&monet=curated&fulfillment=all&keyword=CelebrationBDayGMBaking&searchType=mktg attribute&pzn=relevance,5
+Birthday,/f/birthdays,Celebrations Main Page,/f/party-shop,5
+Birthday,/f/birthdays,Gifting Essentials,/f/party-gifts,5
+Birthday,/f/birthdays,"Snacks, Main Dishes & Fresh Cocktails",/f/party-foods,5
+Birthday,/f/birthdays,Celebrate Grads with Special Deals,/f/graduation,5
+Baby,/d/baby,Diapers & Wipes,/pl/diapers-training-pants/10003?query=diapers&searchType=default_search&taxonomyId=10003&fulfillment=all,5
+Baby,/d/baby,Wipes,/pl/baby-wipes/1000400002?pzn=relevance&taxonomyId=1000400002&fulfillment=all,5
+Baby,/d/baby,Bath & Skin Care,/pl/body-&-hair-care/46005?taxonomyId=46005&fulfillment=all,5
+Baby,/d/baby,Nursing & Feeding,/pl/nursing-&-feeding/44?taxonomyId=44&fulfillment=all,5
+Baby,/d/baby,Health & Safety,/pl/health-&-safety/45?facets=tru&pzn=relevance,5
+Baby,/d/baby,Baby Food,/pl/baby-food-snacks/10001?query=baby%20food&searchType=default_search&taxonomyId=10001&fulfillment=all,5
+Baby,/d/baby,Strollers,/pl/strollers/42002?fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Cribs,/pl/cribs-andBassinets/4300100001?fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Car Seats,/pl/car‐seats/42001?fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Gear & Activity,/pl/travel/42003?fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Toddler,/pl/potty/46006?fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Pre & Postpartum Essentials,/search?keyword=PreandPostpartum&query=PreandPostpartum&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Baby,/d/baby,Milk Based,/pl/milk-based-formula/1009300788?query=formula&searchType=default_search&taxonomyId=1009300788&fulfillment=all,5
+Baby,/d/baby,Soy & Plant Based,/pl/soy-plant-based-formula/1009300789?query=formula&searchType=default_search&taxonomyId=1009300789&fulfillment=all,5
+Baby,/d/baby,Sensitive & Gentle,/pl/sensitive-gentle-formula/1009300790?query=formula&searchType=default_search&taxonomyId=1009300790&fulfillment=all,5
+Baby,/d/baby,Hypoallergenic,/pl/hypo-allergenicformula/1009300791?query=formula&searchType=default_search&taxonomyId=1009300791&fulfillment=all,5
+Baby,/d/baby,Natural & Organic,/search?keyword=2023BabyDeptFormulaOrganic&query=2023BabyDeptFormulaOrganic&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Snacks,/pl/snacks/01020?query=keto&searchType=default_search&taxonomyId=01020&fulfillment=all&pzn=relevance,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Proteins,/pl/meat-seafood/18004?searchType=trending&taxonomyId=18004&fulfillment=all&pzn=relevance,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Breads & Wraps,/pl/packaged-bread/01016?query=keto&searchType=default_search&taxonomyId=01016&fulfillment=all&pzn=relevance,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Keto Desserts,/search?query=keto%20dessert&searchType=default_search&pzn=relevance,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,View All Dietary Lifestyles,/f/shop-by-diet,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Explore Healthy Nutrition,/health/info,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Check Out OptUP™,/health/pharmacy/optup,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Browse Wellness Articles,/blog/health,5
+Keto-Friendly,/f/shop-by-diet/keto-groceries,Discover Easy Meal Solutions,/blog/meal-planning,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Hummus & Dips,/pl/hummus-salsa-dips-snacks/13011?fulfillment=all&taxonomyId=13011&page=2,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Proteins,/search?keyword=MedDietProteins&query=MedDietProteins&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Produce,/pl/fresh-fruits-vegetables/06?taxonomyId=06&fulfillment=all,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Snacks,/search?keyword=MedDietSnacks&query=MedDietSnacks&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,View All Dietary Lifestyles,/f/shop-by-diet,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Explore Healthy Nutrition,/health/info,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Check Out OptUP™,/health/pharmacy/optup,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Browse Wellness Articles,/blog/health,5
+Mediterranean,/f/shop-by-diet/mediterranean-groceries,Discover Easy Meal Solutions,/blog/meal-planning,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Protein,/pl/meat-seafood/18004?query=plant%20based&searchType=default_search&taxonomyId=18004&fulfillment=all&pzn=relevance,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Fresh Produce,/search?keyword=2022PlantBasedProduce&query=2022PlantBasedProduce&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Plant-Based Milk,/search?keyword=PlantBasedMilk&query=PlantBasedMilk&searchType=mktg%20attribute&monet=FALSE&fulfillment=all&pzn=relevance,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,View All Dietary Lifestyles,/f/shop-by-diet,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Explore Healthy Nutrition,/health/info,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Check Out OptUP™,/health/pharmacy/optup,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Browse Wellness Articles,/blog/health,5
+Plant-Based,/f/shop-by-diet/plant-based-groceries,Discover Easy Meal Solutions,/blog/meal-planning,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Bread,/search?keyword=SpecialtyDietsGlutenFreeBread&query=SpecialtyDietsGlutenFreeBread&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Pasta,/search?keyword=SpecialtyDietsGlutenFreePasta&query=SpecialtyDietsGlutenFreePasta&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Cereal,/search?keyword=SpecialtyDietsGlutenFreeCereal&query=SpecialtyDietsGlutenFreeCereal&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Gluten-Free Flour,/search?keyword=SpecialtyDietsGlutenFreeFlour&query=SpecialtyDietsGlutenFreeFlour&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance ,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,View All Dietary Lifestyles,/f/shop-by-diet,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Explore Healthy Nutrition,/health/info,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Check Out OptUP™,/health/pharmacy/optup,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Browse Wellness Articles,/blog/health,5
+Gluten-Free,/f/shop-by-diet/gluten-free-groceries,Discover Easy Meal Solutions,/blog/meal-planning,5
+View All Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+View All Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+View All Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+View All Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+Explore Healthy Nutrition,/health/info,Tracey Shaffer,/health/experts/tracey-shaffer,5
+Explore Healthy Nutrition,/health/info,Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,5
+Explore Healthy Nutrition,/health/info,Marcella Ranieri,/health/experts/marcella-ranieri,5
+Explore Healthy Nutrition,/health/info,Kristen Keen,/health/experts/kristen-keen,5
+Explore Healthy Nutrition,/health/info,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,5
+Explore Healthy Nutrition,/health/info,View All Dietitians,/health/registered-dietitians,5
+Explore Healthy Nutrition,/health/info,Enhance Your Heart Health†,/health/info/heart-health,5
+Explore Healthy Nutrition,/health/info,Learn About Diabetes Management†,/health/info/diabetes-care,5
+Explore Healthy Nutrition,/health/info,Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,5
+Explore Healthy Nutrition,/health/info,Boost Your Immune System†,/health/info/immune-support,5
+Explore Healthy Nutrition,/health/info,Strengthen Your Mental Wellness†,/health/info/mental-wellness,5
+Explore Healthy Nutrition,/health/info,View All Healthcare Departments,/health,5
+Explore Healthy Nutrition,/health/info,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Explore Healthy Nutrition,/health/info,Shop by Dietary Lifestyle,/f/shop-by-diet,5
+Explore Healthy Nutrition,/health/info,Check Out OptUP™,/health/pharmacy/optup,5
+Explore Healthy Nutrition,/health/info,Explore Food & OTC Benefit Cards,/i/benefit-card,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,5
+Learn About Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,5
+Check Out OptUP™,/health/pharmacy/optup,View All Healthcare Departments,/health,5
+Check Out OptUP™,/health/pharmacy/optup,Explore Healthy Nutrition,/health/info,5
+Check Out OptUP™,/health/pharmacy/optup,View My Nutrition Insights,/nutritioninsights,5
+Check Out OptUP™,/health/pharmacy/optup,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Check Out OptUP™,/health/pharmacy/optup,Better-For-You Recipes,/blog/health/better-for-you-recipes,5
+Check Out OptUP™,/health/pharmacy/optup,Shop by Diet,/f/shop-by-diet,5
+Browse Wellness Articles,/blog/health,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Browse Wellness Articles,/blog/health,Dietary Lifestyles,/f/shop-by-diet,5
+Browse Wellness Articles,/blog/health,Blog Health Archive,/blog/health/archive,5
+Browse Wellness Articles,/blog/health,OptUp® Nutrition,/health/pharmacy/optup,5
+Browse Wellness Articles,/blog/health,Meet our Dietitians,/health/registered-dietitians,5
+Mexican,/d/international-mexican,Cheesy Chori Pollo,/r/cheesy-chori-pollo-recipe/5f514de89da07c18141819c5,5
+Mexican,/d/international-mexican,Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,5
+Mexican,/d/international-mexican,Agua Fresca de Limón y Chan,/r/agua-fresca-delimon-y-chan-fresh-limeade-with-chia-seeds-recipe/5d6fff1e9da07c164074970c,5
+Mexican,/d/international-mexican,Ensalada de Nopales,/r/ensalada-de-nopales-fresh-cactus-salad-recipe/5d6fef819da07c3e91a3c49b,5
+Mexican,/d/international-mexican,Sopa de Calabacita,/r/sopa-de-calabacita-squash-soup-recipe/5d6ff5419da07c3e91a3c4b6,5
+Mexican,/d/international-mexican,Home,/d/international-latin-mexican,5
+Mexican,/d/international-mexican,Central American,/d/international-central-american,5
+Mexican,/d/international-mexican,South American,/d/international-south-american,5
+Mexican,/d/international-mexican,Caribbean,/d/international-caribbean,5
+Caribbean,/d/international-caribbean,Shrimp Plantain Bowl with Mango Salsa,/r/shrimp-plantain-bowl-with-mango-salsa-recipe/5f5241929da07c0e4c7d09f2,5
+Caribbean,/d/international-caribbean,Masa de Puerco Fritas,/r/masa-de-puerco-fritas-fried-pork-recipe/5d6ec5209da07c39d33cfd55,5
+Caribbean,/d/international-caribbean,Arroz con Chorizo,/r/arroz-con-chorizo-rice-with-sausage-and-kidney-beans-recipe/5d6ec7529da07c58141dc2d4,5
+Caribbean,/d/international-caribbean,Batido de Mango y Maracuya,/r/batido-de-mango-y-maracuya-passion-fruit-and-mango-smoothie-recipe/5d6ece969da07c58141dc355,5
+Caribbean,/d/international-caribbean,Slow Cooker Pollo Guisado,/r/slow-cooker-pollo-guisado-chicken-stew-recipe/5d6ecafa9da07c58141dc31c,5
+Caribbean,/d/international-caribbean,Home,/d/international-latin-mexican,5
+Caribbean,/d/international-caribbean,Mexican,/d/international-mexican,5
+Caribbean,/d/international-caribbean,Central American,/d/international-central-american,5
+Caribbean,/d/international-caribbean,South American,/d/international-south-american,5
+Central American,/d/international-central-american,Pineapple Mango Tango,/r/pineapple-mango-tango-recipe/5f523e899da07c0e4c7d09d3,5
+Central American,/d/international-central-american,Tostones,/r/tostones-green-plantain-chips-with-spicy-chile-salsa-recipe/5d7014ad9da07c6ba2b137b1,5
+Central American,/d/international-central-american,Chorreadas,/r/chorreadas-fresh-corn-pancakes-with-latin-cream-and-cheese-recipe/5d70239e9da07c461162e82d,5
+Central American,/d/international-central-american,Vigorón,/r/vigoron-yuca-topped-with-salad-and-pork-cracklings-recipe/5d70105e9da07c6ba2b13786,5
+Central American,/d/international-central-american,Pupusas con Curtido,/r/pupusas-con-curtido-stuffed-corn-tortillas-recipe/5d7022059da07c461162e812,5
+Central American,/d/international-central-american,Home,/d/international-latin-mexican,5
+Central American,/d/international-central-american,Mexican,/d/international-mexican,5
+Central American,/d/international-central-american,South American,/d/international-south-american,5
+Central American,/d/international-central-american,Caribbean,/d/international-caribbean,5
+South American,/d/international-south-american,Black Bean and Shrimp Corn Chowder,/r/black-bean-and-shrimp-corn-chowder-recipe/5f523f239da07c0e4c7d09d4,5
+South American,/d/international-south-american,Arepas de Queso con Pimientos Rojos,/r/arepas-de-maiz-y-queso-con-pimientos-rojos-corn-cheese-and-red-pepper-arepas-recipe/5d6fdb8e9da07c0fd2e202ef,5
+South American,/d/international-south-american,Chivito,/r/chivito-beef-steak-sandwich-recipe/5d6fd3f99da07c0fd2e2029f,5
+South American,/d/international-south-american,Salpicón,/r/salpicon-fruit-beverage-recipe/5d6fd84b9da07c0fd2e202d4,5
+South American,/d/international-south-american,Empanadas con Pollo y Papas,/r/empanadas-con-pollo-y-papas-empanadas-with-roast-chicken-and-potatoes-recipe/5d6ed0789da07c58141dc370,5
+South American,/d/international-south-american,Home,/d/international-latin-mexican,5
+South American,/d/international-south-american,Mexican,/d/international-mexican,5
+South American,/d/international-south-american,Central American,/d/international-central-american,5
+South American,/d/international-south-american,Caribbean,/d/international-caribbean,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,View All Healthcare Departments,/health,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,Explore the Pharmacy,/health/pharmacy,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,"Get Vaccinated
+(Opens in a new tab or window)",/health/clinic/vaccinations,5
+Medication Adherence,/health/pharmacy/medication-adherence-services,See Our FAQs,/health/pharmacy/faqs/prescriptions,5
+Schedule an Appointment,/health/clinic/schedule-appointment,View All Healthcare Departments,/health,5
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore the Pharmacy,/health/pharmacy,5
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore The Little Clinic,/health/clinic,5
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Healthy Nutrition,/health/info,5
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore COVID-19 Resources,/health/pharmacy/covid-care,5
+Schedule an Appointment,/health/clinic/schedule-appointment,Explore Virtual Care,/health/clinic/virtual-care,5
+Shop Health & Wellness Items,/d/health,"Cold, Cough & Flu",/pl/cold-cough-flu/22011?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Allergy & Sinus,/pl/allergy-sinus/22012?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Pain & Fever,/pl/pain-fever/22005?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Children's Medicine,/pl/children-s-medicine/22014?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Vitamins & Supplements,/pl/vitamins-supplements/22013?searchType=mktg%20attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Immune Support,/pl/immune-system-supports/2201100003?fulfillment=all&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Digestive Health & Nausea,/pl/digestive-health-nausea/22001?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Protein Shakes & Powders,/pl/diet-adult-nutrition/22010?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Sleep Aids,/pl/sleep-aids/22006?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,First Aid,/pl/first-aid/22004?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Sunscreen,/pl/all/00?fulfillment=all&query=sunscreen&searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Energy & Stimulants,/pl/energy-stimulants/22008?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Eye Care,/pl/eye-care/22002?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Foot Care,/pl/foot-care/22007?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Home Healthcare Solutions,/pl/home-healthcare-solutions/22009?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Sexual Health,/pl/sexual-health/22015?searchType=mktg attribute&pzn=relevance,5
+Shop Health & Wellness Items,/d/health,Shop All,/pl/health-wellness/22?fulfillment=all,5
+Physicals & Screenings,/health/pharmacy/clinical-services,View All Clinic Services,/health/clinic/services,5
+Physicals & Screenings,/health/pharmacy/clinical-services,Explore The Little Clinic,/health/clinic,5
+Physicals & Screenings,/health/pharmacy/clinical-services,Find a Clinic,/health-services/clinic/locations,5
+Physicals & Screenings,/health/pharmacy/clinical-services,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/,5
+Physicals & Screenings,/health/pharmacy/clinical-services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,5
+Physicals & Screenings,/health/pharmacy/clinical-services,Get Vaccinated,/health/clinic/vaccinations,5
+Weight Management,/health/weight-management,View All Healthcare Departments,/health,5
+Weight Management,/health/weight-management,Explore The Little Clinic,/health/clinic,5
+Weight Management,/health/weight-management,Explore Healthy Nutrition,/health/info,5
+Weight Management,/health/weight-management,Shop by Dietary Lifestyle,/f/shop-by-diet,5
+Weight Management,/health/weight-management,Find Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Weight Management,/health/weight-management,Explore the Pharmacy,/health/pharmacy,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,View All Clinic Services,/health/clinic/services,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,Explore The Little Clinic,/health/clinic,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,Find a Clinic,/health-services/clinic/locations,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,5
+Not Feeling Well,/health/clinic/services/not-feeling-well,Get Vaccinated,/health/clinic/vaccinations,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,View All Clinic Services,/health/clinic/services,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Explore The Little Clinic,/health/clinic,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Find a Clinic,/health-services/clinic/locations,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,5
+Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,Get Vaccinated,/health/clinic/vaccinations,5
+Virtual Care,/health/clinic/virtual-care,View All Healthcare Departments,/health,5
+Virtual Care,/health/clinic/virtual-care,Explore Healthy Nutrition,/health/info,5
+Virtual Care,/health/clinic/virtual-care,Explore The Little Clinic,/health/clinic,5
+Virtual Care,/health/clinic/virtual-care,Meet Our Dietitians,/health/registered-dietitians,5
+Virtual Care,/health/clinic/virtual-care,Browse Wellness Articles,/blog/health,5
+Virtual Care,/health/clinic/virtual-care,Check Out OptUP™,/health/pharmacy/optup,5
+View All Clinic Services,/health/clinic/services,View All Healthcare Departments,/health,5
+View All Clinic Services,/health/clinic/services,Explore The Little Clinic,/health/clinic,5
+View All Clinic Services,/health/clinic/services,Find a Clinic,/health-services/clinic/locations,5
+View All Clinic Services,/health/clinic/services,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,5
+View All Clinic Services,/health/clinic/services,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,5
+View All Clinic Services,/health/clinic/services,Get Vaccinated,/health/clinic/vaccinations,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,View All Clinic Services,/health/clinic/services,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore The Little Clinic,/health/clinic,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Find a Clinic,/health-services/clinic/locations,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,"Access the Patient Portal
+(Opens in a new tab or window)",https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,5
+Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,Get Vaccinated,/health/clinic/vaccinations,5
+Tracey Shaffer,/health/experts/tracey-shaffer,Allison Yoder,/health/experts/allison-yoder,5
+Tracey Shaffer,/health/experts/tracey-shaffer,Ashlyn Evans,/health/experts/ashlyn-evans,5
+Tracey Shaffer,/health/experts/tracey-shaffer,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,5
+Tracey Shaffer,/health/experts/tracey-shaffer,Joy Wang,/health/experts/joy-wang,5
+Tracey Shaffer,/health/experts/tracey-shaffer,Kara Miller,/health/experts/kara-miller,5
+Tracey Shaffer,/health/experts/tracey-shaffer,All Dietitians,/health/registered-dietitians,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Tracey Shaffer,/health/experts/tracey-shaffer,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Allison Yoder,/health/experts/allison-yoder,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Ashlyn Evans,/health/experts/ashlyn-evans,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Elizabeth Calvelage,/health/experts/elizabeth-calvelage,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,Joy Wang,/health/nutrition/registered-dietitians/joy-wang,5
+Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,All Dietitians,/health/registered-dietitians,5
+Marcella Ranieri,/health/experts/marcella-ranieri,Mary Kathryn 'Katy' Keogh,/health/experts/katy-keogh,5
+Marcella Ranieri,/health/experts/marcella-ranieri,Molly Hembree,/health/experts/molly-hembree,5
+Marcella Ranieri,/health/experts/marcella-ranieri,Sarah Limbert,/health/experts/sarah-limbert,5
+Marcella Ranieri,/health/experts/marcella-ranieri,Shari Mermelstein,/health/experts/shari-mermelstein,5
+Marcella Ranieri,/health/experts/marcella-ranieri,Stephanie Skinner-Lucas,/health/experts/stephanie-skinner-lucas,5
+Marcella Ranieri,/health/experts/marcella-ranieri,All Dietitians,/health/registered-dietitians,5
+Kristen Keen,/health/experts/kristen-keen,Laura Brown,/health/experts/laura-brown,5
+Kristen Keen,/health/experts/kristen-keen,Lisa McCune,/health/experts/lisa-mccune,5
+Kristen Keen,/health/experts/kristen-keen,Marcella Ranieri,/health/experts/marcella-ranieri,5
+Kristen Keen,/health/experts/kristen-keen,Mary Kathryn “Katy” Keogh,/health/experts/katy-keogh,5
+Kristen Keen,/health/experts/kristen-keen,Molly Hembree,/health/experts/molly-hembree,5
+Kristen Keen,/health/experts/kristen-keen,All Dietitians,/health/registered-dietitians,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Joy Wang,/health/experts/joy-wang,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Kara Miller,/health/experts/kara-miller,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Kristen Keen,/health/experts/kristen-keen,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Laura Brown,/health/experts/laura-brown,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,Lisa McCune,/health/experts/lisa-mccune,5
+Elizabeth Calvelage,/health/experts/elizabeth-calvelage,All Dietitians,/health/registered-dietitians,5
+View All Dietitians,/health/registered-dietitians,View All Healthcare Departments,/health,5
+View All Dietitians,/health/registered-dietitians,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+View All Dietitians,/health/registered-dietitians,Explore Healthy Nutrition,/health/info,5
+View All Dietitians,/health/registered-dietitians,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+View All Dietitians,/health/registered-dietitians,Shop Dietary Lifestyles,/f/shop-by-diet,5
+View All Dietitians,/health/registered-dietitians,Check Out OptUP™,/health/pharmacy/optup,5
+Enhance Your Heart Health†,/health/info/heart-health,View All Healthcare Departments,/health,5
+Enhance Your Heart Health†,/health/info/heart-health,Explore Healthy Nutrition,/health/info,5
+Enhance Your Heart Health†,/health/info/heart-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Enhance Your Heart Health†,/health/info/heart-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Enhance Your Heart Health†,/health/info/heart-health,Shop Dietary Lifestyles,/f/shop-by-diet,5
+Enhance Your Heart Health†,/health/info/heart-health,Check Out OptUP™,/health/pharmacy/optup,5
+Learn About Diabetes Management†,/health/info/diabetes-care,View All Healthcare Departments,/health,5
+Learn About Diabetes Management†,/health/info/diabetes-care,Explore Healthy Nutrition,/health/info,5
+Learn About Diabetes Management†,/health/info/diabetes-care,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Learn About Diabetes Management†,/health/info/diabetes-care,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Learn About Diabetes Management†,/health/info/diabetes-care,Shop by Dietary Lifestyle,/f/shop-by-diet,5
+Learn About Diabetes Management†,/health/info/diabetes-care,Check Out OptUP™,/health/pharmacy/optup,5
+Boost Your Immune System†,/health/info/immune-support,View All Healthcare Departments,/health,5
+Boost Your Immune System†,/health/info/immune-support,Explore Healthy Nutrition,/health/info,5
+Boost Your Immune System†,/health/info/immune-support,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Boost Your Immune System†,/health/info/immune-support,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Boost Your Immune System†,/health/info/immune-support,Shop Dietary Lifestyles,/f/shop-by-diet,5
+Boost Your Immune System†,/health/info/immune-support,Check Out OptUP™,/health/pharmacy/optup,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,View All Healthcare Departments,/health,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Explore Healthy Nutrition,/health/info,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Explore the Pharmacy,/health/pharmacy,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,"Learn More About Opioids
+(Opens in a new tab or window)",https://generationrx.org/learn/understand-the-issue/,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Learn More About Mental Wellness,https://krogerhealth.everfi-next.net/student/dashboard/wellness-resources/krogerhealth-mental-wellness-education,5
+Strengthen Your Mental Wellness†,/health/info/mental-wellness,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,5
+Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,5
+Shop by Dietary Lifestyle,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Shop by Dietary Lifestyle,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Shop by Dietary Lifestyle,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Shop by Dietary Lifestyle,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,5
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,5
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,5
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,5
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,5
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,5
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,5
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,5
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,5
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,5
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,5
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,5
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,5
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,5
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,5
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,5
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,5
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,5
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,5
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,5
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,5
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,5
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,5
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,5
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,5
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,View All Healthcare Departments,/health,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Schedule a COVID-19 Vaccine,/health/clinic/schedule-appointment?type=Vaccines,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Schedule a COVID-19 Test,/health/clinic/schedule-appointment,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Explore At-Home Test Kits,/search?keyword=CovidTest&query=CovidTest&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+Explore COVID-19 Resources,/health/pharmacy/covid-care,Find a Clinic,/health-services/clinic/locations,5
+Explore Virtual Care,/health/clinic/virtual-care,View All Healthcare Departments,/health,5
+Explore Virtual Care,/health/clinic/virtual-care,Explore Healthy Nutrition,/health/info,5
+Explore Virtual Care,/health/clinic/virtual-care,Explore The Little Clinic,/health/clinic,5
+Explore Virtual Care,/health/clinic/virtual-care,Meet Our Dietitians,/health/registered-dietitians,5
+Explore Virtual Care,/health/clinic/virtual-care,Browse Wellness Articles,/blog/health,5
+Explore Virtual Care,/health/clinic/virtual-care,Check Out OptUP™,/health/pharmacy/optup,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,View All Healthcare Departments,/health,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,Explore the Pharmacy,/health/pharmacy,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,Manage Your Prescriptions,/rx/landingpage?redirectUrl=/rx/dashboard,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,Find a Pharmacy,/stores/pharmacy,5
+Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,View All Healthcare Departments,/health,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,Explore the Pharmacy,/health/pharmacy,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,Get Vaccinated,/health/clinic/vaccinations,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,"Save on Prescriptions
+(Opens in a new tab or window)",https://www.krogerhealthsavings.com/,5
+View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,See Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,5
+Meet Our Dietitians,/health/registered-dietitians,View All Healthcare Departments,/health,5
+Meet Our Dietitians,/health/registered-dietitians,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Meet Our Dietitians,/health/registered-dietitians,Explore Healthy Nutrition,/health/info,5
+Meet Our Dietitians,/health/registered-dietitians,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Meet Our Dietitians,/health/registered-dietitians,Shop Dietary Lifestyles,/f/shop-by-diet,5
+Meet Our Dietitians,/health/registered-dietitians,Check Out OptUP™,/health/pharmacy/optup,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,View All Healthcare Departments,/health,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Review Our Preferred Medicare Plans,/health/pharmacy/medicare-part-d-enrollment-plans,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Explore the Pharmacy,/health/pharmacy,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,Find a Pharmacy,/stores/pharmacy,5
+Explore the Medicare Resource Center,/health/pharmacy/prescriptions/medicare-part-d,View Pharmacy Insurance & Savings,/health/pharmacy/pharmacy-insurance-savings,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,View All Healthcare Departments,/health,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Explore Healthy Nutrition,/health/info,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Better-for-You Recipes,/blog/health/better-for-you-recipes,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Learn About Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Shop by Dietary Lifestyle,/f/shop-by-diet,5
+Improve Your Digestion & Gut Health†,/health/info/digestive-system-health,Check Out OptUP™,/health/pharmacy/optup,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Grilled Pineapple Poblano Guacamole,/r/grilled-pineapple-poblano-guacamole-recipe/5d08f9779da07c1bfa12a76a,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Shrimp with Avocado Peach Salsa,/r/keto-grilled-shrimp-with-avocado-peach-salad-recipe/628a5cc0-e09b-49d5-b468-2bc70ad453bb,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Steak and Potato Salad,/r/grilled-steak-potato-party-salad-recipe/5d08f65f9da07c1bfa12a734,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Chicken and Summer Squash Packets,/r/chicken-summer-squash-packets-recipe/5b34040984ae5310116e36a5,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Turkey Burgers,/r/turkey-burgers-recipe/104051,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Pork Chop with Peach Pan Sauce,/r/pork-chops-with-peach-pan-sauce-recipe/899966ee-fc34-411a-be3b-79bd3f8bc16f,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,Dietary Lifestyles,/f/shop-by-diet,5
+Better-For-You Recipes,/blog/health/better-for-you-recipes,OptUP®,/health/pharmacy/optup,5
+Shop by Diet,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Shop by Diet,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Shop by Diet,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Shop by Diet,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Grilled Pineapple Poblano Guacamole,/r/grilled-pineapple-poblano-guacamole-recipe/5d08f9779da07c1bfa12a76a,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Shrimp with Avocado Peach Salsa,/r/keto-grilled-shrimp-with-avocado-peach-salad-recipe/628a5cc0-e09b-49d5-b468-2bc70ad453bb,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Steak and Potato Salad,/r/grilled-steak-potato-party-salad-recipe/5d08f65f9da07c1bfa12a734,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Chicken and Summer Squash Packets,/r/chicken-summer-squash-packets-recipe/5b34040984ae5310116e36a5,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Turkey Burgers,/r/turkey-burgers-recipe/104051,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Pork Chop with Peach Pan Sauce,/r/pork-chops-with-peach-pan-sauce-recipe/899966ee-fc34-411a-be3b-79bd3f8bc16f,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,Dietary Lifestyles,/f/shop-by-diet,5
+Better-for-You Recipes,/blog/health/better-for-you-recipes,OptUP®,/health/pharmacy/optup,5
+Shop Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,5
+Shop Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,5
+Shop Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,5
+Shop Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,5

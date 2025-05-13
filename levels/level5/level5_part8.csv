@@ -1,0 +1,7 @@
+parent_category,parent_category_link,category,category_link,level
+Shop Summer Ingredients,/f/summer-shop,Condiments & Seasonings,/search?keyword=Summer25CondimentsSeasonings&query=Summer25CondimentsSeasonings&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer Ingredients,/f/summer-shop,Grilling & Accessories,/search?keyword=Summer25GrillingAccessories&query=Summer25GrillingAccessories&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop Summer Ingredients,/f/summer-shop,Cookout Essentials,/search?keyword=Summer25CookoutEssentials&query=Summer25CookoutEssentials&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Shop Summer Ingredients,/f/summer-shop,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Grilling Recipes,/blog/seasonal/summer/grilling,5
+Summer Party Recipes & Tips,/blog/summer-party-recipes-tips,Weeknight Dinner Recipes,/blog/meal-planning,5

@@ -1,0 +1,56 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/household,Laundry Detergents,/pl/laundry/26025?taxonomyId=26025&fulfillment=all,4
+Shop All,/d/household,Dishwashing Needs,/pl/dishwashing-needs/26005?taxonomyId=26005&fulfillment=all,4
+Shop All,/d/household,Cleaning Supplies,/pl/cleaning-supplies/26004?taxonomyId=26004&fulfillment=all,4
+Shop All,/d/household,Paper Towels,/pl/paper-towels/2602400003?taxonomyId=2602400003&fulfillment=all,4
+Shop All,/d/household,Toilet Paper,/pl/toilet-paper/2602400001?taxonomyId=2602400001&fulfillment=all,4
+Shop All,/d/household,Flushable Wipes,/pl/flushable-wipes/2602400002?taxonomyId=2602400002&fulfillment=all,4
+Shop All,/d/household,Fabric Softeners,/pl/fabric-softener/2602500005?taxonomyId=2602500005&fulfillment=all,4
+Shop All,/d/household,Bleach,/pl/bleach/2602500002?taxonomyId=2602500002&fulfillment=all,4
+Shop All,/d/household,Scent Boosters,/pl/scent-booster/2602500011?taxonomyId=2602500011&fulfillment=all,4
+Shop All,/d/household,Air Fresheners,/pl/air-fresheners/26001?taxonomyId=26001&fulfillment=all,4
+Shop All,/d/household,Hand & Facial Tissue,/pl/facial-tissue/2602400004?taxonomyId=2602400004&fulfillment=all,4
+Shop All,/d/household,Trash Bags,/pl/trash-bags/26020?taxonomyId=26020&fulfillment=all,4
+Shop All,/d/household,Baking Paper & Foils,/pl/baking-paper-foils/26019?taxonomyId=26019&fulfillment=all,4
+Shop All,/d/household,Disposable Tableware,/pl/disposable-tableware/26018?taxonomyId=26018&fulfillment=all,4
+Shop All,/d/household,Food Storage Bags & Containers,/pl/food-storage/26006?taxonomyId=26006&fulfillment=all,4
+Shop All,/d/household,"Brooms, Mops & Dusters",/pl/brooms-mops-dusters/26022?taxonomyId=26022&fulfillment=all,4
+Shop All,/d/household,Vacuums & Floor Care,/pl/vacuums-floor-care/26023?taxonomyId=26023&fulfillment=all,4
+Shop All,/d/household,Pest Control,/pl/pest-control/26021?taxonomyId=26021&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dog,/search?keyword=PetShopDog&query=PetShopDog&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Shop All Pet,/d/pet-supplies,Cat,/search?keyword=PetShopCat&query=PetShopCat&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Shop All Pet,/d/pet-supplies,Bird,/pl/bird-supplies/27026?facets=true&pzn=relevance&taxonomyId=27026&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Fish,/pl/fish-supplies/27027?pzn=relevance&taxonomyId=27027&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Small Animals,/pl/small-animal-supplies/27029?pzn=relevance&taxonomyId=27029&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dry Dog Food,/pl/dry-dog-food/2701700002?taxonomyId=2701700002&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Wet Dog Food,/pl/wet-dog-food/2701700001?taxonomyId=2701700001&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dog Treats,/pl/dog-treats/27018?taxonomyId=27018&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Fresh & Frozen Dog Food,/pl/fresh-frozen-dog-food/2701700003?taxonomyId=2701700003&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dog Supplies,/pl/dogsupplies/27020?taxonomyId=27020&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dog Toys,/pl/dog-toys/27019?taxonomyId=27019&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Dry Cat Food,/pl/dry-cat-food/2702100001?taxonomyId=2702100001&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Wet Cat Food,/pl/wet-cat-food/2702100002?taxonomyId=2702100002&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Cat Treats,/pl/cat-treats/27022?taxonomyId=27022&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Fresh & Frozen Cat Food,/pl/fresh-frozen-cat-food/2702100003?taxonomyId=2702100003&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Cat Litter & Accessories,/pl/cat-litter-accessories/27023?taxonomyId=27023&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Cat Toys,/pl/cat-toys/27024?taxonomyId=27024&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Cat Supplies,/pl/cat-supplies/ 27025?taxonomyId= 27025&fulfillment=al l,4
+Shop All Pet,/d/pet-supplies,Small Pet,/pl/small-animal-supplies/27029?taxonomyId=27029&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Bird Care,/pl/bird-supplies/27026?taxonomyId=27026&fulfillment=all,4
+Shop All Pet,/d/pet-supplies,Vet Recommended,/search?keyword=VetRecommendedShopAll&query=VetRecommendedShopAll&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,4
+Shop All Our Brands,/b/ourbrands,Simple Truth®,/b/simple-truth,4
+Shop All Our Brands,/b/ourbrands,Private Selection®,/b/private-selection,4
+Shop All Our Brands,/b/ourbrands,Kroger Brand,/b/kroger-brand,4
+Shop All Our Brands,/b/ourbrands,Home Chef,/b/home-chef,4
+Shop All Our Brands,/b/ourbrands,Murray’s Cheese,/b/murrays-cheese,4
+Shop All Our Brands,/b/ourbrands,BLOOM HAUS™,/b/bloom-haus,4
+Shop All Our Brands,/b/ourbrands,ABOUND,/b/abound,4
+Shop All Our Brands,/b/ourbrands,Luvsome,/b/luvsome,4
+Shop All Our Brands,/b/ourbrands,Pet Pride,/b/pet-pride,4
+Shop All Our Brands,/b/ourbrands,Comforts,/b/comforts-baby,4
+Shop All Our Brands,/b/ourbrands,Dip,/b/dip,4
+Murray's Cheese,/b/murrays-cheese,Recipes,/recipes/search?searchTerm=murray%27s&page=1,4
+Murray's Cheese,/b/murrays-cheese,"Gifting & Entertaining
+(Opens in a new tab or window)",https://www.murrayscheese.com/murrays-cheese-at-kroger,4
+Murray's Cheese,/b/murrays-cheese,"Follow the Curd
+(Opens in a new tab or window)",https://www.murrayscheese.com/cheezemail,4

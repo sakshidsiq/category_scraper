@@ -1,0 +1,7 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/beverages,Kroger,/pl/beverages/04?brandName=Kroger&fulfillment=all,5
+Shop All,/d/breakfast,Simple Truth,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Simple%20Truth%7CSimple%20Truth%20Organic&fulfillment=all,5
+Shop All,/d/breakfast,Kroger,/pl/breakfast/03?pzn=relevance&taxonomyId=03&brandName=Kroger&fulfillment=all,5
+Shop All,/d/coffee,Simple Truth,/pl/coffee/04003?taxonomyId=04003&brandName=Simple%20Truth%20Organic&fulfillment=all,5
+Shop All,/d/coffee,Private Selection,/pl/coffee/04003?taxonomyId=04003&brandName=Private%20Selection&fulfillment=all,5
+Shop All,/d/coffee,Kroger,/pl/coffee/04003?taxonomyId=04003&brandName=Kroger&fulfillment=all,5

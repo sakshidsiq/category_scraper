@@ -1,0 +1,27 @@
+parent_category,parent_category_link,category,category_link,level
+Simple Truth®,/b/simple-truth,Meat & Seafood,/pl/meat-seafood/05?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Simple Truth®,/b/simple-truth,Produce,/pl/produce/06?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Simple Truth®,/b/simple-truth,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Simple Truth®,/b/simple-truth,Pantry,/pl/grocery/01?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Simple Truth®,/b/simple-truth,Frozen,/pl/frozen-foods/19?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,7
+Simple Truth®,/b/simple-truth,Beverages,/pl/beverages/04?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false&searchType=mktg%20attribute&pzn=relevance,7
+Private Selection®,/b/private-selection,Frozen,/pl/frozen-foods/19?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Meat & Seafood,/pl/meat-seafood/05?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Pasta & Sauce,/pl/pasta-pasta-sauces/01010?brandName=Private%20Selection&facets=true&monet=false,7
+Private Selection®,/b/private-selection,Bakery,/pl/bakery/14?brandName=Private%20Selection&searchType=false&facets=true&pzn=relevance,7
+Private Selection®,/b/private-selection,Deli,/pl/deli/13?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Spices & Baking,/pl/baking-goods/01012?brandName=Private%20Selection&tab=0&page=1&searchType=false&pzn=relevance,7
+Private Selection®,/b/private-selection,"Spreads, Condiments & Dressings",/pl/condiment-toppings/01008?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Produce,/pl/produce/06?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Beverages,/pl/beverages/04?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Snacks & Candy,/pl/snacks-candy/01020?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Private Selection®,/b/private-selection,Breakfast,/pl/breakfast/03?brandName=Private%20Selection&monet=false&pzn=relevance,7
+Kroger Brand,/b/kroger-brand,Frozen,/pl/frozen-foods/19?brandName=Kroger&monet=false&pzn=relevance,7
+Kroger Brand,/b/kroger-brand,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Kroger&query=kroger&monet=false&pzn=relevance,7
+Kroger Brand,/b/kroger-brand,Pantry,/pl/grocery/01?brandName=Kroger&query=Kroger&monet=false&pzn=relevance,7
+Kroger Brand,/b/kroger-brand,Meat & Seafood,/pl/meat-seafood/05?brandName=Kroger&query=kroger&monet=false&pzn=relevance,7
+Kroger Brand,/b/kroger-brand,Cleaning & Household Essentials,/pl/cleaning-and-household/26?brandName=Kroger&query=Kroger&monet=false&facets=true&pzn=relevance,7
+Murray’s Cheese,/b/murrays-cheese,Shop In-Store,/pl/specialtycheeses/13005?brandName=Murray%27s&facets=true,7
+Luvsome,/b/luvsome,Pet Toys,/pl/pet-toys/27013?taxonomyId=27013&brandName=Luvsome&fulfillment=all&monet=false,7
+Luvsome,/b/luvsome,Pet Supplies & Wellness,/pl/grooming-wellness/27014?taxonomyId=27014&brandName=Luvsome&fulfillment=all&monet=false,7

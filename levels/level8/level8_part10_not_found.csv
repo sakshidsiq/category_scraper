@@ -1,0 +1,51 @@
+parent_category,category_link,reason
+Find a Clinic,/health-services/clinic/locations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,page not loaded
+Schedule an Appointment,/health/clinic/schedule-appointment,page not loaded
+Grilled Pineapple Poblano Guacamole,/r/grilled-pineapple-poblano-guacamole-recipe/5d08f9779da07c1bfa12a76a,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Shrimp with Avocado Peach Salsa,/r/keto-grilled-shrimp-with-avocado-peach-salad-recipe/628a5cc0-e09b-49d5-b468-2bc70ad453bb,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Steak and Potato Salad,/r/grilled-steak-potato-party-salad-recipe/5d08f65f9da07c1bfa12a734,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Chicken and Summer Squash Packets,/r/chicken-summer-squash-packets-recipe/5b34040984ae5310116e36a5,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Turkey Burgers,/r/turkey-burgers-recipe/104051,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Pork Chop with Peach Pan Sauce,/r/pork-chops-with-peach-pan-sauce-recipe/899966ee-fc34-411a-be3b-79bd3f8bc16f,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+OptUP®,/health/pharmacy/optup,page not loaded
+Kara Miller,/health/experts/kara-miller,page not loaded
+Kristen Keen,/health/experts/kristen-keen,page not loaded
+Laura Brown,/health/experts/laura-brown,page not loaded
+Lisa McCune,/health/experts/lisa-mccune,page not loaded
+Marcella Ranieri,/health/experts/marcella-ranieri,page not loaded
+All Dietitians,/health/registered-dietitians,page not loaded
+Grilled Pineapple Poblano Guacamole,/r/grilled-pineapple-poblano-guacamole-recipe/5d08f9779da07c1bfa12a76a,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Shrimp with Avocado Peach Salsa,/r/keto-grilled-shrimp-with-avocado-peach-salad-recipe/628a5cc0-e09b-49d5-b468-2bc70ad453bb,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Steak and Potato Salad,/r/grilled-steak-potato-party-salad-recipe/5d08f65f9da07c1bfa12a734,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Chicken and Summer Squash Packets,/r/chicken-summer-squash-packets-recipe/5b34040984ae5310116e36a5,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Turkey Burgers,/r/turkey-burgers-recipe/104051,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Pork Chop with Peach Pan Sauce,/r/pork-chops-with-peach-pan-sauce-recipe/899966ee-fc34-411a-be3b-79bd3f8bc16f,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+OptUP®,/health/pharmacy/optup,page not loaded
+Sign In or Create Account,/rx/dashboard,page not loaded
+Rx Transfers,/rx/guest/transfer-prescriptions,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Rx Refills,/rx/guest-refill,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Order Status,/rx/tracker,page not loaded
+Online Payments,/health/pharmacy/faqs/online-payment,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Auto Refill,/rx/auto-refills,page not loaded
+Notifications & Reminders,/rx/patient-profile,page not loaded
+Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+View All Healthcare Departments,/health,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Schedule an Appointment,/health/clinic/schedule-appointment,page not loaded
+Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Get Vaccinated,/health/clinic/vaccinations,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Pantry Staples,/pl/Pantry/58002?taxonomyId=58002&monet=false&fulfilment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Meat & Seafood,/pl/Meat-Seafood/58008?taxonomyId=58008&monet=false&fulfilment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Fresh Produce,/pl/Fruits-Vegetables/58010?taxonomyId=58010&monet=false&fulfilment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+"Salsas, Sauces & Seasonings",/pl/Salsa-Sauces-Dips/58003?taxonomyId=58003&monet=false&fulfilment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Tortillas & Shells,/pl/TortillasTaco-Shells-Tostadas/58001?taxonomyId=58001&monet=false&fulfilment=all,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Ceviche Mixto,/r/ceviche-mixto-mixed-seafood-recipe/5d6ed33c9da07c58141dc38b,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Slow Cooker Pollo Guisado (Chicken Stew),/r/slow-cooker-pollo-guisado-chicken-stew-recipe/5d6ecafa9da07c58141dc31c,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Pupusas con Curtido,/r/pupusas-con-curtido-stuffed-corn-tortillas-recipe/5d7022059da07c461162e812,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Cheesy Chori Pollo,/r/cheesy-chori-pollo-recipe/5f514de89da07c18141819c5,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Agua Fresca de Limón y Chan,/r/agua-fresca-delimon-y-chan-fresh-limeade-with-chia-seeds-recipe/5d6fff1e9da07c164074970c,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Ensalada de Nopales,/r/ensalada-de-nopales-fresh-cactus-salad-recipe/5d6fef819da07c3e91a3c49b,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center
+Sopa de Calabacita,/r/sopa-de-calabacita-squash-soup-recipe/5d6ff5419da07c3e91a3c4b6,Selector not found: .ImageLink-wrapper.block.mx-auto.text-center

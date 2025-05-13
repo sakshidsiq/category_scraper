@@ -1,0 +1,53 @@
+parent_category,parent_category_link,category,category_link,level
+Explore The Little Clinic,/health/clinic,Physicals & Screenings,/health/pharmacy/clinical-services,7
+Explore The Little Clinic,/health/clinic,Weight Management,/health/weight-management,7
+Explore The Little Clinic,/health/clinic,Not Feeling Well,/health/clinic/services/not-feeling-well,7
+Explore The Little Clinic,/health/clinic,Preventive & Ongoing Care,/health/clinic/services/ongoing-health-management,7
+Explore The Little Clinic,/health/clinic,Virtual Care,/health/clinic/virtual-care,7
+Explore The Little Clinic,/health/clinic,Vaccines & Injections,/health/clinic/vaccinations,7
+Explore The Little Clinic,/health/clinic,View All Healthcare Departments,/health,7
+Explore The Little Clinic,/health/clinic,View All Clinic Services,/health/clinic/services,7
+Explore The Little Clinic,/health/clinic,Find a Clinic,/health-services/clinic/locations,7
+Explore The Little Clinic,/health/clinic,Access the Patient Portal,https://mycw98.ecwcloud.com/portal13353/jsp/100mp/login_otp.jsp,7
+Explore The Little Clinic,/health/clinic,Review Insurance & Payment Info,/health/clinic/billing-insurance-payment,7
+Explore The Little Clinic,/health/clinic,Schedule an Appointment,/health/clinic/schedule-appointment,7
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,7
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,7
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,7
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,7
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,7
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,7
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,7
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,7
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,7
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,7
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,7
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,7
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,View All Healthcare Departments,/health,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore Healthy Nutrition,/health/info,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Explore The Little Clinic,/health/clinic,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Meet Our Dietitians,/health/registered-dietitians,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Browse Wellness Articles,/blog/health,7
+Virtual Nutrition Counseling,/health/clinic/services/virtual-care#virtualnutrition,Check Out OptUP™,/health/pharmacy/optup,7
+Dietary Lifestyles,/f/shop-by-diet,Keto-Friendly,/f/shop-by-diet/keto-groceries,7
+Dietary Lifestyles,/f/shop-by-diet,Mediterranean,/f/shop-by-diet/mediterranean-groceries,7
+Dietary Lifestyles,/f/shop-by-diet,Plant-Based,/f/shop-by-diet/plant-based-groceries,7
+Dietary Lifestyles,/f/shop-by-diet,Gluten-Free,/f/shop-by-diet/gluten-free-groceries,7
+Explore the Pharmacy,/health/pharmacy,Sign In or Create Account,/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Rx Transfers,/rx/guest/transfer-prescriptions,7
+Explore the Pharmacy,/health/pharmacy,Rx Refills,/rx/guest-refill,7
+Explore the Pharmacy,/health/pharmacy,Order Status,/rx/tracker,7
+Explore the Pharmacy,/health/pharmacy,Online Payments,/health/pharmacy/faqs/online-payment,7
+Explore the Pharmacy,/health/pharmacy,Auto Refill,/rx/auto-refills,7
+Explore the Pharmacy,/health/pharmacy,Notifications & Reminders,/rx/patient-profile,7
+Explore the Pharmacy,/health/pharmacy,Medication Adherence,/health/pharmacy/medication-adherence-services,7
+Explore the Pharmacy,/health/pharmacy,Pharmacy FAQs,/health/pharmacy/faqs/prescriptions,7
+Explore the Pharmacy,/health/pharmacy,View All Healthcare Departments,/health,7
+Explore the Pharmacy,/health/pharmacy,Schedule an Appointment,/health/clinic/schedule-appointment,7
+Explore the Pharmacy,/health/pharmacy,Manage Your Prescriptions,/rx/landing-page?redirectUrl=/rx/dashboard,7
+Explore the Pharmacy,/health/pharmacy,Get Vaccinated,/health/clinic/vaccinations,7
+Explore the Pharmacy,/health/pharmacy,Find a Pharmacy,/stores/search?selectedStoreFilters=Pharmacy&hash=Pharmacy,7
+Explore the Pharmacy,/health/pharmacy,Shop Health & Wellness Items,/d/health,7

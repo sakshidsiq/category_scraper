@@ -1,0 +1,32 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/household,Kroger Brand,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Kroger&fulfillment=all,4
+Shop All,/d/household,Simple Truth,/pl/cleaning-and-household/26?pzn=relevance&taxonomyId=26&brandName=Simple%20Truth&fulfillment=all,4
+Shop All Our Brands,/b/ourbrands,Smart Way,/search?brandName=Smart%20Way&fulfillment=all&monet=false,4
+Shop All Our Brands,/b/ourbrands,Bakery Fresh,/search?brandName=Bakery%20Fresh%20Goodness&monet=false,4
+Shop All Our Brands,/b/ourbrands,Heritage Farm,/search?brandName=Heritage%20Farm&fulfillment=all&monet=false,4
+Shop All Our Brands,/b/ourbrands,Office Works,/search?brandName=Office%20Works&monet=false,4
+Shop All Our Brands,/b/ourbrands,HD Designs,/search?brandName=HD%20Designs&monet=false,4
+Shop All Our Brands,/b/ourbrands,Everyday Living,/search?brandName=Everyday%20Living&monet=false,4
+Shop All Our Brands,/b/ourbrands,Pretty Savvy,/search?monet=false&brandName=Pretty%20Savvy&fulfillment=all,4
+Kroger Brand,/b/kroger-brand,Frozen,/pl/frozen-foods/19?brandName=Kroger&monet=false&pzn=relevance,4
+Kroger Brand,/b/kroger-brand,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Kroger&query=kroger&monet=false&pzn=relevance,4
+Kroger Brand,/b/kroger-brand,Pantry,/pl/grocery/01?brandName=Kroger&query=Kroger&monet=false&pzn=relevance,4
+Kroger Brand,/b/kroger-brand,Meat & Seafood,/pl/meat-seafood/05?brandName=Kroger&query=kroger&monet=false&pzn=relevance,4
+Kroger Brand,/b/kroger-brand,Cleaning & Household Essentials,/pl/cleaning-and-household/26?brandName=Kroger&query=Kroger&monet=false&facets=true&pzn=relevance,4
+Kroger Mercado,/b/kroger-brand#mercado,Frozen,/pl/frozen-foods/19?brandName=Kroger&monet=false&pzn=relevance,4
+Kroger Mercado,/b/kroger-brand#mercado,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Kroger&query=kroger&monet=false&pzn=relevance,4
+Kroger Mercado,/b/kroger-brand#mercado,Pantry,/pl/grocery/01?brandName=Kroger&query=Kroger&monet=false&pzn=relevance,4
+Kroger Mercado,/b/kroger-brand#mercado,Meat & Seafood,/pl/meat-seafood/05?brandName=Kroger&query=kroger&monet=false&pzn=relevance,4
+Kroger Mercado,/b/kroger-brand#mercado,Cleaning & Household Essentials,/pl/cleaning-and-household/26?brandName=Kroger&query=Kroger&monet=false&facets=true&pzn=relevance,4
+Simple Truth®,/b/simple-truth,Meat & Seafood,/pl/meat-seafood/05?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,4
+Simple Truth®,/b/simple-truth,Produce,/pl/produce/06?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,4
+Simple Truth®,/b/simple-truth,Dairy & Eggs,/pl/dairy-eggs/02?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,4
+Simple Truth®,/b/simple-truth,Pantry,/pl/grocery/01?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,4
+Simple Truth®,/b/simple-truth,Frozen,/pl/frozen-foods/19?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false,4
+Simple Truth®,/b/simple-truth,Beverages,/pl/beverages/04?brandName=Simple%20Truth%7CSimple%20Truth%20Organic&monet=false&searchType=mktg%20attribute&pzn=relevance,4
+Private Selection®,/b/private-selection,Frozen,/pl/frozen-foods/19?brandName=Private%20Selection&monet=false&pzn=relevance,4
+Private Selection®,/b/private-selection,Meat & Seafood,/pl/meat-seafood/05?brandName=Private%20Selection&monet=false&pzn=relevance,4
+Private Selection®,/b/private-selection,Pasta & Sauce,/pl/pasta-pasta-sauces/01010?brandName=Private%20Selection&facets=true&monet=false,4
+Private Selection®,/b/private-selection,Bakery,/pl/bakery/14?brandName=Private%20Selection&searchType=false&facets=true&pzn=relevance,4
+Private Selection®,/b/private-selection,Deli,/pl/deli/13?brandName=Private%20Selection&monet=false&pzn=relevance,4
+Murray's Cheese,/b/murrays-cheese,Shop In-Store,/pl/specialtycheeses/13005?brandName=Murray%27s&facets=true,4

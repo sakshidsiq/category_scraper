@@ -1,0 +1,58 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/kitchen-dining,Kitchen Appliances,/pl/kitchen-appliances/28007?taxonomyId=28007&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Utensils & Gadgets,/pl/kitchen-tools-&-gadgets/28001?taxonomyId=28001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Bakeware,/pl/bakeware/28009?taxonomyId=28009&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Storage & Organization,/pl/kitchen-storage-organization/28002?taxonomyId=28002&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Cookware,/pl/cookware/28008?taxonomyId=28008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Cutlery & Knives,/pl/cutlery-knife-accessories/40002?query=knives&searchType=default_search&taxonomyID=40002&fulfillment=all,5
+Shop All,/d/kitchen-dining,Dinnerware,/pl/dinnerware/40001??taxonomyId=40001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Serveware,/pl/serveware/40006??taxonomyId=40006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Glassware & Drinkware,/pl/glassware-&-drinkware/40003??taxonomyId=40003&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Barware,/pl/wine-and-bar-essentials/40008??taxonomyId=40008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Flatware,/pl/flatware/40005?taxonomyId=40005&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Kitchen Textiles,/pl/kitchen-&-table-linens/28006?taxonomyId=28006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Water Filtration,/pl/water-and-filters/28019?taxonomyId=28019&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Thermal & Sports Bottles,/pl/thermal-&-water-bottles/40004?taxonomyId=40004&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Coffee Makers,/pl/coffeemakers/2800700009?taxonomyId=2800700009&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Blenders,/pl/blenders/2800700002?taxonomyId=2800700002&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Air Fryers,/pl/fryers/2800700006?taxonomyId=2800700006&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Slow Cookers,/pl/slowcookers/2800700001?taxonomyId=2800700001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Griddles & Waffle Makers,/pl/electricgriddles-&-waffle-makers/2800700005?taxonomyId=2800700005&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/kitchen-dining,Microwaves,/pl/microwaves/2800700008?taxonomyId=2800700008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Hardware & Tools,/pl/hand-tools/33004?taxonomyId=33004&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,School & Office Supplies,/pl/school-%20-offce/35?taxonomyId=35&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Candles,/pl/candles-%26-home-fragrances/32001?taxonomyId=32001&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Home Decor,/pl/home-decor/32?taxonomyId=32&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Bath,/pl/bath/37?taxonomyId=37&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Storage & Organization,/pl/storage-solutions/39005?taxonomyId=39005&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/home-electronics,Automotive,/pl/automotive/15043?taxonomyId=15043&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/electronics,Headphones,/pl/headphone-searbuds-headsets/2900300001?facets=true&pzn=relevance&taxonomyId=2900300001&fulfillment=all ,5
+Shop All,/d/electronics,Computer Supplies & Accessories,/pl/computersupplies-accessories/29005?facets=true&pzn=relevance,5
+Shop All,/d/electronics,Phones, /pl/phones/2900200005?facets=true&pzn=relevance&taxonomyId=2900200005&fulfillment=all,5
+Shop All,/d/electronics,Cell Accessories,/pl/accessories/2900200009?facets=true&pzn=relevance&taxonomyId=2900200009&fulfillment=all,5
+Shop All,/d/electronics,Printer & Supplies,/pl/printerssupplies/29006?facets=true&pzn=relevance,5
+Shop All,/d/patio-grilling,Firewood & Fire Starters,/search?keyword=FirewoodFireStartersIconENT&query=FirewoodFireStartersIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/patio-grilling,Grill Accessories,/pl/grill-accessories/2400100006?taxonomyId=2400100006&fulfillment=all,5
+Shop All,/d/patio-grilling,Outdoor Cookware,/search?keyword=OutdoorCookwareIconENT&query=OutdoorCookwareIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/patio-grilling,"Seeds, Soils & Garden Essentials",/pl/landscaping-lawncare/2400200006?taxonomyId=2400200006&fulfillment=all,5
+Shop All,/d/patio-grilling,Fuel,/search?keyword=GrillingFuelIconENT&query=GrillingFuelIconENT&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Building Blocks & Sets,/pl/building-blocks-sets/2500500002?pzn=relevance&taxonomyId=2500500002&fulfillment=all,5
+Shop All,/d/toys,"Creative Toys, Crafts & Activities",/pl/craft-kits/2500500001?taxonomyId=2500500001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Vehicles & Remote Control,/pl/vehicles-&-remote-control/25008?taxonomyId=25008&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Dolls & Accessories,/pl/dolls-&-accessories/25004?taxonomyId=25004&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Stuffed Animals & Plush,/pl/stuffed-animals-%20-plush/2500400003?pzn=relevance&taxonomyId=2500400003&fulfillment=all,5
+Shop All,/d/toys,Games & Puzzles,/pl/games-&-puzzles/25001?taxonomyId=25001&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Action Figures & Sets,/pl/action-figures/2500200001?pzn=relevance&taxonomyId=2500200001&fulfillment=all,5
+Shop All,/d/toys,Learning & Educational,/pl/learning-%20-education/25005?pzn=relevance&taxonomyId=25005&fulfillment=all,5
+Shop All,/d/toys,Babies,/search?keyword=ToysShopAge0to24&query=ToysShopAge0to24&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Toddlers,/search?keyword=ToysShopAge2to4&query=ToysShopAge2to4&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Little Kids,/search?keyword=ToysShopAge5to7&query=ToysShopAge5to7&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Big Kids,/search?keyword=ToysShopAge8to10&query=ToysShopAge8to10&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Teens,/search?keyword=ToysShopAge10plus&query=ToysShopAge10plus&searchType=mktg%20attribute&monet=TRUE&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,LEGO,/search?keyword=ShopByLicenseLEGO&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Hot Wheels,/search?keyword=ShopByLicenseHotWheels&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Barbie,/search?keyword=ShopByLicenseBarbie&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Play-Doh,/search?keyword=ShopPlayDohCompoundSand&query=ShopPlayDohCompoundSand&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Disney,/search?keyword=ShopByLicenseDisneyPrincess&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Star Wars,/search?keyword=ShopByLicenseStarWars&query=&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/toys,Squishmallow,/search?keyword=ShopSquishmallowTyBeanie&query=ShopSquishmallowTyBeanie&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5

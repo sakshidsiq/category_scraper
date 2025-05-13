@@ -1,0 +1,54 @@
+parent_category,parent_category_link,category,category_link,level
+Shop All,/d/international,Latin & Mexican,/d/international-latin-mexican,5
+Shop All,/d/international,Asian American & Pacific Islander,/d/international-asian,5
+Shop All,/d/international,Mediterranean & European,/search?keyword=2022InternationalMediandEuro&query=2022InternationalMediandEuro&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/international,Kosher,/search?query=kosherfoods&monet=false&keyword=kosherfoods&searchType=mktg%20attribute&pzn=relevance,5
+Latin American & Mexican,/d/international-latin-mexican,Pantry Staples,/pl/Pantry/58002?taxonomyId=58002&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Meat & Seafood,/pl/Meat-Seafood/58008?taxonomyId=58008&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Fresh Produce,/pl/Fruits-Vegetables/58010?taxonomyId=58010&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,"Salsas, Sauces & Seasonings",/pl/Salsa-Sauces-Dips/58003?taxonomyId=58003&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Tortillas & Shells,/pl/TortillasTaco-Shells-Tostadas/58001?taxonomyId=58001&monet=false&fulfilment=all,5
+Latin American & Mexican,/d/international-latin-mexican,Huachinango Tostadas,/r/huachinango-tostadas-crunchy-corn-tortillas-topped-with-red-snapper-recipe/5d6fdfdd9da07c672f797e55,5
+Latin American & Mexican,/d/international-latin-mexican,Ceviche Mixto,/r/ceviche-mixto-mixed-seafood-recipe/5d6ed33c9da07c58141dc38b,5
+Latin American & Mexican,/d/international-latin-mexican,Slow Cooker Pollo Guisado (Chicken Stew),/r/slow-cooker-pollo-guisado-chicken-stew-recipe/5d6ecafa9da07c58141dc31c,5
+Latin American & Mexican,/d/international-latin-mexican,Pupusas con Curtido,/r/pupusas-con-curtido-stuffed-corn-tortillas-recipe/5d7022059da07c461162e812,5
+Asian,/d/international-asian,Rice & Noodles,/search?query=AsianRiceNoodles&monet=false&keyword=AsianRiceNoodles&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Canned Fruit & Vegetables,/search?query=AsianCannedFruitsVeg&monet=false&keyword=AsianCannedFruitsVeg&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,"Sauces, Oils & Spices",/search?query=AsianSaucesOilsSpices&monet=false&keyword=AsianSaucesOilsSpices&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,"Meals, Bowls & Soup",/search?query=AsianMealsBowlsSoups&monet=false&keyword=AsianMealsBowlsSoups&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Snacks & Candy,/search?query=AsianSnacksCandy&monet=false&keyword=AsianSnacksCandy&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Beverages,/search?query=AsianBeverages&monet=false&keyword=AsianBeverages&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Meat & Seafood,/search?query=AsianMeatSeafood&keyword=AsianMeatSeafood&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Produce,/search?query=AsianProduce&keyword=AsianProduce&searchType=mktg%20attribute&pzn=relevance,5
+Asian,/d/international-asian,Vietnamese,/d/international-asian-vietnamese,5
+Asian,/d/international-asian,Korean,/d/international-asian-korean,5
+Asian,/d/international-asian,Thai,/d/international-asian-thai,5
+Asian,/d/international-asian,Indian,/d/international-asian-indian,5
+Asian,/d/international-asian,Filipino,/d/international-asian-filipino,5
+Shop All,/d/dairy,Cheese,/pl/cheese/02002?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Milk & Plant-Based Milk,/pl/milk-plant-based- milk/02001?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Yogurt,/pl/yogurt/02009?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Butter & Margarine,/pl/butter-margarine/02004?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Eggs & Egg Substitutes,/pl/eggs-egg-substitutes/02003?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Cream & Creamer,/pl/cream-creamer/02005,5
+Shop All,/d/dairy,Sour Cream & Dips,/pl/sour-cream-dips/02006?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Refrigerated Dough & Crust,/pl/refrigerated-dough-crust/02007?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Pudding & Gelatin,/pl/pudding-gelatin/02008?searchType=curated&pzn=relevance,5
+Shop All,/d/dairy,Simple Truth,/search?keyword=DairyOBSTO&query=DairyOBSTO&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Private Selection,/search?keyword=DiaryOBPS&query=DiaryOBPS&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Kroger,/search?keyword=DairyOBKroger&query=DairyOBKroger&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/dairy,Murray’s Cheese,:/search?keyword=DairyOBMurrays&query=DairyOBMurrays&searchType=mktg%20attribute&monet=curated&fulfillment=all&pzn=relevance,5
+Shop All,/d/frozen,Frozen Pizza,/pl/frozen-pizza/19003,5
+Shop All,/d/frozen,Ice Cream & Ice Pops,/pl/ice-cream-ice-pops/19002,5
+Shop All,/d/frozen,Frozen Meals & Sides,/pl/frozen-meals-sides/19004,5
+Shop All,/d/frozen,Frozen Appetizers & Snacks,/pl/frozen-appetizers-snacks/19006,5
+Shop All,/d/frozen,Frozen Vegetables,/pl/frozen-vegetables/19005,5
+Shop All,/d/frozen,Frozen Breakfast,/pl/frozen-breakfast/19007,5
+Shop All,/d/frozen,"Frozen Chicken, Meat & Seafood",/pl/frozen-meat-seafood-meatless/19008,5
+Shop All,/d/frozen,Frozen Potatoes & Onion Rings,/pl/frozen-potatoes-onion-rings/19010,5
+Shop All,/d/frozen,Frozen Bread,/pl/frozen-bread/19009,5
+Shop All,/d/frozen,Frozen Fruit,/pl/frozen-fruit/19012,5
+Shop All,/d/frozen,Frozen Desserts & Pies,/pl/frozen-desserts/19001,5
+Shop All,/d/frozen,Frozen Juice & Mixers,/pl/frozen-juice-mixers/19011,5
+Shop All,/d/frozen,Frozen International Foods,/pl/international-frozen-foods/19013,5
+Shop All,/d/frozen,Frozen Plant Based Meat,/pl/frozenmeat-alternatives/1900800005?taxonomyId=1900800005&fulfillment=all,5
