@@ -19,19 +19,24 @@ from multiprocessing import Process
 
 attributes = [
         {
-            "li": "div.css-1dbjc4n.r-1l7z4oj.r-12kfsgm > ul > li",
-            "name": "div.css-1dbjc4n.r-1l7z4oj.r-12kfsgm > ul > li > a > div",
-            "link": "a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1otgn73.r-1i6wzkk.r-lrvibr"
+            "li": "div.css-1dbjc4n.r-1l7z4oj.r-12kfsgm>ul>li",
+            "link": "a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1otgn73.r-1i6wzkk.r-lrvibr",
+            "name": "a>div"
         },
         {
-            "li": "div.contentful.link-groupAlignStart",
-            "name": "div.contentful.link-groupAlignStart > div > a > div > div",
-            "link": "div.contentful.link-groupAlignStart > div > a"
+            "li": ".css-1dbjc4n.r-13awgt0.r-b83rso.r-18kxxzh.r-1q142lx.r-1ugchlj.r-1777fci.r-117bsoe",
+            "link": "a",
+            "name": "a>div>div"
         },
         {
             "li": "div.css-1dbjc4n>ul>li>div.css-1dbjc4n.r-16lk18l.r-11g3r6m",
-            "name": "a.pulse-text-black.pulse-link.viz-nav-cta-text",
-            "link": "a.pulse-text-black.pulse-link.viz-nav-cta-text"
+            "link": "a.pulse-text-black.pulse-link.viz-nav-cta-text",
+            "name": "a.pulse-text-black.pulse-link.viz-nav-cta-text"
+        },
+        {
+            "li": "div.css-1dbjc4n.r-6koalj.r-13awgt0.r-1777fci",
+            "link": "a.pulse-text-black.pulse-link.viz-nav-cta-text",
+            "name": "a.pulse-text-black.pulse-link.viz-nav-cta-text"
         }
         # "identifier":[
         #     "._p13n-zg-nav-tree-all_style_zg-selected__1SfhQ",
@@ -93,8 +98,8 @@ def scrape_chunk(chunk_data, level, idx):
                     
                         for layout in attributes:
                             li_selector = layout["li"]
-                            name_selector = layout["name"]
                             link_selector = layout["link"]
+                            name_selector = layout["name"]
 
                             try:
                                 page.wait_for_selector(li_selector, timeout=30000)
@@ -108,18 +113,20 @@ def scrape_chunk(chunk_data, level, idx):
                             found_li_elements = True
 
                             for li in li_elements:
-                                page.wait_for_selector(name_selector, timeout = 5000)
-                                page.wait_for_selector(link_selector, timeout = 5000)
-                                name_el = li.query_selector(name_selector)
                                 link_el = li.query_selector(link_selector)
+                                name_el = li.query_selector(name_selector)
                                 data_type = None
+
+                                if li_selector == 'div.css-1dbjc4n.r-6koalj.r-13awgt0.r-1777fci':
+                                    if len(name_el.text_content().strip())>20:
+                                        continue #skip long paragraphs if found and being identified in data
 
                                 if name_el and link_el:
                                     name = name_el.text_content().strip()
                                     link = link_el.get_attribute("href")
                                     data_type = "brand_data" if 'brand' in link else "category_data"
-                                elif not link_el:
-                                    # name = li.text_content().strip()
+                                elif not link_el or not name_el:
+                                    name = li.text_content().strip()
                                     link = li.get_attribute("href")
                                 else:
                                     name = li.text_content().strip()
@@ -175,7 +182,7 @@ def scrape_chunk(chunk_data, level, idx):
 
 
 def run():
-        level = 0
+        level = 1
         while True:
             file_x=os.path.join(os.path.dirname(__file__), f'main/level{level}.csv')
             data = pd.read_csv(file_x)
